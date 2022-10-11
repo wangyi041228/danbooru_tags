@@ -1,8 +1,8 @@
 * Intro
-  * Visual characteristics
-    * Image composition and style
-      * Tag group:Artistic license
-          * Major changes
+* Visual characteristics
+  * Image composition and style
+    * Tag group:Artistic license
+        * Major changes
             * animalization
             * foodification
             * furrification
@@ -14,7 +14,7 @@
             * slimification
             * vehicalization
             * zombification
-          * Changes of the whole attire
+        * Changes of the whole attire
             * adapted costume
             * alternate costume
               * costume switch
@@ -24,7 +24,7 @@
               * costume combination
             * cosplay
               * cosplay
-          * Changes of specific clothes or accessories
+        * Changes of specific clothes or accessories
             * alternate headwear
             * alternate weapon
             * bespectacled
@@ -36,7 +36,7 @@
               * no headwear
             * no legwear
             * no mask
-          * Changes of body parts other than hair and eyes
+        * Changes of body parts other than hair and eyes
             * alternate breast size
             * alternate wings
             * alternate skin color
@@ -46,32 +46,32 @@
             * no tail
             * no wings
             * no animal ears
-          * Changes of hair
+        * Changes of hair
             * alternate hair color
             * alternate hairstyle
               * hair down
               * hair up
             * alternate hair length
-          * Changes of eyes
+        * Changes of eyes
             * alternate eye color
             * unusually open eyes
-          * Changes of personality and roles
+        * Changes of personality and roles
             * out of character
             * personality switch
             * role reversal
             * dark persona
             * light persona
-          * Changes of overall colors
+        * Changes of overall colors
             * alternate color
             * alternate element
             * palette swap
             * player 2
-          * Changes of age
+        * Changes of age
             * age comparison
             * age progression
             * aged down
             * aged up
-          * Other changes
+        * Other changes
             * character doll
             * fusion
             * genderswap
@@ -81,10 +81,10 @@
             * if they mated
               * if they mated
             * alternate universe
-          * See also
+        * See also
             * tag groups
-      * Tag group:Image composition
-          * Angle / Perspective / Depth
+    * Tag group:Image composition
+        * Angle / Perspective / Depth
             * atmospheric perspective
             * dutch angle
             * fisheye
@@ -98,7 +98,7 @@
             * sideways
             * upside-down
             * vanishing point
-          * Composition
+        * Composition
             * afterimage
             * border / framed
               * outside border
@@ -139,7 +139,7 @@
             * trim marks
             * zoom layer
               * projected inset
-          * Format
+        * Format
             * 3d
             * animated
               * animated png
@@ -211,7 +211,7 @@
               * wallpaper forced
               * widescreen
               * official wallpaper
-          * Subject matter
+        * Subject matter
             * cityscape
             * everyone
               * absolutely everyone
@@ -245,7 +245,7 @@
               * weapon focus
               * vehicle focus
               * wind chime focus
-            * Framing the body
+          * Framing the body
             * In order of increasing view
               * face
               * portrait
@@ -266,7 +266,7 @@
               * cropped shoulders
             * profile
               * group profile
-          * Styles
+        * Styles
             * abstract
             * art deco
             * art nouveau
@@ -288,7 +288,7 @@
               * *_(medium)
               * faux traditional media
             * unfinished
-          * Techniques
+        * Techniques
             * backlighting
             * blending
             * bloom
@@ -322,7 +322,7 @@
             * silhouette
             * speed lines
             * vignetting
-          * Traditional Japanese Patterns
+        * Traditional Japanese Patterns
             * asa no ha (pattern)
             * egasumi
             * genjiguruma
@@ -342,7 +342,7 @@
             * uchiwa design
             * uroko (pattern)
             * yagasuri
-          * Other Patterns
+        * Other Patterns
             * animal print
               * cow print
               * leopard print
@@ -360,7 +360,7 @@
             * plaid
             * polka dot
             * striped
-          * Flaws
+        * Flaws
             * Artifacts
               * gif artifacts
               * jpeg artifacts
@@ -412,21 +412,21 @@
               * third-party watermark
               * web address
             * extraction
-          * Background / Color
+        * Background / Color
             * Tag group:Backgrounds
             * Tag group:Colors
-          * See also
+        * See also
             * Tag Groups
             * bromide
-          * External links
+        * External links
             * Traditional Japanese Patterns
               * https://www.nippon.com/en/japan-data/h00478/traditional-japanese-patterns.html
               * https://olafolsson.com/blogs/blog-1/wagara-traditional-japanese-patterns-and-designs
               * https://kirikomade.com/blogs/our-fabrics/japanese-patterns-1
               * https://kirikomade.com/blogs/our-fabrics/japanese-patterns-2
-        * Tag group:Backgrounds
+      * Tag group:Backgrounds
           * About
-            * Colors
+          * Colors
               * aqua background
               * beige background
               * black background
@@ -443,13 +443,13 @@
               * tan background
               * white background
               * yellow background
-            * Multiple colors
+          * Multiple colors
               * gradient background
               * multicolored background
               * rainbow background
                 * heaven condition
               * two-tone background
-            * Patterns
+          * Patterns
               * argyle background
               * checkered background
               * food-themed background
@@ -464,7 +464,7 @@
               * strawberry background
               * striped background
               * sunburst background
-            * Other
+          * Other
               * background text
               * backlighting
               * blending
@@ -487,12 +487,12 @@
               * starry background
               * transparent background
               * zoom layer
-        * Tag group:Censorship
+      * Tag group:Censorship
           * About
-            * Main
+          * Main
               * censored
               * uncensored
-            * Visual forms of censorship
+          * Visual forms of censorship
               * bar censor
               * convenient censoring
                 * bubble filter
@@ -523,7 +523,7 @@
                 * treasure mark censor
               * out-of-frame censoring
               * one finger selfie challenge
-            * Fake or pointless censorship
+          * Fake or pointless censorship
               * fake censor
                 * censored food
                 * censored violence
@@ -531,13 +531,13 @@
                 * identity censor
               * pointless censoring
           * See also
-        * Tag group:Colors
-            * Dominant specific colors
+      * Tag group:Colors
+          * Dominant specific colors
               * 1. Includes monochrome images of that color
                 * greyscale
               * 2. Images where a large number of items in the image are that color
-        * Tag group:Focus tags
-            * Body parts
+      * Tag group:Focus tags
+          * Body parts
               * armpit focus
               * ass focus
               * back focus
@@ -549,10 +549,10 @@
               * navel focus
               * pectoral focus
               * thigh focus
-            * Gender
+          * Gender
               * male focus
               * other focus
-            * Objects
+          * Objects
               * animal focus
               * book focus
               * cloud focus
@@ -562,14 +562,14 @@
                 * tank focus
               * weapon focus
               * wind chime focus
-            * Other
+          * Other
               * solo focus
               * text focus
-            * See also
+          * See also
               * soft focus — A deliberate camera lens flaw effect.
               * Tag group:colors
-        * Tag group:Prints
-            * Patterns
+      * Tag group:Prints
+          * Patterns
               * Argyle
               * Asa No Ha
               * Camouflage
@@ -591,10 +591,10 @@
                 * Tiger stripes
                 * Double vertical stripe
                 * Invasion stripes
-        * List of style parodies
+      * List of style parodies
           * Intro
-            * General style parodies
-              * By Decade
+          * General style parodies
+            * By Decade
               * retro artstyle
                 * 1920s
                 * 1930s
@@ -605,20 +605,20 @@
                 * 1980s
                 * 1990s
                 * 2000s
-              * By Design
+            * By Design
               * Animification
               * Art Nouveau
               * Pinup
               * Toon
                 * Cartoonized
               * Western Comics
-              * By Copyright
+            * By Copyright
               * Bikkuriman
               * Friday Night Funkin'
               * Granblue Fantasy
               * Pokemon RGBY
-            * Artist styles
-              * A
+          * Artist styles
+            * A
               * Aaron McGruder (Boondocks)
               * AC-bu (Bobunemimimmi)
               * Adenine
@@ -639,7 +639,7 @@
               * Asanagi
               * Aya Shachou
               * Azuma Kiyohiko (Yotsubato!)
-              * B
+            * B
               * Belko
               * Bil Keane (Family Circus)
               * Bill Watterson (Calvin & Hobbes)
@@ -647,7 +647,7 @@
               * Bob (biyonbiyon)
               * Bryan Lee O'Malley (Scott Pilgrim)
               * Buriki
-              * C
+            * C
               * Cathy Guisewite (Cathy)
               * Charles Schulz (Peanuts)
               * Chester Gould (Dick Tracy)
@@ -655,22 +655,22 @@
               * Cheken
               * Clamp (circle) (Cardcaptor Sakura, Code Geass, Magic Knight Rayearth)
               * Clay Bennett (Political cartoons)
-              * D
+            * D
               * David Marquez
               * Dei Shirou
               * Desaku
               * Domotolain
-              * E
+            * E
               * Edward Gorey (The Gashlycrumb Tinies)
               * Efe
               * Eho (ICBM)
               * Ernie Bushmiller (Nancy)
-              * F
+            * F
               * Fujiko F Fujio (Doraemon)
               * Fujita Kazuhiro
               * Fukumoto Nobuyuki (Kaiji, Akagi)
               * Fukuyama Keiko
-              * G
+            * G
               * Gensou Yakyoku
               * George Akiyama (Haguregumo)
               * GYARI
@@ -680,7 +680,7 @@
               * Guweiz
               * Gustav Klimt (Symbolism art)
               * Gusu
-              * H
+            * H
               * Hara Tetsuo (Hokuto no Ken)
               * Harada Takehito (Disgaea)
               * Harukawa Moe
@@ -694,7 +694,7 @@
               * Horiguchi Yukiko (K-On! anime)
               * Horikoshi Kouhei (Boku no Hero Academia)
               * HUKE (Black★Rock Shooter, Steins;Gate)
-              * I
+            * I
               * Ideolo
               * Ilya Kuvshinov
               * Imizu (Nitro Unknown)
@@ -707,13 +707,13 @@
               * Itou Ikuko (Bishoujo Senshi Sailor Moon, Mahou Tsukai Tai!, Princess Tutu)
               * Itou Junji
               * Itou Noiji (Shakugan no Shana, Suzumiya Haruhi no Yuuutsu)
-              * J
+            * J
               * Jack Kirby (Fantastic Four, Captain America)
               * Jeffrey Mangiat (Transformers)
               * Jigoku no Misawa
               * Jim Davis (Garfield)
               * Jiroo
-              * K
+            * K
               * Kakifly (K-On!)
               * Kantoku
               * Katahira Masashi
@@ -737,9 +737,9 @@
               * Kuri Giepi
               * Kurumada Masami (Saint Seiya)
               * Kyousaru
-              * L
+            * L
               * Lynn Johnston (For Better or For Worse)
-              * M
+            * M
               * Man Gatarou
               * Masara
               * Masuda Kousuke
@@ -758,7 +758,7 @@
               * Morino Hon
               * Murakami Teruaki
               * Murata Yuusuke (One-Punch Man manga)
-              * N
+            * N
               * Nagai Gou (Devilman, Cutie Honey, Mazinger Z)
               * Nagano Mamoru (Five Star Stories)
               * Namori (Yuru Yuri)
@@ -767,7 +767,7 @@
               * Nishimura Kinu
               * Nomura Tetsuya
               * Noujou Jun'ichi (Naki no Ryuu)
-              * O
+            * O
               * O-life Japan
               * Obata Takeshi (Death Note)
               * Oda Eiichirou (One Piece)
@@ -785,12 +785,12 @@
               * Ore to Umi
               * Oro (Zetsubou Girl)
               * Ourai Noriyoshi (Godzilla series posters)
-              * R
+            * R
               * Raymond Briggs
               * Rikona
               * Riyo (lyomsnpmp) (Manga de Wakaru! FGO)
               * Rob Liefeld (New Mutants)
-              * S
+            * S
               * Sadamoto Yoshiyuki (Neon Genesis Evangelion)
               * Sag
               * Saigan Ryouhei
@@ -822,7 +822,7 @@
               * Sugawara Kuniyuki
               * Sugimori Ken (Pokemon)
               * Syslila
-              * T
+            * T
               * Tadashi
               * Takaharu
               * Takahashi Akira Bishoujo Senshi Sailor Moon Crystal season 3, Suite Precure, Dokidoki! Precure)
@@ -846,7 +846,7 @@
               * Tsuki Wani
               * Tsukioka Tsukiho
               * Tsunamayo
-              * U
+            * U
               * Uda Tetla
               * Ueda Hajime
               * Ueda Masashi
@@ -856,15 +856,15 @@
               * Usui Yoshito (Crayon Shin-chan)
               * Utagawa Kuniyoshi (Nihonga)
               * Urushihara Satoshi (Langrisser, Growlanser, Legend of Lemnear)
-              * V
+            * V
               * Vanripper (Helltaker)
               * Vincent van Gogh (Post-Impressionism art)
-              * W
+            * W
               * Walfie
               * Wiley Miller (Non Sequitur)
               * William-Adolphe Bouguereau (Academic art)
               * Wool (Miwol)
-              * Y
+            * Y
               * Yamakawa Jun'ichi (Kuso Miso Technique)
               * Yamamoto Satoshi (Pokemon Adventures)
               * Yamoto
@@ -879,16 +879,16 @@
               * Yutarou
               * Yuzuna99
               * (ysy)s
-              * Z
+            * Z
               * ZUN (Touhou)
           * Other styles
-            * See also
+          * See also
               * style parody
               * Tag Group:Image Composition
               * Tag Groups
               * List of meta-wikis
-      * Tag group:Text
-          * Image metadata
+    * Tag group:Text
+        * Image metadata
             * Artist name
             * Character name
             * Circle name
@@ -906,7 +906,7 @@
             * Watermark
               * Web address
             * Weapon name
-          * Misc
+        * Misc
             * Background text
             * Backwards text
             * Body Writing
@@ -923,13 +923,13 @@
             * Text-only page
             * Textless version
             * Wall of text
-            * Literary devices
+          * Literary devices
             * Alliteration
             * Poem
               * Haiku
             * Profanity
             * Rhyme
-          * Specific pieces of text
+        * Specific pieces of text
             * A (the interjection "ah!")
             * Get (or "ゲット")
             * H (the letter "H")
@@ -947,10 +947,10 @@
             * !!
             * !?
               * tag group:phrases
-          * Actions
+        * Actions
             * Reading
             * Writing
-          * Languages
+        * Languages
             * Chinese text (Simplified)
               * Bopomofo text
               * Cantonese text
@@ -1074,12 +1074,12 @@
             * Yoruba text
             * Zentlardy
             * Zulu text
-            * Errors
+          * Errors
             * Ranguage
               * Engrish text
             * Mojibake text
             * Typo
-            * Translation
+          * Translation
             * Alternate language
             * Check translation
             * Hard translated
@@ -1088,7 +1088,7 @@
             * Poorly translated
             * Translated
             * Translation request
-            * Other
+          * Other
             * Ciphertext
             * Faux text
               * Faux Cyrillic
@@ -1099,11 +1099,11 @@
               * Bilingual
               * Multilingual
             * Fake text
-          * Related tag groups
+        * Related tag groups
             * Tag group:Symbols
-      * Tag group:Symbols
-          * Geometric shapes
-            * Two-dimensional shapes
+    * Tag group:Symbols
+        * Geometric shapes
+          * Two-dimensional shapes
             * Circle // ○
             * Crescent // ☾
             * Arrow // →
@@ -1120,9 +1120,9 @@
               * Hexagram
               * Heptagram
               * Octagram
-      * Tag group:Year tags
+    * Tag group:Year tags
         * Intro
-          * List of year tags:
+        * List of year tags:
             * 2023
             * 2022
             * 2021
@@ -1165,7 +1165,7 @@
             * 1984_(year)
             * 1983
             * 1982
-          * List of months (in Georgian/Julian calendar order)
+        * List of months (in Georgian/Julian calendar order)
             * January
             * February
             * March
@@ -1178,9 +1178,9 @@
             * October
             * November
             * December
-    * Body
-      * Tag group:Body parts
-          * Head
+  * Body
+    * Tag group:Body parts
+        * Head
             * ear focus
               * tag group:ears tags
             * tag group:eyes tags
@@ -1199,7 +1199,7 @@
             * nape
             * tongue
               * long tongue
-          * Torso
+        * Torso
             * areolae
               * large areolae
               * glands of montgomery
@@ -1268,7 +1268,7 @@
               * no testicles
             * uterus
               * cervix
-          * Appendages
+        * Appendages
             * arms
               * thick arms
               * biceps
@@ -1297,13 +1297,13 @@
               * ninja toes
             * wings
               * tag group:wings
-          * See also
+        * See also
             * tag groups
             * tag group:posture
             * tag group:sexual positions
             * tag group:skin color
-        * Tag group:Ass
-            * Anatomy of the ass
+      * Tag group:Ass
+          * Anatomy of the ass
               * ass
                 * ass expansion
                 * bad ass
@@ -1312,13 +1312,13 @@
                 * spread ass
               * butt crack
               * wedgie
-            * Anatomy of the anus
+          * Anatomy of the anus
               * anal hair
               * anus
                 * no anus
                 * spread anus
                 * tiny anus
-            * Ass and hands
+          * Ass and hands
               * anal fingering
               * anal fisting
               * ass grab
@@ -1327,14 +1327,14 @@
               * covering ass
               * groping
               * hand on own ass
-            * Ass and heads
+          * Ass and heads
               * ass biting
               * smelling ass
               * head on ass
-            * Ass with cum
+          * Ass with cum
               * cum in ass
               * cum on ass
-            * Misc
+          * Misc
               * anal
               * anal hook
               * ass-to-ass
@@ -1345,13 +1345,13 @@
               * ass shake
               * ass visible through thighs
               * x anus
-            * See also
+          * See also
               * tag groups
               * tag group:pussy
-        * Tag group:Breasts tags
-            * Main
+      * Tag group:Breasts tags
+          * Main
               * breasts
-            * Breast sizes
+          * Breast sizes
               * flat chest
               * small breasts
               * medium breasts
@@ -1374,7 +1374,7 @@
               * inconvenient breasts
               * oversized breast cup
               * weighing breasts
-            * Visibility
+          * Visibility
               * areolae
                 * areola slip
                 * dark areolae
@@ -1401,7 +1401,7 @@
               * breasts out
               * impossible shirt
               * one breast out
-            * Descriptions of breasts
+          * Descriptions of breasts
               * asymmetrical breasts
               * bouncing breasts
               * breasts apart
@@ -1412,7 +1412,7 @@
               * unaligned breasts
               * veiny breasts
               * pointy breasts
-            * Clothes for breasts
+          * Clothes for breasts
               * bandeau 
               * bikini
                 * bikini bottom only
@@ -1440,7 +1440,7 @@
               * sarashi
               * taut shirt
               * underbust
-            * Breasts and other parts of the body
+          * Breasts and other parts of the body
               * paizuri (penis between breasts)
                 * cooperative paizuri
               * naizuri
@@ -1505,7 +1505,7 @@
               * asymmetrical docking
               * symmetrical docking
               * nipple-to-nipple
-            * Misc
+          * Misc
               * alternate breast size
               * between breasts
                 * card between breasts
@@ -1539,19 +1539,19 @@
                 * object on pectorals
               * oppai challenge
               * pool #4244 Powerful Breasts
-            * Related tags
+          * Related tags
               * trap
                 * reverse trap
-            * See also
+          * See also
               * tag groups
               * tag group:body parts
               * tag group:attire
               * tag group:sexual attire
               * tag group:nudity
-        * Tag group:Face tags
-            * Main
+      * Tag group:Face tags
+          * Main
               * expressions
-            * Emotions
+          * Emotions
               * angry
                 * anger vein
                 * annoyed
@@ -1613,7 +1613,7 @@
               * v-shaped eyebrows
               * wince
               * upset
-            * Sexual
+          * Sexual
               * afterglow
               * ahegao (fucked silly / sexual ecstasy)
               * aroused
@@ -1622,7 +1622,7 @@
               * naughty face
               * seductive smile
               * torogao (sexual ecstasy, albeit less extreme than ahegao)
-            * Smile
+          * Smile
               * crazy smile
               * evil smile
               * fingersmile
@@ -1634,7 +1634,7 @@
               * sad smile
               * seductive smile
               * stifled laugh
-            * Smug
+          * Smug
               * doyagao (self-satisfaction / smugness)
               * smirk
               * smug
@@ -1651,7 +1651,7 @@
               * trembling
               * wavy mouth
               * upset
-            * Emotes
+          * Emotes
               * ;)
               * :d [ :D ]
                 * ;d
@@ -1707,7 +1707,7 @@
                 * =v=
               * <o>_<o>
               * <|>_<|>
-            * Drawing styles
+          * Drawing styles
               * constricted pupils
               * cross-eyed
               * dot mouth
@@ -1720,7 +1720,7 @@
               * split mouth
               * wavy mouth
               * wide-eyed
-            * Misc
+          * Misc
               * awesome face
               * face of the people who sank all their money into the fx
               * foodgasm
@@ -1731,20 +1731,20 @@
               * smiley face
               * troll face
               * uso da
-            * Looking at...
+          * Looking at...
               * food awe
               * breast awe
               * penis awe
               * staring
-            * See Also
+          * See Also
               * tag group:eyes tags
               * pool #630 - Pixiv - Expression 35
               * pool #965 - Pixiv - Facial Expression Training
               * pool #2398 - Pixiv - Practice Hurt Expressions of your Wife
               * pool #2265 - Reaction Faces
               * pool #719 - Slightly naughty expressions practice
-        * Tag group:Ears tags
-            * Animal ears
+      * Tag group:Ears tags
+          * Animal ears
               * animal ears
                 * bat ears
                 * bear ears
@@ -1772,20 +1772,20 @@
                 * wolf ears
               * fake animal ears
               * hair ears
-            * Other ears
+          * Other ears
               * pointy ears
                 * long pointy ears
               * robot ears
-            * Number of ears
+          * Number of ears
               * extra ears
-            * Objects for the ears; or, objects with ears
+          * Objects for the ears; or, objects with ears
               * ear piercing
               * ear protection
               * earrings
                 * single earring
               * headphones
               * behind ear
-            * Misc
+          * Misc
               * covering ears
               * ear biting
               * ear grab
@@ -1794,14 +1794,14 @@
               * hand on ear
               * holding ears
               * licking ear
-            * See also
+          * See also
               * tag groups
               * tag group:body parts
-        * Tag group:Hair
-            * Hair styles and colors
+      * Tag group:Hair
+          * Hair styles and colors
               * tag group:hair color
               * tag group:hair styles
-            * Actions
+          * Actions
               * grabbing another's hair
               * hairdressing
                 * cutting hair
@@ -1818,7 +1818,7 @@
                 * hair twirling
               * hair sex
               * whipping hair
-            * Objects
+          * Objects
               * hair brush
               * hair dryer
               * shampoo
@@ -1841,13 +1841,13 @@
               * headband
               * scrunchie
               * wig
-            * Facial hair
+          * Facial hair
               * facial hair
                 * beard
                 * goatee
                 * mustache
                 * stubble
-            * Fantasy
+          * Fantasy
               * Liquid Hair
               * Cloud Hair
               * Chocolate Hair
@@ -1858,13 +1858,13 @@
                 * helicopter hair
                 * tentacle hair
                 * living hair
-            * Misc
+          * Misc
               * detached hair or severed hair
               * floating hair
               * hair spread out
               * wet hair
-        * Tag group:Hands
-            * Where are the hands
+      * Tag group:Hands
+          * Where are the hands
               * hand on ear
               * adjusting eyewear
               * hand on another's head / hand on own head
@@ -1895,25 +1895,25 @@
               * hands on feet
               * holding hands / hand on another's hand
               * hand in pocket / hands in pockets 
-            * Strange Hands
+          * Strange Hands
               * hand mouth
-            * See also
+          * See also
               * tag group:gestures
               * tag group:posture
-        * Tag group:Neck and neckwear
-            * Anatomy of the neck
+      * Tag group:Neck and neckwear
+          * Anatomy of the neck
               * collarbone
               * nape
               * neck
                 * long neck
-            * Actions / Posture
+          * Actions / Posture
               * arm around neck / arms around neck
               * hand on another's neck
               * hand on own neck
               * neck biting
               * necking
               * kissing neck
-            * Attire / Accessories / Objects
+          * Attire / Accessories / Objects
               * ascot
               * bolo tie
               * bowtie
@@ -1947,7 +1947,7 @@
               * scarf
               * stole
               * cross tie
-            * Neckwear styles
+          * Neckwear styles
               * aqua neckwear
               * black neckwear
               * blue neckwear
@@ -1963,7 +1963,7 @@
               * checkered neckwear
               * plaid neckwear
               * striped neckwear
-            * Collar (of shirts, dresses, etc.)
+          * Collar (of shirts, dresses, etc.)
               * collar grab
               * collar tug
                 * adjusting collar
@@ -1978,8 +1978,8 @@
                 * sleeveless turtleneck
               * v-neck
               * wing collar
-        * Tag group:Posture
-            * Basic positions
+      * Tag group:Posture
+          * Basic positions
               * kneeling
                 * one knee
               * lying
@@ -2005,14 +2005,14 @@
                 * crossed legs
                 * legs apart
                 * standing on one leg
-            * Movement of the body
+          * Movement of the body
               * balancing
               * crawling
               * jumping
               * running
               * walking
                 * wallwalking
-            * Other postures potentially involving the whole body
+          * Other postures potentially involving the whole body
               * all fours
                 * top-down bottom-up
                 * prostration
@@ -2032,21 +2032,21 @@
                 * headstand
               * yoga
                 * scorpion pose
-            * Other rest points of the body
+          * Other rest points of the body
               * arm support
               * head rest
-            * Posture of the head
+          * Posture of the head
               * See tag group:eyes tags for the direction of a character's gaze, including looking at viewer, looking to the side, looking afar, etc.
               * head down
               * head tilt
-            * Torso inclination
+          * Torso inclination
               * arched back
               * bent over
               * leaning back
               * leaning forward
               * slouching
               * twisted torso
-            * Arms
+          * Arms
               * arm behind back / arms behind back
               * arm up
                 * arm behind head
@@ -2077,9 +2077,9 @@
               * own hands clasped
               * own hands together
               * star hands
-            * Hips
+          * Hips
               * contrapposto
-            * Legs
+          * Legs
               * crossed ankles
               * folded
               * leg up
@@ -2100,7 +2100,7 @@
               * plantar flexion
               * tiptoes
                 * tiptoe kiss
-            * Posture of at least two characters
+          * Posture of at least two characters
               * back-to-back
               * cheek-to-cheek
               * eye contact
@@ -2108,10 +2108,10 @@
               * heads together
               * holding hands
               * leg lock
-            * Posture of at least three characters
+          * Posture of at least three characters
               * circle formation
               * group hug
-            * Hugging
+          * Hugging
               * hug
               * hugging own legs
               * object hug
@@ -2120,7 +2120,7 @@
               * arm hug
               * hug from behind
               * waist hug
-            * Carrying someone
+          * Carrying someone
               * baby carry
               * carrying
                 * carried breast rest
@@ -2133,7 +2133,7 @@
                 * shoulder carry
                 * sitting on shoulder
                 * standing on shoulder
-            * Poses
+          * Poses
               * animal pose
                 * bunny pose
                 * horns pose
@@ -2154,14 +2154,14 @@
               * victory pose
               * villain pose
               * zombie pose
-            * See Also
+          * See Also
               * tag groups
               * tag group:gestures
               * tag group:sexual positions
               * tag group:meme -> dances/poses
               * tag search pose
-        * Tag group:Pussy
-            * Anatomy of the pussy
+      * Tag group:Pussy
+          * Anatomy of the pussy
               * Clitoris
                 * Erect clitoris
               * Cleft of venus
@@ -2170,10 +2170,10 @@
               * Pubic hair
               * Pussy
                 * No pussy
-            * Pussy under clothes
+          * Pussy under clothes
               * Cameltoe
               * Spread pussy under clothes
-            * Hands on pussy
+          * Hands on pussy
               * Clitoris tweak
               * Covering crotch
               * Hand between legs
@@ -2181,25 +2181,25 @@
               * Tag group:Sex acts
                 * Fingering
                 * Masturbation
-        * Tag group:Shoulders
-            * Anatomy of shoulders
+      * Tag group:Shoulders
+          * Anatomy of shoulders
               * Broad shoulders
               * Nape
               * Shoulder blades
-            * Attire for shoulders
-              * Attire designed for shoulders
+          * Attire for shoulders
+            * Attire designed for shoulders
               * Epaulettes
               * Pauldrons
               * Puffy sleeves
               * Shoulder pads
-              * Other attire, on shoulders
+            * Other attire, on shoulders
               * Jacket on shoulders
               * Shirt on shoulders
-              * Exposed shoulders
+            * Exposed shoulders
               * Bare shoulders
               * Off shoulder
               * Strap slip
-              * Clothing physically designed to leave the shoulders bare
+            * Clothing physically designed to leave the shoulders bare
               * Off-shoulder shirt
               * Off-shoulder dress
               * Off-shoulder sweater
@@ -2223,43 +2223,43 @@
               * Single-shoulder shirt
               * Single-shoulder dress
               * Single-shoulder sweater
-            * Shoulders with something else
-              * Objects with shoulders
+          * Shoulders with something else
+            * Objects with shoulders
               * Towel around neck
               * Weapon over shoulder
                 * Sword over shoulder
-              * Hands / arms with shoulders
+            * Hands / arms with shoulders
               * Arm around neck
               * Arm on shoulder
               * Hand on shoulder
               * Hands on shoulder
               * Hands on shoulders
               * Shoulder massage
-              * People touching shoulders
+            * People touching shoulders
               * Carrying over shoulder
               * Fireman's carry
               * Piggyback
               * Shoulder carry
               * Standing on shoulder
-              * Animals with shoulders
+            * Animals with shoulders
               * Bird on shoulder
               * Cat on shoulder
-              * Misc
+            * Misc
               * Hair over shoulder
               * Over shoulder
               * Shoulder bag
-            * See also
+          * See also
               * Tag groups
               * Tag group:Body parts
               * List Of Meta-Wikis
-        * Tag group:Skin color
-            * Normal colors
+      * Tag group:Skin color
+          * Normal colors
               * Dark skin
               * Pale skin
               * Tan
                 * Tanlines
                 * Sun tattoo
-            * Abnormal colors
+          * Abnormal colors
               * Black skin
               * Blue skin
               * Green skin
@@ -2270,26 +2270,26 @@
               * Red skin
               * White skin
               * Yellow skin 
-            * Related
+          * Related
               * Colored skin
               * Shiny skin
               * Tag group:Colors
               * Tag group:Hair color
-        * Tag group:Tail
-            * Main
+      * Tag group:Tail
+          * Main
               * Tail
-            * Number of tails
+          * Number of tails
               * Multiple tails
               * No tail
-            * Types of tail
-              * Supernatural or fictional tails
+          * Types of tail
+            * Supernatural or fictional tails
               * Demon tail
               * Dragon tail
               * Ghost tail
               * Pikachu tail
-              * Elemental tails
+            * Elemental tails
               * Fiery tail
-              * Tails of mammals
+            * Tails of mammals
               * Bear tail
               * Rabbit tail
               * Cat tail
@@ -2308,26 +2308,26 @@
               * Squirrel tail
               * Tiger tail
               * Wolf tail
-              * Tails of other animals
+            * Tails of other animals
               * Fish tail
               * Scorpion tail
               * Snake tail
               * Tadpole tail
-            * Tails and objects
+          * Tails and objects
               * Tail bell
               * Tail bow
               * Tail ornament
               * Tail piercing
               * Tail ribbon
               * Tail ring
-            * Tails and sex
+          * Tails and sex
               * Anal tail
               * Butt plug tail
               * Penis tail
               * Tailjob
               * Tail masturbation
               * Tail rape
-            * Misc
+          * Misc
               * Fake tail
               * Heart tail
                 * Heart tail duo
@@ -2348,56 +2348,56 @@
               * Tail stand
               * Tail wagging
               * Tail wrap
-            * Things related to the word "tail" by etymology
+          * Things related to the word "tail" by etymology
               * Cat o' nine tails
               * Tag Group:Hair Styles (Ponytail, Twintails, etc.)
               * Tailcoat
               * Whale tail
           * See also
-        * Tag group:Wings
-            * Main
+      * Tag group:Wings
+          * Main
               * Wings
                 * Alternate wings
-            * Number of wings
+          * Number of wings
               * Multiple wings
               * No wings
               * Single wing
-            * Sizes of wings
+          * Sizes of wings
               * Large wings
               * mini wings
-            * Types of wings
-              * Wings of supernatural beings
+          * Types of wings
+            * Wings of supernatural beings
               * Angel wings
               * Demon wings
               * Dragon wings
               * Fairy wings
-              * Wings of insects
+            * Wings of insects
               * insect wings
                 * Butterfly wings
                 * ladybug wings
                 * moth wings
-              * Elemental wings
+            * Elemental wings
               * Bat wings
               * energy wings
               * Fiery wings
               * Ice wings
               * light hawk wings
               * liquid wings
-              * False wings
+            * False wings
               * artificial wings
               * Fake wings
-              * Other wings
+            * Other wings
               * Hair wings
               * Mechanical wings
               * metal wings
               * Plant wings
               * feathered wings
-            * Colors of wings
+          * Colors of wings
               * Black wings
               * Gradient wings
               * Red wings
               * white wings
-            * Where the wings are attached
+          * Where the wings are attached
               * Ankle wings
               * Detached wings
               * Head wings
@@ -2408,7 +2408,7 @@
               * winged hat
               * Winged helmet
               * Winged footwear
-            * Misc
+          * Misc
               * bloody wings
               * Bowed wings
               * Flapping
@@ -2421,11 +2421,11 @@
               * Wing umbrella
               * Wingjob
               * wing ribbon
-            * Things related to the word "wing" by etymology
+          * Things related to the word "wing" by etymology
               * Wing collar
           * See also
-      * Injury
-          * Visible signs of injury 
+    * Injury
+        * Visible signs of injury 
             * blood
               * bleeding
               * blood on bandages
@@ -2446,7 +2446,7 @@
             * severed limb
               * amputee
             * track marks
-          * Coverings and bindings
+        * Coverings and bindings
             * bandaid
               * bandaid on knee
               * bandaid on arm
@@ -2458,7 +2458,7 @@
             * eyepatch
             * sarashi
             * sling (medical)
-          * Medical service / Misc
+        * Medical service / Misc
             * Doctor
             * Nurse
             * Hospital
@@ -2471,10 +2471,10 @@
               * drugs
             * guro
             * organs
-    * Attire and body accessories
-      * Tag group:Attire
+  * Attire and body accessories
+    * Tag group:Attire
         * About
-          * Headwear and Headgear
+        * Headwear and Headgear
             * balaclava
             * crown
             * hair bow
@@ -2490,7 +2490,7 @@
             * tiara
             * veil
             * honggaitou
-          * Shirts and Topwear
+        * Shirts and Topwear
             * blouse
               * frilled shirt
               * sleeveless shirt
@@ -2554,7 +2554,7 @@
             * vest
               * sweater vest
               * waistcoat
-          * Pants and Bottomwear
+        * Pants and Bottomwear
             * bloomers
             * buruma
             * chaps
@@ -2591,10 +2591,10 @@
               * pleated skirt
               * suspender skirt
         * Legs and Feet
-        * Tag group:Dress
-            * Main
+      * Tag group:Dress
+          * Main
               * Dress
-            * Misc / Actions
+          * Misc / Actions
               * crinoline
               * dress flip
               * dress grab
@@ -2606,7 +2606,7 @@
               * tied dress
               * torn dress
               * wet dress
-            * Appearance and models of dresses
+          * Appearance and models of dresses
               * aqua dress
               * black dress
               * blue dress
@@ -2681,7 +2681,7 @@
               * tube dress
               * vietnamese dress
               * wedding dress
-            * Related tags
+          * Related tags
               * tag group:attire
                 * skirt
               * ass
@@ -2696,12 +2696,12 @@
                 * thighs
               * waist
                 * navel
-        * Tag group:Headwear
-            * Types
+      * Tag group:Headwear
+          * Types
               * crown
               * hat
               * helmet
-            * Colors
+          * Colors
               * black headwear
               * blue headwear
               * brown headwear
@@ -2713,7 +2713,7 @@
               * red headwear
               * white headwear
               * yellow headwear
-            * Hats
+          * Hats
               * baseball cap
               * budenovka
               * cabbie hat
@@ -2796,7 +2796,7 @@
                 * wolf hat
               * eggshell hat
               * pumpkin hat
-            * Helmets
+          * Helmets
               * adrian helmet
               * american football helmet
               * baseball helmet
@@ -2815,14 +2815,14 @@
               * stahlhelm
               * tank helmet
               * winged helmet
-            * Crowns
+          * Crowns
               * circlet
               * diadem
               * mian guan
               * mini crown
               * saishi
               * tiara
-            * Other
+          * Other
               * aviator cap
               * balaclava
               * bandana
@@ -2847,7 +2847,7 @@
                 * food on head
                 * panties on head
                 * traffic cone on head
-            * Non-specific styles
+          * Non-specific styles
               * checkered headwear
               * frilled hat
               * military hat
@@ -2857,7 +2857,7 @@
               * print headwear
               * school hat
               * straw hat
-            * Actions / states
+          * Actions / states
               * adjusting headwear
               * backwards hat
                 * sideways hat
@@ -2876,7 +2876,7 @@
               * no headwear
               * putting on headwear
               * tilted headwear
-            * Accessories
+          * Accessories
               * chin strap
               * hat bow
               * hat feather
@@ -2884,7 +2884,7 @@
               * hat ornament
               * hat ribbon
               * hat with ears
-            * Not headwear
+          * Not headwear
               * hair bow
               * hair ribbon
               * hairband
@@ -2896,12 +2896,12 @@
               * headdress
                 * maid headdress
               * veil
-            * See also
+          * See also
               * tag group:eyewear
               * tag group:attire
               * tag groups
-        * Tag group:Legwear
-            * Main tags / Legwear by height
+      * Tag group:Legwear
+          * Main tags / Legwear by height
               * socks
               * kneehighs (covers the feet and legs up to the knees)
               * over-kneehighs (covers the leg from the foot up to just above the knees)
@@ -2909,7 +2909,7 @@
               * pantyhose (covers from the waist to the toes)
               * leggings (like pantyhose, but doesn't cover the feet)
                 * detached leggings
-            * Additional Detail tags
+          * Additional Detail tags
               * aqua legwear
               * beige legwear
               * black legwear
@@ -2997,23 +2997,23 @@
               * taut legwear
               * torn legwear
               * wet legwear
-            * See also
+          * See also
               * thighband pantyhose
               * tag group:attire
-        * Tag group:Neck and neckwear
-            * Anatomy of the neck
+      * Tag group:Neck and neckwear
+          * Anatomy of the neck
               * collarbone
               * nape
               * neck
                 * long neck
-            * Actions / Posture
+          * Actions / Posture
               * arm around neck / arms around neck
               * hand on another's neck
               * hand on own neck
               * neck biting
               * necking
               * kissing neck
-            * Attire / Accessories / Objects
+          * Attire / Accessories / Objects
               * ascot
               * bolo tie
               * bowtie
@@ -3047,7 +3047,7 @@
               * scarf
               * stole
               * cross tie
-            * Neckwear styles
+          * Neckwear styles
               * aqua neckwear
               * black neckwear
               * blue neckwear
@@ -3063,7 +3063,7 @@
               * checkered neckwear
               * plaid neckwear
               * striped neckwear
-            * Collar (of shirts, dresses, etc.)
+          * Collar (of shirts, dresses, etc.)
               * collar grab
               * collar tug
                 * adjusting collar
@@ -3078,8 +3078,8 @@
                 * sleeveless turtleneck
               * v-neck
               * wing collar
-        * Tag group:Sexual attire
-            * Lingerie
+      * Tag group:Sexual attire
+          * Lingerie
               * Lingerie
                 * Babydoll
                 * Bodystocking
@@ -3104,14 +3104,14 @@
                 * Jockstrap
                 * Ball bra
                 * Penis sheath
-            * BDSM
+          * BDSM
               * Blindfold
               * Bodysuit
                 * Gimp suit
               * bondage outfit
               * Latex
               * Monoglove
-            * Exposure
+          * Exposure
               * Crotchless
                 * crotchless panties
                 * crotchless pants
@@ -3133,17 +3133,17 @@
               * reverse outfit
                 * reverse bikini armor
                 * reverse bunnysuit
-            * More / Miscellaneous
+          * More / Miscellaneous
               * anal ball wear
               * Maebari
               * Pasties
-            * Related tags
+          * Related tags
               * Tag group:Attire (publicly-worn clothes)
               * Tag group:Nudity (partial or complete nudity)
               * Tag group:Sex objects
-        * Tag group:Sleeves
-            * About
-              * Colors
+      * Tag group:Sleeves
+          * About
+            * Colors
               * aqua sleeves
               * black sleeves
               * blue sleeves
@@ -3156,28 +3156,28 @@
               * red sleeves
               * white sleeves
               * yellow sleeves
-              * Prints
+            * Prints
               * checkered sleeves
               * plaid sleeves
               * polka dot sleeves
               * striped sleeves
-              * Length
+            * Length
               * short sleeves
               * long sleeves
                 * sleeves past wrists
                 * sleeves past fingers
                 * sleeves past elbows
-              * Styled
+            * Styled
               * sleeves rolled up
               * sleeves pushed up
               * sleeves rolled up
-              * Trims
+            * Trims
               * feather-trimmed sleeves
               * frilled sleeves
               * fur-trimmed sleeves
               * lace-trimmed sleeves
               * ribbon-trimmed sleeves
-              * Styles
+            * Styles
               * uneven sleeves
               * bell sleeves
               * detached sleeves
@@ -3200,13 +3200,13 @@
                 * short over long sleeves
               * torn sleeves
               * wide sleeves
-              * Actions
+            * Actions
               * arm out of sleeve
               * hands in opposite sleeves
               * pinching sleeves
               * pinching sleeves
               * sleeve grab
-              * Lack thereof
+            * Lack thereof
               * sleeveless
               * sleeveless shirt
               * sleeveless dress
@@ -3216,13 +3216,13 @@
               * sleeveless kimono
               * sleeveless shirt
               * sleeveless turtleneck
-              * Miscellaneous
+            * Miscellaneous
               * nipple sleeves
               * no detached sleeves
               * single sleeve
               * sleeve cuffs
               * up sleeve
-            * See also
+          * See also
               * Tag Group:Attire
                 * Tag Group:Dress
               * blouse
@@ -3233,8 +3233,8 @@
               * shirt
               * sweater
               * turtleneck
-        * Swimsuit
-            * Related tags
+      * Swimsuit
+          * Related tags
               * bikini
                 * bikini skirt
                 * checkered bikini
@@ -3303,13 +3303,13 @@
               * torn swimsuit
               * sarong
           * See also
-      * Tag group:Eyewear
-          * Main
+    * Tag group:Eyewear
+        * Main
             * glasses
             * monocle
             * sunglasses
             * goggles
-          * Eyewear
+        * Eyewear
             * aqua-framed eyewear
             * black-framed eyewear
             * blue-framed eyewear
@@ -3355,7 +3355,7 @@
             * looking over eyewear
             * no eyewear
             * removing eyewear
-          * Glasses
+        * Glasses
             * aviator sunglasses
             * 3d glasses
             * coke-bottle glasses
@@ -3377,22 +3377,22 @@
             * x-ray glasses
             * scouter
             * bespectacled
-          * Sunglasses
+        * Sunglasses
             * aviator sunglasses
             * kamina shades
             * simon shades
-          * See also
+        * See also
             * tag group:attire
-      * Tag group:Nudity
-          * Complete (or mostly complete) nudity
+    * Tag group:Nudity
+        * Complete (or mostly complete) nudity
             * completely nude
             * nude
-          * Nudity by gender
+        * Nudity by gender
             * CFNF - clothed female, nude female
             * CFNM - clothed female, nude male
             * CMNF - clothed male, nude female
             * CMNM - clothed male, nude male
-          * Partial nudity
+        * Partial nudity
             * clothing aside
             * clothes down
             * open clothes
@@ -3545,12 +3545,12 @@
             * naked tabard
             * naked towel
             * underwear only
-          * Naughty points of view
+        * Naughty points of view
             * downblouse
             * downpants
             * pantyshot
             * upskirt
-          * Dressing / Covering body parts
+        * Dressing / Covering body parts
             * covering
               * covering anus
               * covering ass
@@ -3558,7 +3558,7 @@
               * covering crotch
               * covering head
               * nude cover
-          * Touching clothes
+        * Touching clothes
             * adjusting clothes
             * clothes grab
               * apron grab
@@ -3570,17 +3570,17 @@
             * shirt tug
             * skirt tug
             * wringing clothes
-          * Misc / more
+        * Misc / more
             * nude modeling
             * tan
             * tanlines
-          * See also
+        * See also
             * list of meta-wikis
-    * Sex
-      * Tag group:Sex acts
-          * Before sex
+  * Sex
+    * Tag group:Sex acts
+        * Before sex
             * presenting
-          * Stimulation
+        * Stimulation
             * footjob
               * double footjob
               * implied footjob
@@ -3631,14 +3631,14 @@
               * sitting on face
               * testicle sucking
               * licking testicle
-          * Group sex
+        * Group sex
             * group sex
-        * Tag group:Sexual positions
+      * Tag group:Sexual positions
     * (For intimate attire, see "Attire" section above)
     * (For sexual objects, see "Objects" section below)
-    * Objects
-      * Computer
-          * Operating systems
+  * Objects
+    * Computer
+        * Operating systems
             * GNU/Linux 
               * Arch Linux
               * Debian
@@ -3655,7 +3655,7 @@
             * Macintosh
             * Windows
               * Longhorn
-          * Personification and Browsers
+        * Personification and Browsers
             * OS-tan
             * firefox
               * mozilla
@@ -3663,25 +3663,25 @@
             * google
               * google chrome
             * internet explorer
-      * List of airplanes
+    * List of airplanes
         * Table of Contents
         * Intro
-          * Military
-            * China
+        * Military
+          * China
             * J-7
             * J-10
               * J-10B
             * J-20
             * J-31
             * Kj-200
-            * France
+          * France
             * Mirage III
             * Mirage 2000
             * Besson MB.411
             * Dassault rafale
             * VG-33
             * Loire 130
-            * Germany
+          * Germany
             * Albatros DIII
             * AR 196
             * BF 109
@@ -3722,7 +3722,7 @@
             * TA 154
             * TA 183
             * Triebfluegel
-            * Italy
+          * Italy
             * Cant 25
             * Z.506 Airone
             * CR.42 Falco
@@ -3733,7 +3733,7 @@
             * MC.202 Folgore
             * MC.205 Veltro
             * SM.79 Sparviero
-            * Japan
+          * Japan
             * A5M
             * A6M Zero
               * A6M2-N
@@ -3789,10 +3789,10 @@
             * US-2
             * Type88 light bomber
             * X-2 Shinshin
-            * Multinational
+          * Multinational
             * EF Typhoon
             * Panavia tornado
-            * Russia/Soviet Union
+          * Russia/Soviet Union
             * I-16
             * I-152
             * IL-2
@@ -3829,11 +3829,11 @@
             * Yak-9
             * Yak-28
             * Yak-141
-            * Sweden
+          * Sweden
             * Saab Draken
             * Saab Gripen
             * Saab Viggen
-            * United Kingdom
+          * United Kingdom
             * Fairey barracuda
             * Bristol beaufighter
             * Blackburn buccaneer
@@ -3866,7 +3866,7 @@
             * De havilland vampire
             * Avro vulcan
             * Westland wyvern
-            * United States
+          * United States
             * A-1 Skyraider
             * A-4 Skyhawk
             * A-5 Vigilante
@@ -3956,7 +3956,7 @@
             * XB-35
             * XF-85 Goblin
             * XP-79
-          * Civilian
+        * Civilian
             * Boeing 727
             * boeing 747
             * boeing 767
@@ -3969,7 +3969,7 @@
             * AN-148
             * DC-10
             * MD-11
-          * Fictional
+        * Fictional
             * ADF-01 falken
             * ADFX-02 morgan
             * Arsenal Bird
@@ -3981,8 +3981,8 @@
             * Savoia S.21
             * T-65 X-wing
             * X-02 Wyvern
-          * Miscellaneous
-            * Air forces/Airlines/Aerobatic teams
+        * Miscellaneous
+          * Air forces/Airlines/Aerobatic teams
             * Alitalia
             * All nippon airways
             * Blue angels
@@ -3997,7 +3997,7 @@
             * Royal Air Force
             * Singapore Airlines
             * Thunderbirds
-            * Airplane parts
+          * Airplane parts
             * afterburner
             * airbrake
             * airplane interior
@@ -4011,12 +4011,12 @@
             * landing gear
             * pontoon
             * propeller
-            * Antiaircraft Weapon
+          * Antiaircraft Weapon
             * 88 Flak
             * AA gun
             * Flak
             * Missile
-            * Aviation-related
+          * Aviation-related
             * aircraft carrier
             * airport
             * contrail
@@ -4026,7 +4026,7 @@
             * landing
             * military base
             * runway
-            * Combat
+          * Combat
             * aerial battle
             * dogfight
             * Gulf War
@@ -4034,7 +4034,7 @@
             * Vietnam War
             * World War I
             * World War II
-            * Markings/Symbols
+          * Markings/Symbols
             * emblem
             * Hammer and Sickle
             * Iron Cross
@@ -4044,17 +4044,17 @@
             * Rising Sun
             * Star of David
             * Swastika
-            * Jobs
+          * Jobs
             * flight attendant
             * pilot
             * travel attendant
-            * Pilot gear
+          * Pilot gear
             * aviator cap
             * flight goggles
             * heads-up display
             * oxygen mask
             * pilot suit
-          * See also
+        * See also
             * aircraft
             * airship
             * glider
@@ -4069,8 +4069,8 @@
             * Tag Group:Technology
             * List of Helicopters
             * List of Meta-Wikis
-      * List of armor
-          * Head
+    * List of armor
+        * Head
             * armored twintails
             * faceplate
             * forehead protector
@@ -4083,14 +4083,14 @@
               * spiked helmet
               * winged helmet
             * visor (armor)
-          * Neck
+        * Neck
             * gorget (armored collar)
             * shikoro (neck guard)
-          * Shoulders
+        * Shoulders
             * pauldrons (this tag includes armor technically classified as spaulders)
             * shoulder pads
             * sode
-          * Arms
+        * Arms
             * rerebrace
             * arm guards
             * couter
@@ -4101,7 +4101,7 @@
             * kote
               * kurokote
             * vambraces
-          * Torso
+        * Torso
             * breastplate
             * cuirass
             * muneate
@@ -4110,12 +4110,12 @@
             * chainmail
             * scale armor
             * linothorax
-          * Groin
+        * Groin
             * crotch plate
             * faulds
             * kusazuri
             * codpiece
-          * Legs
+        * Legs
             * armored boots
             * sabaton
             * cuisses
@@ -4127,12 +4127,12 @@
             * poleyn
             * shin guards
             * suneate
-          * Shield
+        * Shield
             * ballistic shield (tactical shield)
             * beam shield
             * buckler
             * riot shield
-          * Sets
+        * Sets
             * bikini armor
               * reverse bikini armor
             * bougu
@@ -4143,7 +4143,7 @@
             * power suit
             * Plate armor
             * Japanese armor
-          * Japanese
+        * Japanese
             * bougu
             * kabuto (samurai helmet)
             * kote
@@ -4155,7 +4155,7 @@
             * shikoro (neck guard)
             * sode
             * suneate
-          * Ancient/Medieval
+        * Ancient/Medieval
             * breastplate
             * cuirass
             * buckler
@@ -4170,22 +4170,22 @@
             * vambraces
             * visor (armor)
             * winged helmet
-          * Modern
+        * Modern
             * bulletproof vest
             * plate carrier
             * bomb suit
             * riot shield (tactical shield)
             * shin guards
-          * Futuristic
+        * Futuristic
             * beam shield
             * exoskeleton
             * power armor
             * power suit
               * Gravity Suit
             * SEVA Suit
-          * Training
+        * Training
             * bougu
-          * Personalities
+        * Personalities
             * conquistador
             * knight
               * dark knight
@@ -4198,7 +4198,7 @@
             * stormtrooper
             * Swiss Guard
             * alphonse elric armor
-          * Named armor
+        * Named armor
             * Armor of Altair
             * Berserker Armor
             * Gravity Suit
@@ -4206,13 +4206,13 @@
             * N7 Armor
             * SEVA Suit
             * Terminator Armor
-          * Miscellaneous
+        * Miscellaneous
             * barding
             * broken armor
             * leather armor
             * naked armor
             * ornate armor
-          * See also
+        * See also
             * armor
             * armored dress
             * balaclava
@@ -4224,10 +4224,10 @@
             * Tag Group:Attire
               * Tag Group:Headwear
             * List of meta-wikis
-      * List of ground vehicles
+    * List of ground vehicles
         * Intro
-          * Military
-            * China
+        * Military
+          * China
             * Main Battle Tank
               * Type 59
               * Type 96
@@ -4236,10 +4236,10 @@
               * Type 62
             * Armored Fighting Vehicle
               * VN-17 IFV
-            * Finland
+          * Finland
             * Assault Gun
               * BT-42
-            * France
+          * France
             * Light Tank
               * AMX-13
               * AMX-40 (1940)
@@ -4257,7 +4257,7 @@
               * AMX-30
             * Tank Destroyer
               * AMX-50 Foch
-            * Germany
+          * Germany
             * A7V
             * Panzerkampfwagen 38(t)
             * Pz.Kpfw. I
@@ -4298,10 +4298,10 @@
             * Sdkfz 250
             * Sdkfz 251
             * TPz Fuchs
-            * Israel
+          * Israel
             * Main Battle Tank
               * Merkava
-            * Italy
+          * Italy
             * Tankette
               * Carro Veloce CV-33
               * L3
@@ -4309,7 +4309,7 @@
               * Carro Armato p40
             * Assault Gun
               * Semovente 75/18
-            * Japan
+          * Japan
             * Tank (No Classification)
               * Toku-3-gou
             * Tankette
@@ -4344,15 +4344,15 @@
               * Type 95
             * Anti-Aircraft Vehicle
               * Type 87
-            * North Korea
+          * North Korea
             * Main Battle Tank
               * Pokpung-ho
-            * Poland
+          * Poland
             * Tankette
               * TKS
             * Light Tank
               * PL-01
-            * Russia/Soviet Union
+          * Russia/Soviet Union
             * Tank (No Classification)
               * Tsar Tank
             * Light Tank
@@ -4409,10 +4409,10 @@
               * ZSU-23-4
             * Support Vehicle
               * BA-64
-            * Sweden
+          * Sweden
             * Main Battle Tank
               * Stridsvagn 103
-            * United Kingdom
+          * United Kingdom
             * Tank (No Classification)
               * Mark I tank
               * Mark IV tank
@@ -4438,7 +4438,7 @@
               * Daimler AEC
               * Ferret scout car
               * Land Rover Defender
-            * United States
+          * United States
             * Light Tank
               * M3 Stuart
               * M24 Chaffee
@@ -4475,13 +4475,13 @@
             * Support Vehicle
               * Humvee
               * Jeep
-          * Civilian
-            * France
+        * Civilian
+          * France
             * Bugatti Chiron
             * Bugatti Veyron
             * Peugeot 103
             * Renault Alpine A310
-            * Germany
+          * Germany
             * Audi r8
             * BMW HP4
             * BMW I8
@@ -4496,7 +4496,7 @@
             * Volkswagen Beetle
             * Volkswagen Golf
             * Volkswagen Type 2
-            * Italy
+          * Italy
             * Ferrari 458 Italia
             * Ferrari F8 Tributo
             * Ferrari LaFerrari
@@ -4508,7 +4508,7 @@
             * Lancia Stratos
             * Lancia Delta S4
             * Vespa
-            * Japan
+          * Japan
             * Daihatsu Midget
               * Tuk-Tuk
             * Honda Civic
@@ -4547,10 +4547,10 @@
             * Toyota Sports 800
             * Toyota Starlet
             * Toyota Supra
-            * Russia/Soviet Union
+          * Russia/Soviet Union
             * Lada
             * GAZ-66
-            * United Kingdom
+          * United Kingdom
             * Aston Martin DB11
             * Austin Mini
             * Jaguar C-X75
@@ -4563,7 +4563,7 @@
             * Reliant Robin
             * Triumph Spitfire
             * Tyrrell P34
-            * United States
+          * United States
             * Chevrolet Camaro
             * Chevrolet Corvette
             * DeLorean DMC-1
@@ -4574,7 +4574,7 @@
             * Ford GT
             * Ford Mustang
             * Hummer
-          * Fictional
+        * Fictional
             * Baneblade
             * Edelweiss
             * Kaneda Shoutarou's Bike
@@ -4588,7 +4588,7 @@
             * T-100 Varsuk
             * Warthog
             * Wraith
-          * Types
+        * Types
             * All-terrain vehicle
             * Ambulance
             * Armored personnel carrier
@@ -4621,8 +4621,8 @@
               * Tank truck
             * Turretless tank
             * Van
-          * Miscellaneous
-            * Vehicle parts
+        * Miscellaneous
+          * Vehicle parts
             * Caterpillar tracks
             * Exhaust
             * Hatch
@@ -4638,7 +4638,7 @@
             * Wheel
               * Tire
               * Spare tire
-            * Antivehicle Weapon
+          * Antivehicle Weapon
             * Anti-tank dog
             * Anti-tank grenade
             * Anti-tank gun
@@ -4648,13 +4648,13 @@
             * Bazooka
             * Goliath tracked mine
             * Panzerfaust
-            * Combat
+          * Combat
             * Gulf war
             * Korean war
             * Vietnam war
             * World war i
             * World war ii
-            * Markings/Symbols
+          * Markings/Symbols
             * Balkenkreuz
             * Emblem
             * Hammer and sickle
@@ -4664,15 +4664,15 @@
             * Red star
             * Star of david
             * Swastika
-            * Jobs
+          * Jobs
             * Driver
             * Mechanic
-            * Vehicle gear
+          * Vehicle gear
             * Headphones
             * Helmet
             * Tank shell
             * Throat microphone
-          * See also
+        * See also
             * Mecha musume
             * Mecha request
             * Military
@@ -4681,9 +4681,9 @@
             * Striker unit
             * Tag Group:Technology
             * List of Meta-Wikis
-      * List of helicopters
-          * Origin
-            * Russia/Soviet Union
+    * List of helicopters
+        * Origin
+          * Russia/Soviet Union
             * Kamov Ka-27
             * Kamov Ka-50
             * Kamov Ka-52
@@ -4693,7 +4693,7 @@
             * Mil Mi-24
             * Mil Mi-26
             * Mil Mi-28
-            * United States
+          * United States
             * Ah-1 Cobra
             * Ah-64 Apache
             * Ch-46 Sea Knight
@@ -4703,21 +4703,21 @@
             * Piasecki HUP Retriever
             * Uh-1 Iroquois
             * Uh-60 Blackhawk
-          * See also
+        * See also
             * aircraft
             * gyrocopter
             * military
             * list of airplanes
             * Tag Group:Technology
             * List of Meta-Wikis
-      * List of Pokemon objects
-          * Information
+    * List of Pokemon objects
+        * Information
             * Fame Checker
             * Pokédex
             * Pokégear
             * PokéNAV
             * Pokétch
-          * Capture
+        * Capture
             * Poke Ball
               * Poké Ball theme
               * Cherish Ball
@@ -4741,7 +4741,7 @@
               * Ultra Ball
             * Apricorn
             * Capture Styler
-          * Healing
+        * Healing
             * Revive
               * Max Revive
             * Potion
@@ -4751,14 +4751,14 @@
             * Lava Cookie
             * Leftovers (try searching for apple_core pokemon)
             * Moomoo Milk
-          * Berries
+        * Berries
             * Aspear berry
             * Hondew berry
             * Leppa berry
             * Oran berry
             * Pecha berry
             * Sitrus berry
-          * Evolution
+        * Evolution
             * Evolutionary Stone
               * Dawn Stone
               * Dusk Stone
@@ -4770,7 +4770,7 @@
               * Thunder Stone
             * Ice Rock
             * Moss Rock
-          * Maps
+        * Maps
             * Kanto map
             * Johto map
             * Hoenn map
@@ -4778,15 +4778,15 @@
             * Kalos map
             * Alola map
             * Galar map
-          * Badges
+        * Badges
             * Gym Leader Badge
-          * Trading Card Game
+        * Trading Card Game
             * Pokémon Card
-          * Power ups
+        * Power ups
             * Dynamax Band
             * Mega Stone
             * Z-Ring and Z-Crystal
-          * Others
+        * Others
             * Amulet Coin
             * Assault Vest
             * Berry Pots
@@ -4812,15 +4812,15 @@
             * Twisted Spoon (try searching for bent_spoon pokemon)
             * Vs Seeker (Battle Searcher in Japan)
             * X Attack
-      * List of ships
-          * Military
-            * Categories
+    * List of ships
+        * Military
+          * Categories
             * Aircraft carrier
             * Battleship
             * Cruiser
             * Destroyer
             * Submarine
-            * Japan
+          * Japan
             * Akagi
             * Hakuryuu
             * Hiryuu
@@ -4922,7 +4922,7 @@
             * I-70
             * I-400
             * I-401
-            * United States
+          * United States
             * Regular
               * USS Arizona (BB-39)
               * USS Arkansas (BB-33)
@@ -5056,31 +5056,31 @@
               * USS Constitution
               * USS Monitor
               * USS Powhatan
-          * Civilian
+        * Civilian
             * RMS Queen Elizabeth
             * RMS Queen Mary
             * RMS Titanic
             * Tachibana Maru (cargo liner 1935)
-          * Miscellaneous
-            * Ship parts
+        * Miscellaneous
+          * Ship parts
             * Anchor
             * Cannon
             * Rigging
             * Turret
-            * Anti-ship Weapon
+          * Anti-ship Weapon
             * Bomb
             * Missile
             * Naval mine
             * Torpedo
-            * Maritime-related
+          * Maritime-related
             * Fighter jet
             * Seaplane
-            * Combat
+          * Combat
             * Gulf war
             * Vietnam
             * World War I
             * World War II
-            * Markings/Symbols
+          * Markings/Symbols
             * Emblem
             * Hammer and sickle
             * Iron cross
@@ -5088,11 +5088,11 @@
             * Rising sun
             * Star of David
             * Swastika
-            * Jobs
+          * Jobs
             * Sailor
-            * Sailor gear
+          * Sailor gear
             * Life vest
-          * See also
+        * See also
             * Watercraft
             * Warship
             * Mecha musume
@@ -5100,8 +5100,8 @@
             * Ocean
             * Tag Group:Technology
             * List of Meta-Wikis
-      * List of weapons
-          * Explosives
+    * List of weapons
+        * Explosives
             * Bomb
               * Pipe bomb
               * Time bomb
@@ -5127,7 +5127,7 @@
               * Lunge mine
               * M18 Claymore
               * Naval mine
-          * Recoilless gun, Rocket, and Missile weaponry
+        * Recoilless gun, Rocket, and Missile weaponry
             * Hydra 70
             * Missile
             * Panzerfaust
@@ -5147,7 +5147,7 @@
               * TOW ATGM
             * Multishot rocket launcher
               * M202 FLASH
-          * Firearms
+        * Firearms
             * Antique firearm
               * Arquebus
               * Blunderbuss
@@ -5201,8 +5201,8 @@
               * M14
               * SKS
             * Machine gun
-      * Tag group:Audio tags
-          * Devices that play recorded music
+    * Tag group:Audio tags
+        * Devices that play recorded music
             * cd player
             * digital media player
               * ipod
@@ -5236,7 +5236,7 @@
               * vintage microphone
               * boom microphone
             * mixing console
-          * Instruments
+        * Instruments
             * bugle
             * euphonium
             * flugelhorn
@@ -5334,12 +5334,12 @@
               * upright piano
             * jaw harp 
             * theremin
-          * Music Genre
+        * Music Genre
             * Heavy Metal
             * Jazz
             * K-pop
             * Punk
-          * Miscellaneous Audio Related Tags
+        * Miscellaneous Audio Related Tags
             * audio visualizer
             * horn
               * vuvuzela
@@ -5352,7 +5352,7 @@
               * music stand
             * singing
               * karaoke
-          * Singers
+        * Singers
             * ashizawa saki
             * azki
             * beck
@@ -5377,7 +5377,7 @@
             * paul mccartney
             * pink floyd
             * rick astley 
-          * Bands / Groups Misc 
+        * Bands / Groups Misc 
             * band
               * ac/dc
               * AKB48
@@ -5432,7 +5432,7 @@
               * weezer
               * X Japan
               * yes
-          * Covers / Scenes
+        * Covers / Scenes
             * album cover
               * album cover redraw
               * ...and justice for all
@@ -5480,17 +5480,17 @@
               * with the beatles
             * dvd cover
             * ipod ad
-          * Places
+        * Places
             * concert
             * radio booth
             * recording studio
             * stage
-          * Professions
+        * Professions
             * conductor
             * dj
             * guitar girl
             * idol
-          * Headphones brands
+        * Headphones brands
             * akg
             * audio-technica
             * beats by dr. dre
@@ -5510,29 +5510,29 @@
             * stax
             * ultrasone
             * v-moda
-      * Tag group:Cards
-          * Main
+    * Tag group:Cards
+        * Main
             * card
             * playing games
             * list of playing card faces
-          * Image composition and style
+        * Image composition and style
             * card background
             * card (medium)
             * playing card theme
-          * Basic positions of individual cards
+        * Basic positions of individual cards
             * falling card
             * floating card
             * lying card
-          * Multiple cards, and their arrangements
+        * Multiple cards, and their arrangements
             * house of cards
-          * Cards with the head and/or head accessories
+        * Cards with the head and/or head accessories
             * card in mouth
             * card pendant
-          * Cards with the body (including legs and arms) and/or body clothing
+        * Cards with the body (including legs and arms) and/or body clothing
             * card between breasts
             * holding card
               * shuffling cards
-          * Types, styles and characteristics of cards
+        * Types, styles and characteristics of cards
             * flash cards
             * greeting card
               * birthday card
@@ -5545,7 +5545,7 @@
               * suica
             * trading card
             * zener card
-          * Cards by color
+        * Cards by color
             * black card
             * blue card
             * brown card
@@ -5554,7 +5554,7 @@
             * red card
             * white blank card
             * yellow card
-          * Card games and their cards; except the ones associated with animes, books, video games, Trading Card Games, etc.
+        * Card games and their cards; except the ones associated with animes, books, video games, Trading Card Games, etc.
             * bingo card
             * hanafuda
             * hyakunin isshu
@@ -5592,7 +5592,7 @@
               * the world
               * wheel of fortune
             * uno
-          * Animes, books, video games, etc. associated with cards (this includes Trading Card Games)
+        * Animes, books, video games, etc. associated with cards (this includes Trading Card Games)
             * Bakugan
             * Cardcaptor Sakura
               * Clow Card
@@ -5614,23 +5614,23 @@
             * Yu-Gi-Oh!
             * Weiss Schwarz
             * Wixoss
-          * Other/uncategorized tags (if any of these fit any of the previous sections, just move it there)
+        * Other/uncategorized tags (if any of these fit any of the previous sections, just move it there)
             * card creature
             * card with aura
-        * List of playing card faces
-            * The Four Suits
+      * List of playing card faces
+          * The Four Suits
               * club (♣)
               * diamond (♦)
               * heart (♥)
               * spade (♠)
-            * Card Ranks
+          * Card Ranks
               * ace
               * king
               * queen
               * jack
               * joker
-            * Suits and Ranks
-              * Clubs
+          * Suits and Ranks
+            * Clubs
               * ace of clubs
               * king of clubs
               * queen of clubs
@@ -5644,7 +5644,7 @@
               * four of clubs
               * three of clubs
               * two of clubs
-              * Diamonds
+            * Diamonds
               * ace of diamonds (not to be confused with the Ace of Diamond copyright)
               * king of diamonds
               * queen of diamonds
@@ -5658,7 +5658,7 @@
               * four of diamonds
               * three of diamonds
               * two of diamonds
-              * Hearts
+            * Hearts
               * ace of hearts
               * king of hearts (card)
               * queen of hearts (card) (for the Alice in Wonderland character, see queen of hearts (alice in wonderland))
@@ -5672,7 +5672,7 @@
               * four of hearts
               * three of hearts
               * two of hearts
-              * Spades
+            * Spades
               * ace of spades
               * king of spades
               * queen of spades (for the sexual symbol, see queen of spades symbol)
@@ -5686,13 +5686,13 @@
               * four of spades
               * three of spades
               * two of spades
-      * Tag group:Eyewear
-          * Main
+    * Tag group:Eyewear
+        * Main
             * glasses
             * monocle
             * sunglasses
             * goggles
-          * Eyewear
+        * Eyewear
             * aqua-framed eyewear
             * black-framed eyewear
             * blue-framed eyewear
@@ -5738,7 +5738,7 @@
             * looking over eyewear
             * no eyewear
             * removing eyewear
-          * Glasses
+        * Glasses
             * aviator sunglasses
             * 3d glasses
             * coke-bottle glasses
@@ -5760,18 +5760,18 @@
             * x-ray glasses
             * scouter
             * bespectacled
-          * Sunglasses
+        * Sunglasses
             * aviator sunglasses
             * kamina shades
             * simon shades
-          * See also
+        * See also
             * tag group:attire
-      * Tag group:Piercings
-          * Main
+    * Tag group:Piercings
+        * Main
             * Piercing
               * Piercing through clothes
-          * General locations
-            * Head and facial piercings
+        * General locations
+          * Head and facial piercings
             * Ear piercing
               * Industrial piercing
             * Eyebrow piercing
@@ -5783,7 +5783,7 @@
             * Nose piercing
               * Bridge piercing
             * Tongue piercing
-            * Body piercings
+          * Body piercings
             * Areola piercing
             * Back piercing
               * Corset piercing
@@ -5795,12 +5795,12 @@
               * Nipple lock
               * Nipple rings
               * Nipple stretcher
-            * Genital piercings (female)
+          * Genital piercings (female)
             * Clitoris piercing
               * Clitoris ring
             * Labia piercing
             * Fourchette piercing
-            * Genital piercings (male)
+          * Genital piercings (male)
             * Penis piercing
               * Ampallang
               * Dydoe
@@ -5810,16 +5810,16 @@
               * Prince Albert
             * Guiche piercing
             * Scrotum piercing
-            * Misc.
+          * Misc.
             * Captive bead ring
             * Linked piercing
             * Plug (piercing)
-          * See also
+        * See also
             * Earrings
             * Tag group:Attire
             * Tag group:Sex objects
-      * Tag group:Sex objects
-          * Sex Toys
+    * Tag group:Sex objects
+        * Sex Toys
             * anal beads
               * anal tail
             * artificial vagina
@@ -5901,19 +5901,19 @@
               * riding crop
             * wooden horse
               * judas cradle
-          * Fluids
+        * Fluids
             * aphrodisiac
             * enema
             * lotion
               * lotion bottle
               * lube
-          * See also
+        * See also
             * Tag Groups
             * Tag Group:Sex Acts
             * Tag Group:Sexual Attire
-    * Creatures
-      * List of animals
-          * Categories
+  * Creatures
+    * List of animals
+        * Categories
             * Bird
             * Bug
             * Cat
@@ -5923,8 +5923,8 @@
             * Bug
             * Reptile
             * Whale
-          * Types
-            * Insect / Bug
+        * Types
+          * Insect / Bug
             * Ant
             * Bee
             * Beetle
@@ -5955,7 +5955,7 @@
             * Larva
             * Maggot
           * Bird
-            * Cat
+          * Cat
             * Black cat
             * Kitten
             * Cheetah
@@ -5963,10 +5963,10 @@
             * Lion
             * Panther
             * Tiger
-            * Dog
+          * Dog
             * Puppy
             * Wolf
-            * Reptile / Amphibian
+          * Reptile / Amphibian
             * Crocodile
             * Frog
               * Tadpole
@@ -5978,7 +5978,7 @@
             * Salamander
               * Axolotl
               * Hellbender
-            * Aquatic life
+          * Aquatic life
             * Alligator gar
             * Angelfish
             * Anglerfish
@@ -6054,7 +6054,7 @@
             * Opabinia
             * Pambdelurion
             * Xidazoon
-            * Rodent
+          * Rodent
             * Beaver
             * Capybara
             * Chipmunk
@@ -6065,7 +6065,7 @@
             * Naked mole rat
             * Squirrel
             * Weasel
-            * Large animals
+          * Large animals
             * Alpaca
             * Bear
             * Bull
@@ -6078,7 +6078,7 @@
             * Kangaroo
             * Mammoth
             * Panda
-            * Small / Medium animals
+          * Small / Medium animals
             * Boar
             * Echidna
             * Fox
@@ -6093,16 +6093,16 @@
               * Angora rabbit
             * Sheep
             * Lamb
-          * See also
+        * See also
             * no humans
             * animalization
             * pack of dogs
             * too many cats
             * Tag Groups
             * List of Meta-Wikis
-        * Tag Group:Birds
+      * Tag Group:Birds
           * About
-            * Real Birds
+          * Real Birds
               * Albatross
                 * Southern Royal Albatross
               * Barred Buttonquail
@@ -6217,21 +6217,21 @@
               * Peacock
               * Pelican
               * Penguin
-        * Tag group:Cats
-            * Main
+      * Tag group:Cats
+          * Main
               * cat
-            * Misc
+          * Misc
               * cathead
               * giant cat
               * kitten
               * too many cats
-            * Breeds of cats
+          * Breeds of cats
               * norwegian forest cat
               * persian cat
               * ragdoll (cat)
               * siamese cat
               * sphinx (cat)
-            * Coat colorings
+          * Coat colorings
               * black cat
               * brown_cat
               * calico
@@ -6241,13 +6241,13 @@
               * purple cat
               * tortoiseshell cat
               * white cat
-            * Common behaviors
+          * Common behaviors
               * cat loaf
               * kneading
               * nuzzling
               * scratching
               * stretching
-            * Other feline relatives
+          * Other feline relatives
               * black panther
               * cheetah
               * cougar
@@ -6258,7 +6258,7 @@
               * lion
               * serval
               * tiger
-            * Cats by place
+          * Cats by place
               * cat between legs
               * cat in mouth
               * cat on ass
@@ -6266,7 +6266,7 @@
               * cat on lap
               * cat on person
               * cat on shoulder
-            * Cat girls / Cat people / Cat attire / Cat body parts
+          * Cat girls / Cat people / Cat attire / Cat body parts
               * cat bag
               * cat band
               * cat band footwear
@@ -6312,7 +6312,7 @@
               * barbed tongue
               * cat zipper
               * whiskers
-            * Things associated with the word "cat" by etymology
+          * Things associated with the word "cat" by etymology
               * a cat is fine too - a meme
               * Black Cat - a manga series
               * Bongo Cat - a meme
@@ -6339,7 +6339,7 @@
               * pet bowl - bowls used to contain food or water for pets
               * snow cat
               * woman yelling at cat - a meme
-            * Cat-like characters and named cats
+          * Cat-like characters and named cats
               * Amy
               * Aria Pokoteng
               * Artemis
@@ -6391,10 +6391,10 @@
               * Purrloin / Liepard
               * Espurr / Meowstic
               * Litten / Torracat / Incineroar
-        * Tag group:Dogs
-            * Main
+      * Tag group:Dogs
+          * Main
               * dog
-            * Misc
+          * Misc
               * animal
                 * pet
               * animalization
@@ -6404,17 +6404,17 @@
               * no humans
               * pack of dogs
               * puppy
-            * Dog girls / Dog people / Dog attire / Dog body parts
+          * Dog girls / Dog people / Dog attire / Dog body parts
               * dog costume
               * dog ears
               * dog hat
               * dog paws
               * dog tail
-            * Things associated with the word "dog" by etymology
+          * Things associated with the word "dog" by etymology
               * dog biscuit (the biscuit)
               * dog paddle (the swimming style)
               * doggystyle (the sex position)
-            * Tagged Breeds of dogs
+          * Tagged Breeds of dogs
               * Afghan hound
               * Akita Inu / Akita
               * Australian Kelpie
@@ -6453,10 +6453,10 @@
               * St. Bernard
               * Welsh corgi
               * Yorkshire Terrier
-            * Similar animals
+          * Similar animals
               * Hyena
               * Wolf
-            * Dog-like characters and named dogs
+          * Dog-like characters and named dogs
               * Alexander (Fullmetal Alchemist)
               * Bee (Dragon Ball)
               * Black Hayate (Fullmetal Alchemist)
@@ -6540,8 +6540,8 @@
               * Goofy (Disney)
               * Komamura Sajin (Bleach)
               * Lesser Dog (Undertale)
-      * Tag group:Legendary creatures
-          * Type 
+    * Tag group:Legendary creatures
+        * Type 
             * Angel 
               * Archangel
               * Cherub
@@ -6681,7 +6681,7 @@
               * Yuki onna
               * Zashiki-warashi
               * Yukinko
-          * Culture-specific 
+        * Culture-specific 
             * African 
               * Mokele-mbembe
             * Ancient Near Eastern 
@@ -6808,7 +6808,7 @@
             * Slavic 
               * Kikimora
               * Rusalka
-          * Miscellaneous 
+        * Miscellaneous 
             * Demon Boy 
             * Demon Girl 
             * Monster 
@@ -6821,15 +6821,15 @@
             * Night Elf 
             * Tauren 
             * Extra arms 
-          * See also 
+        * See also 
             * Tag Groups
-    * Plants
-      * Plant
-        * Tree
-      * Tag group:Flowers
-          * Main
+  * Plants
+    * Plant
+      * Tree
+    * Tag group:Flowers
+        * Main
             * flower
-          * Species of flower
+        * Species of flower
             * Alstroemeria (flower)
             * Amaryllis (flower)
             * Anemone
@@ -6981,7 +6981,7 @@
             * Wolfsbane
             * Violet
             * Zinnia
-          * Fictional flowers
+        * Fictional flowers
             * Black lotus
             * Fire flower
             * Glaze lily
@@ -6992,7 +6992,7 @@
             * Silent princess
             * Silk flower 
             * Sweet flower
-          * Flower Misc
+        * Flower Misc
             * bouquet
             * coughing flowers
             * field
@@ -7022,14 +7022,14 @@
             * smelling flower
             * wreath
               * head wreath
-    * Games
-      * List of game activities
-          * Hand games / misc
+  * Games
+    * List of game activities
+        * Hand games / misc
             * cat's cradle
             * forehead flick
             * rock paper scissors
             * pen spinning
-          * Card games / misc
+        * Card games / misc
             * card game
             * hanafuda
             * playing card
@@ -7037,7 +7037,7 @@
             * tarot
             * uno
             * tag group:cards
-          * Puzzle games / misc
+        * Puzzle games / misc
             * crossword puzzle
             * jenga
             * metal puzzle
@@ -7045,14 +7045,14 @@
               * jigsaw puzzle
               * sliding puzzle
             * rubik's cube
-          * Mechanical games
+        * Mechanical games
             * crane game
             * pachinko
             * pop-up pirate
             * video game
               * tag group:video game
             * whac-a-mole
-          * Board games
+        * Board games
             * board game
             * chess
             * go
@@ -7062,7 +7062,7 @@
             * shogi
             * tabletop rpg
             * tic-tac-toe
-          * Group activity /  misc
+        * Group activity /  misc
             * airsoft
             * Daruma-san ga koronda / Red Light, Green Light / Grandma's Footsteps / Fairy Footsteps
             * goldfish scooping
@@ -7085,33 +7085,33 @@
             * scavenger hunt
             * tug of war
             * twister
-          * Places / Objects
+        * Places / Objects
             * arcade
             * card
             * casino
               * casino token
             * dice
-          * See also
+        * See also
             * Tag Groups
-      * Tag group:Video game
-          * Main
+    * Tag group:Video game
+        * Main
             * Video game
             * Playing games
-          * In-game
+        * In-game
             * sprite
             * player 2
             * save point
-            * Video game genres
+          * Video game genres
             * Fighting game
             * MMORPG
             * Visual novel
               * Eroge
-            * Screens
+          * Screens
             * character select
             * game over
             * title screen
             * VS
-            * Attacks, actions, health and damage
+          * Attacks, actions, health and damage
             * Danmaku
             * Damage numbers
             * Hadouken
@@ -7125,15 +7125,15 @@
             * Special moves
             * Spinning Bird Kick
             * Tatsumaki Senpuukyaku
-          * Specific video games
+        * Specific video games
             * Tag Group:Fighting Games
             * Tag Group:Platform Games
             * Tag Group:Role-playing Games
             * Tag Group:Shooter Games
             * Tag Group:Visual Novel Games
-          * Pools
+        * Pools
             * pool #1552: Gameplay Mechanics
-          * Brands
+        * Brands
             * Arc System Works
             * Atlus
             * Capcom
@@ -7153,7 +7153,7 @@
             * Square Enix
             * Sunsoft
             * TYPE-MOON
-          * Hardware
+        * Hardware
             * Computer
             * Game cartridge
               * Famicom cartridge
@@ -7230,18 +7230,18 @@
             * Bandai
               * Playdia
               * WonderSwan
-          * Sources of the images
+        * Sources of the images
             * Game CG
             * Fake screenshot
-          * Flash games
+        * Flash games
             * Flash game
               * Interactive
-          * See also
+        * See also
             * List of Meta-Wikis
-      * Tag group:Sports
-          * Main
+    * Tag group:Sports
+        * Main
             * Playing sports
-          * Sports
+        * Sports
             * American football 
             * Badminton
             * Baseball
@@ -7265,7 +7265,7 @@
             * Tennis
             * Volleyball
             * Water polo
-          * Equipment and objects
+        * Equipment and objects
             * Ball
               * Beachball
               * Bowling ball
@@ -7298,8 +7298,8 @@
             * Ribbon
               * Ribbon baton
             * Rope
-          * Events
-            * Multi-sport
+        * Events
+          * Multi-sport
             * Olympics
               * 2010 Winter Olympics
               * 2012 Summer Olympics
@@ -7309,16 +7309,16 @@
               * 2020 Summer Olympics
               * 2022 Winter Olympics
             * 2017 Taipei Universiade
-            * American Football
+          * American Football
             * Super Bowl
               * Super Bowl XXXVI
-            * Baseball
+          * Baseball
             * World Baseball Classic
               * 2009 World Baseball Classic
-            * Rugby
+          * Rugby
             * 2015 Rugby World Cup
             * 2019 Rugby World Cup
-            * Soccer
+          * Soccer
             * World Cup
               * 1986 FIFA World Cup
               * 2002 FIFA World Cup
@@ -7342,8 +7342,8 @@
               * 2015 Copa America
               * Copa America Centenario
               * 2021 Copa America
-          * Organizations / Teams
-            * Baseball
+        * Organizations / Teams
+          * Baseball
             * KBO League
               * Doosan Bears
               * Hanwha Eagles
@@ -7381,7 +7381,7 @@
               * Touhoku Rakuten Golden Eagles
               * Yokohama DeNA Baystars
               * Yomiuri Giants
-            * Basketball
+          * Basketball
             * B. League
               * Yokohama B-Corsairs
             * National Basketball Association
@@ -7416,7 +7416,7 @@
               * Toronto Raptors
               * Utah Jazz
               * Washington Wizards
-            * American football
+          * American football
             * National Football League
               * Arizona Cardinals
               * Atlanta Falcons
@@ -7435,7 +7435,7 @@
               * Pittsburgh Steelers
               * San Francisco 49ers
               * Seattle Seahawks
-            * Soccer
+          * Soccer
             * Argentina
               * Club Atletico Boca Juniors
             * Australia
@@ -7538,7 +7538,7 @@
               * FC Shakhtar Donetsk
             * United States (Major League Soccer)
               * Houston Dynamo
-            * Ice hockey
+          * Ice hockey
             * National Hockey League
               * Buffalo Sabres
               * Colorado Avalanche
@@ -7551,11 +7551,11 @@
               * Seattle Kraken
               * Toronto Maple Leafs
               * Vancouver Canucks
-          * Anime/manga/games about sports
-            * American Football
+        * Anime/manga/games about sports
+          * American Football
             * Eyeshield 21
             * Tecmo Super Bowl
-            * Basketball
+          * Basketball
             * Ahiru no Sora
             * Basquash!
             * Dash Kappei
@@ -7564,7 +7564,7 @@
             * NBA Jam
             * Rou-kyuu-bu!
             * Slam Dunk
-            * Baseball
+          * Baseball
             * Ace of Diamond
             * Cross Game
             * Kyojin no Hoshi
@@ -7574,15 +7574,15 @@
             * One Outs
             * Ookiku Furikabutte
             * Touch
-            * Billiards
+          * Billiards
             * Break Shot
-            * Boxing
+          * Boxing
             * 1 Pound no Fukuin
             * Ashita no Joe
             * Hajime no Ippo
             * Megalo Box
             * Punch-Out!!
-            * Golf
+          * Golf
             * Kaze no Daichi
             * Mario Golf
             * Minna no Golf
@@ -7590,11 +7590,11 @@
             * Pro Golfer Saru
             * Robot x LaserBeam
             * Swing!!
-            * Lacrosse
+          * Lacrosse
             * Cross Manage
-            * Rugby
+          * Rugby
             * All Out!!
-            * Soccer
+          * Soccer
             * Akakichi no Eleven
             * Aoki Densetsu Shoot!
             * Area no Kishi
@@ -7607,11 +7607,11 @@
             * Super Mario Strikers
               * Mario Strikers Charged
             * Whistle!
-            * Table Tennis
+          * Table Tennis
             * Ping Pong
             * Ping Pong Club
             * Shakunetsu no Takkyuu Musume
-            * Tennis
+          * Tennis
             * Ace wo Nerae!
             * Baby Steps
             * Hoshiai no Sora
@@ -7619,20 +7619,20 @@
             * Softenni
             * Teekyuu
             * Tennis no Ouji-sama
-            * Track and Field
+          * Track and Field
             * Battle Athletes
-            * Volleyball
+          * Volleyball
             * Ashita e Attack!
             * Attacker You!
             * Attack no 1
             * Haikyuu!!
             * Harukana Receive
-          * See also
+        * See also
             * Tag Groups
-    * Real world
-      * Tag group:Companies and brand names
+  * Real world
+    * Tag group:Companies and brand names
         * About
-          * Clothing and Accessories
+        * Clothing and Accessories
             * Adidas
             * ASICS
             * chanel
@@ -7654,7 +7654,7 @@
             * Uniqlo
             * Vans
             * Victoria's secret
-          * Automotive
+        * Automotive
             * Alfa Romeo
             * Aston Martin
             * Audi
@@ -7710,7 +7710,7 @@
             * Vespa
             * Volkswagen
             * Yamaha
-          * Electronics and Technology
+        * Electronics and Technology
             * AMD
             * Apple Inc.
               * Beats by Dr. Dre
@@ -7743,7 +7743,7 @@
             * Sony
             * Toshiba
             * Wacom
-          * Media and Entertainment
+        * Media and Entertainment
             * 20th Century Fox
             * Adult Swim
             * BBC
@@ -7775,7 +7775,7 @@
             * White Fox
             * WWE
             * Youtube
-          * Musical Instruments and Equipment
+        * Musical Instruments and Equipment
             * fender
               * Fender stratocaster
             * Gibson
@@ -7787,7 +7787,7 @@
             * Rickenbacker
             * roland (company)
             * Yamaha
-          * Beverages
+        * Beverages
             * 7up
             * Asahi
             * a&w
@@ -7827,7 +7827,7 @@
             * Tsingtao
             * UCC Coffee
             * Yebisu
-          * Foods
+        * Foods
             * Boukun Habanero
             * Bugles
             * cadbury
@@ -7872,7 +7872,7 @@
             * Tirol Chocolate
             * Toblerone
             * Yakult
-          * Restaurant and Fast Food Chains
+        * Restaurant and Fast Food Chains
             * Anna Miller's
             * Black Star Burger
             * Baskin-Robbins
@@ -7903,7 +7903,7 @@
             * Tim Hortons
             * Wendy's
             * Yoshinoya
-          * Video games
+        * Video games
             * Atari
             * Bandai Namco
             * Capcom
@@ -7922,12 +7922,12 @@
             * Sony
             * Square Enix
             * Type-Moon
-          * Misc. Consumer Goods
+        * Misc. Consumer Goods
             * Clorox
             * Coppertone
             * Marlboro
             * Tide
-          * Retail and Services
+        * Retail and Services
             * 7-eleven
             * Amazon
             * Circle K sunkus
@@ -7941,13 +7941,13 @@
             * Mitsukoshi
             * Sofmap
             * Walmart
-          * Freight and Package Delivery
+        * Freight and Package Delivery
             * CSX Corporation
             * DHL
             * FedEx
             * United Parcel Service
             * United States Postal Service
-          * See also
+        * See also
             * brand name imitation
             * company name
             * logo
@@ -7955,8 +7955,8 @@
             * tag groups
               * list of official mascots
               * tag group:sports
-      * Tag group:Holidays and celebrations
-          * Dated Holidays and Celebrations (Once per year)
+    * Tag group:Holidays and celebrations
+        * Dated Holidays and Celebrations (Once per year)
             * Jan 01: New Year's Day
             * Jan 07: Nanakusa-no-Sekku, the Nanakusa-gayu day
             * Jan 21-Feb 20: Chinese New Year
@@ -8008,20 +8008,20 @@
             * Nov 22: Ii Fuufu no Hi
             * Nov 28: Good Kneehighs Day
             * Dec 25: Christmas
-          * Dated Holidays and Celebrations (Several times per year)
+        * Dated Holidays and Celebrations (Several times per year)
             * Breasts day - Aug 1st, Nov 8th, and Father's Day
             * Bunny day - Aug 2nd, Aug 21st, and occasionally Aug 23rd
             * Manga day - Most commonly Feb 9th and Nov 17th
             * Meat day - Feb 9th and every 29th of each month.
               * Good Meat Day
-          * Other Events and Commemorations 
+        * Other Events and Commemorations 
             * Anniversary 
             * Birthday 
               * Happy Birthday
             * Congratulations 
             * Milestone celebration 
             * Thank You 
-          * Holiday Related tags
+        * Holiday Related tags
             * Akeome
             * Happy New Year
             * Kadomatsu
@@ -8086,14 +8086,14 @@
             * Mistletoe
             * Santa Claus
             * Santa Costume
-          * See Also: 
+        * See Also: 
             * Tag Groups
             * Date pun
-          * External Links
+        * External Links
             * Pixiv - 記念日
-      * Tag group:Jobs
-      * Tag group:Locations
-          * Indoors
+    * Tag group:Jobs
+    * Tag group:Locations
+        * Indoors
             * bathroom
               * bathtub
               * toilet stall
@@ -8217,7 +8217,7 @@
             * tunnel
             * well
             * zoo
-          * Buildings
+        * Buildings
             * airport
               * control tower
               * hangar
@@ -8300,7 +8300,7 @@
             * train station
             * treehouse
             * windmill
-          * Fictional locations
+        * Fictional locations
             * Stonehenge Turret Network
             * chireiden
             * eientei
@@ -8322,7 +8322,7 @@
             * voile
             * youkai mountain
             * divine spirit mausoleum
-          * Other
+        * Other
             * architecture
             * cityscape
             * landscape
@@ -8339,12 +8339,12 @@
               * spacecraft interior
               * tank interior
               * train interior
-          * See also
+        * See also
             * location request
             * tag group:real world locations
             * tag groups
-      * Tag group:People
-          * Voice Actors
+    * Tag group:People
+        * Voice Actors
             * Aimee-Ffion Edwards
             * Akabane Kenji
             * Akasaki Chinatsu
@@ -8657,7 +8657,7 @@
             * Yusa Kouji
             * Yuuki Aoi
             * Yuzuki Ryouka
-          * Cosplayers
+        * Cosplayers
             * Alina Becker
             * azami (cosplayer)
             * Bunny Ayumi
@@ -8669,7 +8669,7 @@
             * Kipi-san
             * Shirogane-sama
             * Swimsuitsuccubus
-          * Authors/Directors
+        * Authors/Directors
             * Akutagawa Ryuunosuke
             * Anno Hideaki
             * Araki Hirohiko
@@ -8706,13 +8706,13 @@
             * Walt Disney
             * William Shakespeare
             * Yamaguchi Noboru †
-          * Artists
+        * Artists
             * H.R. Giger †
             * Hirai Hisashi
             * Michelangelo
             * Leonardo da Vinci
             * Vincent van Gogh
-          * Actors
+        * Actors
             * Adam Savage
             * Aki Takejou
             * Anthony Hopkins
@@ -8805,7 +8805,7 @@
             * Vincent Price
             * Will Smith
             * Yasuda Misako
-          * Musicians
+        * Musicians
             * Abbath
             * Aizome Karen
             * Axl Rose
@@ -8936,7 +8936,7 @@
             * Yngwie Malmsteen
             * Yu Yan
             * Yulia Olegovna Volkova
-          * Television Figures
+        * Television Figures
             * Arino Shin'ya
             * Bob Ross
             * David Letterman
@@ -8946,8 +8946,8 @@
             * Regis Philbin
             * Stephen Colbert
             * Steve Irwin
-          * Political Figures
-            * Major Countries
+        * Political Figures
+          * Major Countries
             * Abraham Lincoln †
             * Barack Obama
             * Benjamin Franklin †
@@ -9050,7 +9050,7 @@
             * Nikita Khrushchev
             * Vladimir Lenin
             * Vladimir Putin
-            * Minor Countries
+          * Minor Countries
             * Ernesto "Che" Guevara
             * Juan Domingo Peron
             * Maria Theresa
@@ -9104,7 +9104,7 @@
             * Radovan Karadzic
             * Slobodan Milosevic
             * Robert Gabriel Mugabe
-          * Businessmen
+        * Businessmen
             * Bill Gates
             * "Colonel" Harland Sanders
             * Eric Schmidt
@@ -9112,7 +9112,7 @@
             * Scott Richards
             * Steve Jobs
             * Yagoo (Motoaki Tanigo)
-          * Scientists and Engineers
+        * Scientists and Engineers
             * Albert Einstein
             * Alfred Adler
             * Carl Gustav Jung
@@ -9127,14 +9127,14 @@
             * Nikola Tesla
             * Sigmund Freud
             * Stephen Hawking †
-          * Astronauts and Cosmonauts 
+        * Astronauts and Cosmonauts 
             * Alan Shepard †
             * Buzz Aldrin
             * Neil Armstrong †
             * Valentina Tereshkova
             * Yuri Gagarin
-          * Sportspersons
-            * American football
+        * Sportspersons
+          * American football
             * Ahmad Bradshaw
             * Joe Montana
             * Thurman Thomas
@@ -9202,10 +9202,10 @@
             * Thomas Muller
             * Tim Wiese
             * Toni Kroos
-            * Athletics
+          * Athletics
             * Murofushi Alexander Koji
             * Usain Bolt
-            * Auto racing
+          * Auto racing
             * Ayrton Senna
             * Fernando Alonso
             * Jenson Button
@@ -9221,7 +9221,7 @@
             * Romain Grosjean
             * Sebastian Vettel
             * Yamauchi Shinya
-            * Baseball
+          * Baseball
             * Albert Pujols
             * Aubrey Huff
             * Brian Wilson
@@ -9232,7 +9232,7 @@
             * Ootani Shouhei
             * Suzuki Ichirou
             * Tim Lincecum
-            * Basketball
+          * Basketball
             * Amar'e Stoudemire
             * Blake Griffin
             * Brook Lopez
@@ -9265,9 +9265,9 @@
             * Stephen Curry
             * Tim Duncan
             * Yao Ming
-            * Boxing
+          * Boxing
             * Mike Tyson
-            * Figure skating
+          * Figure skating
             * Andou Miki
             * Asada Mao
             * Elena Radionova
@@ -9275,14 +9275,14 @@
             * Mura Takahito
             * Suzuki Akiko
             * Yulia Lipnitskaya
-            * Golf
+          * Golf
             * Miyazato Ai
-            * Horse racing
+          * Horse racing
             * Ikezoe Ken'ichi
             * Sugai Naosuke
             * Tabara Seiki
             * Take Yutaka
-            * Mixed martial arts
+          * Mixed martial arts
             * Akebono Tarou
             * Mirko Filipovic (Cro Cop)
             * Adam Cole
@@ -9397,12 +9397,12 @@
             * Yano Tooru
             * Yoshi-Hashi
             * Zack Ryder
-            * Tennis
+          * Tennis
             * Matsuoka Shuuzou
-            * Volleyball
+          * Volleyball
             * Kimura Saori
             * Sabina Altynbekova
-          * Military
+        * Military
             * Anatoly Mikhaylovich Stessel
             * Alfred von Tirpitz
             * Bernard Montgomery
@@ -9457,8 +9457,8 @@
             * William Halsey, Jr.
             * Yamaguchi Tamon
             * Yamamoto Isoroku
-          * Video games
-            * Creators
+        * Video games
+          * Creators
             * Dan Forden
             * Gabe Newell
             * Harada Katsuhiro
@@ -9476,11 +9476,11 @@
             * Yamauchi Hiroshi
             * Yokoi Gunpei
             * ZUN (Junya Ota)
-            * Corporate Figures
+          * Corporate Figures
             * Doug Bowser
             * Kutaragi Ken
             * Reggie Fils-Aime
-            * Players/Streamers
+          * Players/Streamers
             * AiAi
             * Alex Myers
             * ApologyMan
@@ -9537,7 +9537,7 @@
             * Vinny (Vinesauce)
             * Void
             * Xian
-          * Internet-related
+        * Internet-related
             * Albert Yi
             * Monty Oum †
             * Moot
@@ -9547,7 +9547,7 @@
             * Nusret Gokce
             * Qinni †
             * Yulia Nova
-          * Other
+        * Other
             * Akishino Kako
             * Akishino Mako
             * Ako
@@ -9572,10 +9572,10 @@
             * Tatiana Nikolaevna Romanova
             * Terry A Davis
             * William Brooke Joyce
-          * See also
+        * See also
             * real life
-      * Tag group:Real world locations
-          * Countries
+    * Tag group:Real world locations
+        * Countries
             * Afghanistan
             * Algeria
             * Argentina
@@ -9728,7 +9728,7 @@
             * Russian Empire
             * Soviet Union
             * Yugoslavia
-          * Buildings and Landmarks
+        * Buildings and Landmarks
             * Alcatraz
             * Angel de la Independencia
             * Brooklyn Bridge
@@ -9862,14 +9862,14 @@
             * Moai
             * Sydney Harbour Bridge
             * Sydney Opera House
-          * See also
+        * See also
             * location request
             * Tag group:Locations
             * List of Meta-Wikis
-    * More
-      * Tag group:Family relationships
+  * More
+    * Tag group:Family relationships
         * About
-          * Family
+        * Family
             * parent and child
               * father and son
               * father and daughter
@@ -9899,9 +9899,9 @@
               * cousins
             * other
               * step-siblings
-      * Tag group:Food tags
+    * Tag group:Food tags
         * About
-          * Fruit
+        * Fruit
             * akebia fruit
             * apple
               * apple bunny
@@ -10056,7 +10056,7 @@
               * kani-san wiener
             * turkey
               * turkey leg
-          * Breads, grains, and starches
+        * Breads, grains, and starches
             * bread (savory)
               * baguette
               * biscuit
@@ -10091,7 +10091,7 @@
               * risotto
             * scone
             * waffle
-          * Dairy
+        * Dairy
             * butter
             * cheese
               * smoked cheese
@@ -10241,7 +10241,7 @@
               * uirou
               * warabimochi
               * youkan
-          * Other Snacks
+        * Other Snacks
             * chikuwa
             * chips
               * bugles
@@ -10251,7 +10251,7 @@
             * popcorn
             * pretzel
             * umaibou
-          * Condiments
+        * Condiments
             * furikake
             * honey
             * jam
@@ -10265,67 +10265,67 @@
             * sauce
               * hot sauce
               * soy sauce
-      * Tag group:Fire
-          * Main
+    * Tag group:Fire
+        * Main
             * fire
-          * Forms of fire
+        * Forms of fire
             * campfire
             * fireball
             * fireworks
               * fireflies
             * flame
-          * Body parts made of fire
+        * Body parts made of fire
             * fire body
             * fiery hair
             * fiery tail
             * fiery wings
             * flame-tipped tail
-          * Colors of fire
+        * Colors of fire
             * black fire
             * blue fire
             * green fire
             * pink fire
             * purple fire
             * white fire
-          * Actions
+        * Actions
             * breathing fire
             * burning
             * explosion
             * pyrokinesis
-          * Objects associated with fire
+        * Objects associated with fire
             * fire extinguisher
             * fire hydrant
             * fireplace
             * flamethrower
-          * Misc
+        * Misc
             * fire flower
             * no fire
-      * Tag group:Groups
-          * Main
+    * Tag group:Groups
+        * Main
             * dual persona, multiple persona
             * clone
             * crossover
             * look-alike
-          * Everyone
+        * Everyone
             * absolutely everyone
             * everyone
-          * Animals
+        * Animals
             * pack of dogs
             * too many cats
-          * By gender
+        * By gender
             * multiple girls
               * 2girls
             * multiple boys
               * 2boys
             * multiple others
               * 2others
-          * Family relationships (siblings, parents, etc.)
+        * Family relationships (siblings, parents, etc.)
             * see tag group:family relationships
-          * Sex (vaginal, anal, etc.); including group sex (threesome, orgy, spitroast, etc.)
+        * Sex (vaginal, anal, etc.); including group sex (threesome, orgy, spitroast, etc.)
             * Tag group:sex acts
             * Tag group:sexual positions
-      * Tag group:Meme
-          * Scene Parodies 
+    * Tag group:Meme
+        * Scene Parodies 
             * A cat is fine too
             * Adelie penguin bullying
             * Agemasen!
@@ -10526,7 +10526,7 @@
             * Your heart
             * ZA WARUDO
             * Zukyuun
-          * Video/Movie Parodies
+        * Video/Movie Parodies
             * ADHD study
             * Among Us twerk
             * Ankha Zone
@@ -10591,7 +10591,7 @@
             * Yatta!
             * Yee 
             * Yuru Yuri's Starting
-          * Art Parodies
+        * Art Parodies
             * Abbey Road 
             * A Grim Reminder
             * Always has been
@@ -10671,7 +10671,7 @@
             * Wakari Tetsuya
             * Wheeze comic
             * Yes Chad
-          * Dances/Poses 
+        * Dances/Poses 
             * \m/ 
             * Ahegao Double V
             * Ahegaokin 
@@ -10766,7 +10766,7 @@
             * You're pretty good
             * Zamn
             * Zui Zui Dance
-          * Characters/People
+        * Characters/People
             * 1st Battleship of the Kongo-Class from Jamaica
             * Aka-san
             * Akita Neru
@@ -10903,7 +10903,7 @@
             * Yowane Haku
             * Yuan Shao's Vassal
             * Yukkuri Shiteitte ne 
-          * Expression of phrase
+        * Expression of phrase
             * 114514
             * Arrow to The Knee 
             * Chinpo ni wa Katenakatta yo
@@ -10917,7 +10917,7 @@
             * Too bad! It was just me!/Kono DIO da!
             * Too low salary
             * Zettai yurusanae
-          * Catchphrases/Verbal Tics 
+        * Catchphrases/Verbal Tics 
             * a
             * A~ Un~
             * Akkari~n
@@ -10988,7 +10988,7 @@
             * Your next line is
             * Your son calls me mommy too
             * Yukkuri Shiteitte ne 
-          * Clothing
+        * Clothing
             * Bikini Jeans
             * Bitches don't know
             * Cat Lingerie
@@ -11016,7 +11016,7 @@
             * Virgin Killer Outfit
             * Virgin Killer Sweater
             * Women want me fish fear me
-          * Miscellaneous 
+        * Miscellaneous 
             * & Knuckles
             * 20XX
             * 241543903 
@@ -11160,8 +11160,8 @@
             * Why can't I hold all these limes?
             * Yeet
             * You cannot be walking around with that much ass
-      * Tag group:Scan
-          * Defects
+    * Tag group:Scan
+        * Defects
             * binding discoloration
             * bleed through
             * color halftone
@@ -11170,33 +11170,33 @@
             * cropped
             * scan artifacts
             * scan dust
-          * Potential Sources
+        * Potential Sources
             * artbook
             * doujinshi
             * magazine scan
             * novel illustration
             * official art
             * production art
-          * Related tags
+        * Related tags
             * cel
             * self scan
             * poster (medium)
             * textless version
-          * Requests and edits
+        * Requests and edits
             * detexted
             * fixed
             * self edit
             * stitched
             * third-party edit
             * magazine request
-          * See also
+        * See also
             * fake scan
             * tag group:metatags
-      * Tag group:Subjective
-      * Tag group:Technology (includes Sci-Fi)
-      * Tag group:Verbs and Gerunds
-          * Verbs
-            * List of tagged verbs
+    * Tag group:Subjective
+    * Tag group:Technology (includes Sci-Fi)
+    * Tag group:Verbs and Gerunds
+        * Verbs
+          * List of tagged verbs
             * aiming
               * aiming at viewer
             * animal milking
@@ -11528,8 +11528,8 @@
             * wringing
             * zipping
               * unzipping
-          * Gerunds
-            * List of tagged gerunds
+        * Gerunds
+          * List of tagged gerunds
             * battle (battling)
             * bleeding
             * blowing
@@ -11617,7 +11617,7 @@
               * arm wrestling
             * writing
             * yawning
-          * Ambiguous
+        * Ambiguous
             * bullying
             * egg laying
             * pegging
@@ -11630,48 +11630,48 @@
             * squatting
             * taunting
             * teasing
-          * More references
+        * More references
             * Wikipedia article for Verbs
             * Wikipedia article for Gerunds
             * Oxford Dictionaries Online: Adding -ed and -ing
-      * Tag group:Water
-          * Water
+    * Tag group:Water
+        * Water
             * Water
               * Underwater
-          * Wet
+        * Wet
             * Wet
               * Wet clothes
               * Wet hair
-          * Ice
+        * Ice
             * Ice
               * Ice sculpture
               * Ice flower
-          * Steam
+        * Steam
             * Steam
-          * Geography
-            * Bodies of water
+        * Geography
+          * Bodies of water
             * Lake
             * Ocean
             * River
               * Stream
-            * Related landforms
+          * Related landforms
             * Beach
             * Island
-          * Meteorology
+        * Meteorology
             * Rain
             * Snow
-          * Clothes
+        * Clothes
             * Bikini
             * Goggles
             * Swimsuit
-          * Vehicles
+        * Vehicles
             * Boat
               * Rowboat
               * Sailboat
               * Ship
               * Battleship
             * Submarine
-          * Misc / Actions, Objects, Containers, Etc.
+        * Misc / Actions, Objects, Containers, Etc.
             * Bath
               * Bathtub
               * Mixed bathing
@@ -11692,10 +11692,10 @@
             * Umbrella
             * Wading
             * Washing
-  * Copyrights, artists, projects and media
-    * Genres of video games
-      * Tag group:Fighting games
-          * Fighting games
+* Copyrights, artists, projects and media
+  * Genres of video games
+    * Tag group:Fighting games
+        * Fighting games
             * Akatsuki Blitzkampf
             * Arcana Heart
               * Arcana Heart 2
@@ -11850,8 +11850,8 @@
             * Warzard
             * World Heroes
             * Ys vs Sora no Kiseki Alternative Saga
-      * Tag group:Platform games
-          * Platform games
+    * Tag group:Platform games
+        * Platform games
             * Banjo-Kazooie
             * Castlevania
             * Crash Bandicoot
@@ -11890,11 +11890,11 @@
             * Tomb Raider
             * Viewtiful Joe
             * Wonder Momo
-          * See also
+        * See also
             * Tag group:Shooter games
-      * Tag group:Role-playing games
-          * Role-playing games
-            * Tabletop RPGs
+    * Tag group:Role-playing games
+        * Role-playing games
+          * Tabletop RPGs
             * Dungeons and Dragons
             * Lancer RPG
             * Meikyuu Kingdom
@@ -12022,9 +12022,9 @@
               * Dragon Quest Monsters
             * Eien no Filena
             * Eiyuu Densetsu (The Legend of Heroes)
-      * Tag group:Shooter games
-          * Shooting Games
-            * First-person Shooter
+    * Tag group:Shooter games
+        * Shooting Games
+          * First-person Shooter
             * Apex Legends
             * Battlefield
             * Bioshock
@@ -12065,20 +12065,20 @@
             * Unreal
             * Valorant
             * Wolfenstein
-            * Rail Shooter
+          * Rail Shooter
             * Kid Icarus Uprising
             * Panzer Dragoon
             * Sin and Punishment
             * Space Harrier
             * Star Fox
-            * Run and Gun
+          * Run and Gun
             * Contra
             * Cuphead
             * Gunstar Heroes
             * Mega Man
             * Metal Slug
             * Metroid
-            * Shoot'em Up
+          * Shoot'em Up
             * 1942
             * 1943 the Battle of Midway
             * Akai Katana
@@ -12124,7 +12124,7 @@
             * Twinkle Star Sprites
             * Xevious
             * Zero Wing
-            * Third-person Shooter
+          * Third-person Shooter
             * Cosmic Break
             * Dead Space
             * Fallout 3
@@ -12140,8 +12140,8 @@
             * PlayerUnknown's Battlegrounds
             * Saints Row
             * Spec Ops The Line
-      * Tag group:Visual novel games
-          * Visual Novel games
+    * Tag group:Visual novel games
+        * Visual Novel games
             * 428
             * AI: The Somnium Files
             * Akai Ito
@@ -12192,7 +12192,7 @@
             * Symphonic Rain
             * Uta no Prince-sama
             * VA-11 Hall-A
-            * Eroge
+          * Eroge
             * Air
             * Aiyoku no Eustia
             * Akeiro Kaikitan
@@ -12315,10 +12315,10 @@
             * Wind A Breath of Heart
             * Yotsunoha
             * Yume Miru Kusuri
-    * Artists
-      * List of named drawfags
-      * Tag group:Pixiv projects
-          * Themed collection
+  * Artists
+    * List of named drawfags
+    * Tag group:Pixiv projects
+        * Themed collection
             * Celestial Stones
             * Forest of Pixiv
             * Oekaki Musume
@@ -12390,13 +12390,13 @@
             * Sekigahara Gakuen
             * Taikakiden
             * Touran-Sai
-          * Single character
+        * Single character
             * Arancia
             * Pixiv-tan
             * Moe musume
             * Chobi
-    * Characters
-      * List of Ace Attorney characters
+  * Characters
+    * List of Ace Attorney characters
             * Phoenix Wright
             * Maya Fey
             * Mia Fey
@@ -12663,9 +12663,9 @@
             * Peppino de Rossi
             * Tchikin Strogenov
             * Venus
-      * List of Arknights characters
-          * Characters
-            * Vanguard
+    * List of Arknights characters
+        * Characters
+          * Vanguard
             * Bagpipe
             * Beanstalk
             * Blacknight
@@ -12688,7 +12688,7 @@
             * Wild Mane
             * Yato
             * Zima
-            * Guard
+          * Guard
             * Akafuyu
             * Amiya (Guard)
             * Arene
@@ -12733,7 +12733,7 @@
             * Thorns
             * Utage
             * Whislash
-            * Defender
+          * Defender
             * Asbestos
             * Ashlock
             * Aurora
@@ -12761,7 +12761,7 @@
             * Shalem
             * Spot
             * Vulcan
-            * Medic
+          * Medic
             * Ansel
             * Breeze
             * Ceylon
@@ -12784,7 +12784,7 @@
             * Tuye
             * Warfarin
             * Whisperain
-            * Caster
+          * Caster
             * 12F
             * Absinthe
             * Amiya
@@ -12817,7 +12817,7 @@
             * Skyfire
             * Steward
             * Tomimi
-            * Sniper
+          * Sniper
             * Aciddrop
             * Adnachiel
             * Ambriel
@@ -12853,7 +12853,7 @@
             * Toddifons
             * Vermeil
             * W
-            * Supporter
+          * Supporter
             * Angelina
             * Deepcolor
             * Earthspirit
@@ -12876,7 +12876,7 @@
             * Sora
             * Suzuran
             * Tsukinogi
-            * Specialist
+          * Specialist
             * Aak
             * Bena
             * Cliffheart
@@ -12904,7 +12904,7 @@
             * Waai Fu
             * Weedy
               * Leaf
-            * Other
+          * Other
             * Anita
             * Carol
             * Closure
@@ -12935,10 +12935,10 @@
             * Skullshatterer
             * Talulah
             * W
-      * List of Atelier characters
+    * List of Atelier characters
         * Intro
-          * The Games
-            * Atelier Marie
+        * The Games
+          * Atelier Marie
             * Aula Kuhl
             * Bredolf Schigsal
             * Dio Schenk
@@ -12956,7 +12956,7 @@
             * Ruven Filnir
             * Schia Donnerstage
             * Schwalbe Satz
-            * Atelier Elie
+          * Atelier Elie
             * Dagllas McRain
             * Eisel Weimar
             * Elfir Traum ("Elie")
@@ -12970,14 +12970,14 @@
             * V
             * Xe
             * Yousei
-            * Atelier Lilie
+          * Atelier Lilie
             * Elsa Hessen
             * Irma Walder
             * Lilie
             * Theo Mohnmeier
             * Werner Gretenthal
             * Ziska Villa
-            * Atelier Judie
+          * Atelier Judie
             * Adelbert Hocker
             * Bohrer Quelle
             * Christa Shulze
@@ -12989,9 +12989,9 @@
             * Rastel Biheusen
             * Sphere (PSP exclusive character)
             * Witoss Lotps
-            * Atelier Marie, Elie and Anis: Message on the Breeze
+          * Atelier Marie, Elie and Anis: Message on the Breeze
             * Anis Ryftchen
-            * Atelier Viorate
+          * Atelier Viorate
             * Bartholomaus Platane
             * Brigitt Sihern
             * Dastin Schmied
@@ -13005,7 +13005,7 @@
             * Roland Ofen
             * Sawitt Kipper
             * Viorate Platane
-            * Atelier Iris: Eternal Mana
+          * Atelier Iris: Eternal Mana
             * Arlin
             * Beggur Lixiss
             * Blair
@@ -13026,7 +13026,7 @@
             * Vier
             * Zeldalia
             * Zwei
-            * Atelier Iris: Azoth of Destiny
+          * Atelier Iris: Azoth of Destiny
             * Chaos
             * Fee
             * Felt Blanchimont
@@ -13040,7 +13040,7 @@
             * Viese Blanchimont
             * Yach
             * Yuveria
-            * Atelier Iris: Grand Phantasm
+          * Atelier Iris: Grand Phantasm
             * Alvero Kronie
             * Annastra Servatika
             * Ash Fon Abenstein
@@ -13056,7 +13056,7 @@
             * Phenyl Neet
             * Repre
             * Yula Ellis
-            * Atelier Lise
+          * Atelier Lise
             * Alf Octrhein
             * Eallie Mitter
             * Eleore
@@ -13067,7 +13067,7 @@
             * Manon Alexiss
             * Marius Sachsen
             * Poin Stadt
-            * Mana Khemia
+          * Mana Khemia
             * Anna Laemmle
             * Bernard Tieck
             * Cardinand Lorryale ("Lorr")
@@ -13084,7 +13084,7 @@
             * Tony Eisler
             * Vayne Aurelius
             * Zeppel Kriever
-            * Mana Khemia 2
+          * Mana Khemia 2
             * Chloe Hartog
             * Enarsia Deisler
             * Etward Deisler
@@ -13100,7 +13100,7 @@
             * Urxu
             * Wuim
             * Yun
-            * Atelier Annie
+          * Atelier Annie
             * Annie Eilenberg
             * Beaux Shrick
             * Fitz Erberlin
@@ -13113,7 +13113,7 @@
             * Meldia Orkin
             * Pepe
             * Prince Joel
-            * Atelier Rorona
+          * Atelier Rorona
             * Aranya
             * Astrid Zexis
             * Cole Dueller
@@ -13129,7 +13129,7 @@
             * Sterkenburg Cranach ("Sterk")
             * Tiffani Hildebrand
             * Tristan Alcock ("Tantris")
-            * Atelier Lina
+          * Atelier Lina
             * Boris McRae
             * Eselin Freeden
             * Farrah Wesheit
@@ -13140,7 +13140,7 @@
             * Lina Alterier
             * Luon Volk
             * Marcherra Waschen
-            * Atelier Totori
+          * Atelier Totori
             * Cecilia Helmold ("Ceci")
             * Chim
             * Filly Erhard
@@ -13154,14 +13154,14 @@
             * Peter Lietz
             * Piana
             * Totooria Helmold ("Totori")
-            * Atelier Meruru
+          * Atelier Meruru
             * Dessier Horstna Arls
             * Juana Olsys
             * Kaena Swaya
             * Lias Falken
             * Merurulince Rede Arls ("Meruru")
             * Rufus Falken
-            * Atelier Elkrone
+          * Atelier Elkrone
             * Alexey
             * Clemens
             * Elhart
@@ -13170,7 +13170,7 @@
             * Popote
             * Ralph
             * Stefan
-            * Atelier Ayesha
+          * Atelier Ayesha
             * Ayesha Altugle
             * Ernie Lyttelton
             * Fred Rodfork
@@ -13188,7 +13188,7 @@
             * Regina Curtis
             * Tanya Volta
             * Wilbell Voll=Erslied
-            * Atelier Escha & Logy
+          * Atelier Escha & Logy
             * Awin Sidelet
             * Clone
             * Colland Grumman
@@ -13202,7 +13202,7 @@
             * Reyfer Luckberry
             * Solle Grumman
             * Threia Hazelgrimm
-            * Atelier Shallie
+          * Atelier Shallie
             * Albert Perriend
             * Homura
             * Jurie Crotze
@@ -13214,7 +13214,7 @@
             * Shallistera
             * Shallotte Elminus
             * Theokhuga
-            * Atelier Sophie
+          * Atelier Sophie
             * Atomina
             * Cornelia
             * Elise Phulie
@@ -13229,7 +13229,7 @@
             * Plachta
             * Sophie Neuenmuller
             * Tess Heitzmann
-            * Atelier Firis
+          * Atelier Firis
             * Angriff Dahlmann
             * Annelies Exner
             * Aurelie Bluch
@@ -13255,7 +13255,7 @@
             * Revy Berger
             * Shannon Atkins
             * Tiana Paschen
-            * Atelier Lydie & Suelle
+          * Atelier Lydie & Suelle
             * Alt
             * Captain Backen
             * Grace
@@ -13267,12 +13267,12 @@
             * Neige Chintreuil
             * Roger Marlen
             * Suelle Marlen ("Sue")
-            * Nelke and the Legendary Alchemists
+          * Nelke and the Legendary Alchemists
             * Lotos McGregor
             * Knoss 
             * Misty Elerute
             * Nelke Von Luchetam
-            * Atelier Lulua
+          * Atelier Lulua
             * Chim Dragon
             * Christoph Aurel Arland
             * Elmerulia Fryxell ("Lulua")
@@ -13285,7 +13285,7 @@
             * Refle Von Beilschmidt
             * Stia
             * Wild Klinsmann
-            * Atelier Ryza
+          * Atelier Ryza
             * Agatha Harmon
             * Bos Brunnen
             * Empel Vollmer
@@ -13301,15 +13301,15 @@
             * Reisalin Stout ("Ryza")
             * Samuel Marslink
             * Tao Mongarten
-      * List of Azur Lane characters
-      * List of Bleach characters
-          * Main characters
+    * List of Azur Lane characters
+    * List of Bleach characters
+        * Main characters
             * Kurosaki Ichigo
             * Inoue Orihime
             * Kuchiki Rukia
             * Sado Yasutora
             * Ishida Uryuu
-          * Earth characters
+        * Earth characters
             * Arisawa Tatsuki
             * Asano Keigo
             * Hanakari Jinta
@@ -13332,7 +13332,7 @@
             * Unagiya Ikumi
             * Unagiya Kaoru
             * Urahara Kisuke
-            * Vizards
+          * Vizards
             * Aikawa Love
             * Hirako Shinji
             * Kuna Mashiro
@@ -13341,7 +13341,7 @@
             * Sarugaki Hiyori
             * Ushouda Hachigen
             * Yadoumaru Lisa
-            * Fullbringers
+          * Fullbringers
             * Dokugamine Riruka
             * Ginjou Kuugo
             * Jackie Tristan
@@ -13349,8 +13349,8 @@
             * Shishigawara Moe
             * Tsukishima Shuukurou
             * Yukio Hans Vorarlberna
-          * Soul Society characters
-            * Shinigami
+        * Soul Society characters
+          * Shinigami
             * Abarai Ichika
             * Abarai Renji
             * Aizen Sousuke
@@ -13388,7 +13388,7 @@
             * Yamamoto-Genryuusai Shigekuni
             * Yuki Ryuunosuke
             * Zaraki Kenpachi
-            * Zanpakutou
+          * Zanpakutou
             * Ashisogi Jizou
             * Gegetsuburi
             * Gonryoumaru
@@ -13408,32 +13408,32 @@
             * Wabisuke
             * Zabimaru
             * Zangetsu
-            * Others
+          * Others
             * Kuchiki Hisana
             * Shiba Ganju
             * Shiba Kuukaku
             * Shihouin Yuushirou
-          * Arrancar
+        * Arrancar
           * Espadas
           * Former Espadas
           * Privarón Espadas
           * Others / Números
         * Vandenreich
-          * Soul King Palace
+        * Soul King Palace
             * Hikifune Kirio
             * Hyousube Ichibei
             * Kirinji Tenjirou
             * Nimaiya Ouetsu
             * Shutara Senjumaru
             * Soul King
-            * Nimaiya's zanpakutou
+          * Nimaiya's zanpakutou
             * Hashihara Hasuka
             * Hiuchigashima Mera
             * Nomino Nonomi
             * Tonokawa Tokie
             * Tsuchimiya Tsumiko
-          * Anime-only characters
-            * Bount arc
+        * Anime-only characters
+          * Bount arc
             * Ban
             * Hou
             * Ichinose Maki
@@ -13449,7 +13449,7 @@
             * Ugaki
             * Utagawa Ryou
             * Yoshi
-            * Kasumiouji arc
+          * Kasumiouji arc
             * Amagai Shuusuke
             * Enkougawa Rusaburou (Enryuu)
             * Kannogi Shuu
@@ -13458,31 +13458,31 @@
             * Kibune Makoto
             * Kumoi Gyoukaku
             * Nukui Hanza
-            * Zanpakutou arc
+          * Zanpakutou arc
             * Kuchiki Kouga
             * Muramasa
-            * Reigai arc
+          * Reigai arc
             * Inaba Kagerouza
             * Kujou Nozomi
             * Yushima Ouko
-            * Others
+          * Others
             * Kanou Ashido
-          * Movie characters
-            * Memories of Nobody
+        * Movie characters
+          * Memories of Nobody
             * Ganryuu
             * Senna
-            * Bleach: The DiamondDust Rebellion
+          * Bleach: The DiamondDust Rebellion
             * Kusaka Soujirou
             * Yang
             * Yin
-            * Fade to Black
+          * Fade to Black
             * Homura
             * Shizuku
-            * The Hell Verse
+          * The Hell Verse
             * Kokutou
             * Shuren
-      * List of Bokujou Monogatari characters
-          * Bokujou Monogatari/Harvest Moon, Bokujou Monogatari 3/Save the Homeland, Back to Nature and Friends of Mineral Town
+    * List of Bokujou Monogatari characters
+        * Bokujou Monogatari/Harvest Moon, Bokujou Monogatari 3/Save the Homeland, Back to Nature and Friends of Mineral Town
             * Claire
             * Pete
             * Sara
@@ -13507,7 +13507,7 @@
             * Nami
             * Natalie
             * Sefina (Sabrina)
-          * Tree of Tranquility and Waku Waku Animal March/Animal Parade
+        * Tree of Tranquility and Waku Waku Animal March/Animal Parade
             * Akari (Angela)
             * Takeru (Kevin)
             * Hikari (Molly)
@@ -13537,12 +13537,12 @@
             * Fin (Finn)
             * Megami-sama (Harvest Goddess)
             * Kami-sama (Harvest King)
-          * Youkoso! Kaze no Bazaar e/Grand Bazaar
+        * Youkoso! Kaze no Bazaar e/Grand Bazaar
             * Felix
             * Agi (Angelo)
             * Dirka (Dirk)
             * Sherufa (Sherry)
-          * Futago no Mura/The Tale of Two Towns
+        * Futago no Mura/The Tale of Two Towns
             * Sato (Lillian)
             * Yuuri (Phillip)
             * Kenjya-sama (Oracle)
@@ -13550,7 +13550,7 @@
             * Kiriku (Kana)
             * Lia (Laney)
             * Raspberry (Georgia)
-          * Hajimari no Daichi/A New Beginning
+        * Hajimari no Daichi/A New Beginning
             * Rio (Rachel)
             * Haruto (Henry)
             * Yuuri (Yuri)
@@ -13563,7 +13563,7 @@
             * Neil
             * Rod
             * Sengoku (Soseki)
-          * Tsunagaru Shin Tenchi/Story of Seasons
+        * Tsunagaru Shin Tenchi/Story of Seasons
             * Minori (Annie)
             * Menou (Agate)
             * Angela
@@ -13576,19 +13576,19 @@
             * Mistel
             * Nadi
             * Raeger
-          * Mittsu no Sato no Taisetsuna Tomodachi/Trio of Towns
+        * Mittsu no Sato no Taisetsuna Tomodachi/Trio of Towns
             * Nanami (Holly)
             * Ford
             * Kanata
             * Lisette
             * Ludus
-          * Multiple games
+        * Multiple games
             * Gray (ToT, FoMT)
             * Elli (ToT, FoMT)
             * Kamil (TToTT, SoS)
             * Witch-sama (Witch Princess) (ANB, SoS)
-      * List of Brave Girl Ravens characters
-          * Blanc
+    * List of Brave Girl Ravens characters
+        * Blanc
             * Acht
             * Alette Skraud
             * Aurelia
@@ -13616,7 +13616,7 @@
             * Rin Sugar
             * Shizel Kastanie
             * Tiferi
-          * Jade
+        * Jade
             * Alfenia Fanidrad
             * Altia
             * Alveira
@@ -13651,7 +13651,7 @@
             * Stephany Ferel
             * Tanya
             * Yuria Haltul
-          * Vermillon
+        * Vermillon
             * Anna
             * Aria
             * Ariel Ovinie
@@ -13682,7 +13682,7 @@
             * Veruka Kulgrof
             * Viola
             * Zenovia
-          * Demonia
+        * Demonia
             * Crocheus
             * Daria
             * Eles
@@ -13698,7 +13698,7 @@
             * Sheskarna
             * Vis
             * Zenea
-          * Sandica
+        * Sandica
             * Adelite
             * Aina
             * Azalea
@@ -13720,17 +13720,17 @@
             * Sin
             * Vanilla
             * Velvet Falteus
-          * Unknown
+        * Unknown
             * Hekisa
             * Kai
             * Nona
             * Rou
             * Tetra
-      * List of Danganronpa characters
+    * List of Danganronpa characters
         * Danganronpa: trigger happy havoc
-      * List of Digimon
-          * Digimon
-            * Baby I (Fresh)
+    * List of Digimon
+        * Digimon
+          * Baby I (Fresh)
             * Bombmon
             * Botamon
             * Bubbmon
@@ -13755,7 +13755,7 @@
             * Tsubumon
             * YukimiBotamon
             * Yuramon
-            * Baby II (In-Training)
+          * Baby II (In-Training)
             * Algomon
             * Budmon
             * Caprimon
@@ -13786,7 +13786,7 @@
             * Upamon
             * Wanyamon
             * Yarmon
-            * Child (Rookie)
+          * Child (Rookie)
             * Agumon
             * Agumon (Black)
             * Agumon (Savers)
@@ -13876,7 +13876,7 @@
             * Tyumon
             * Veemon
             * Wormmon
-            * Adult (Champion)
+          * Adult (Champion)
             * Airdramon
             * Angemon
             * Ankylomon
@@ -13996,7 +13996,7 @@
             * Yasyamon
             * Yukidarumon
             * Xros Up Arresterdramon
-            * Perfect (Ultimate)
+          * Perfect (Ultimate)
             * Aegiomon
             * AeroVeedramon
             * Andiramon
@@ -14102,7 +14102,7 @@
             * WereGarurumon (Black)
             * Whamon
             * Zudomon
-            * Ultimate (Mega)
+          * Ultimate (Mega)
             * Abbadomon
             * Alphamon
             * Alphamon Ouryuuken
@@ -14281,7 +14281,7 @@
             * ZeedMillenniumon
             * ZekeGreymon
             * Zhuqiaomon
-            * Armor
+          * Armor
             * Allomon
             * Digmon
             * Fladramon
@@ -14309,7 +14309,7 @@
             * Sheepmon
             * Shurimon
             * Swanmon
-            * Hybrid
+          * Hybrid
             * Agnimon
             * Arbormon
             * Blitzmon
@@ -14336,10 +14336,10 @@
             * Strabimon
             * Vritramon
             * Wolfmon
-            * No level
+          * No level
             * Culumon
-          * Appmon
-            * Standard
+        * Appmon
+          * Standard
             * Addmon
             * Aidmon
             * Auctiomon
@@ -14418,7 +14418,7 @@
             * Watchmon
             * Weathermon
             * Yadomon
-            * Super
+          * Super
             * DoGatchmon
             * Dosukomon
             * Logimon
@@ -14426,29 +14426,29 @@
             * Mediamon
             * Mienumon
             * Raidramon
-            * Ultimate
+          * Ultimate
             * Beautymon
             * Bootmon
             * Globemon
             * Shutmon
             * Warudamon
-            * God
+          * God
             * Gaiamon
             * Rebootmon
-          * Digital Lifeforms
+        * Digital Lifeforms
             * DigiGnome
             * Eater
             * Gennai
             * Grani
             * Rhythm
-          * External links
+        * External links
             * Digimon Wiki: List of Digimon
             * Digimon Wiki: List of Appmon
             * Wikimon: List of Digimon
             * Wikimon: List of Appmon
             * Wikimon: Digital Lifeforms
-        * List of Digimon characters
-            * Digimon Adventure
+      * List of Digimon characters
+          * Digimon Adventure
               * Ishida Yamato
               * Izumi Koushirou
               * Kido Jou
@@ -14467,7 +14467,7 @@
               * Takenouchi Toshiko
               * Yagami Susumu
               * Yagami Yuuko
-            * Digimon Adventure 02
+          * Digimon Adventure 02
               * Hida Iori
               * Ichijouji Ken/Digimon Kaiser
               * Inoue Miyako
@@ -14485,7 +14485,7 @@
               * Poi Brothers
               * Wallace
               * Yuri
-            * Digimon Tamers
+          * Digimon Tamers
               * Akiyama Ryou
               * Katou Juri
               * Kitagawa Kenta
@@ -14502,14 +14502,14 @@
               * Uehara Minami
               * Urazoe Kai
               * Yamaki Mitsuo
-            * Digimon Frontier
+          * Digimon Frontier
               * Himi Tomoki
               * Kanbara Takuya
               * Kimura Kouichi
               * Minamoto Kouji
               * Orimoto Izumi
               * Shibayama Junpei
-            * Digimon Savers
+          * Digimon Savers
               * Daimon Masaru
               * Fujieda Yoshino
               * Noguchi Ikuto
@@ -14528,7 +14528,7 @@
               * Satsuma Rentarou
               * Shirakawa Megumi
               * Yushima Hiroshi
-            * Digimon Xros Wars
+          * Digimon Xros Wars
               * Akashi Tagiru
               * Amano Nene
               * Amano Yuu
@@ -14543,13 +14543,13 @@
               * Kudou Taiki's mother
               * Mizuki
               * Old Clock Shop Man
-            * Digimon Adventure tri.
+          * Digimon Adventure tri.
               * Himekawa Maki
               * Mochizuki Meiko
               * Nishijima Daigo
-            * Digimon Adventure: Last Evolution Kizuna
+          * Digimon Adventure: Last Evolution Kizuna
               * Menoa Bellucci
-            * Digimon Universe: Appli Monsters
+          * Digimon Universe: Appli Monsters
               * Astra (Asuka Torajirou)
               * Karan Eri
               * Katsura Rei
@@ -14563,19 +14563,19 @@
               * Kibayashi Erena
               * Kagurazaka Izumi
               * Naoto
-            * Digimon Ghost Game
+          * Digimon Ghost Game
               * Amanokawa Hiro
               * Higashimitarai Kiyoshirou
               * Tsukiyono Ruli
-            * Digimon Adventure V-Tamer 01
+          * Digimon Adventure V-Tamer 01
               * Goutojuki Mari
               * Saiba Rei
-            * Digimon Next
+          * Digimon Next
               * Tatsuno Tsurugi
-            * Digimon World
+          * Digimon World
               * Analogman
               * Protagonist (Mameo)
-            * Digimon World Re:Digitize
+          * Digimon World Re:Digitize
               * Kuga Yuuya
               * Mikagura Mirei
               * Nikolai Petrov
@@ -14583,19 +14583,19 @@
               * Shinomiya Rina
               * Taiga
               * Yakov Borisovich Petrov
-            * Digimon World -next 0rder-
+          * Digimon World -next 0rder-
               * Hirose Kouta
               * Luche
               * Oofuchi Himari
               * Takuto / Shiki
               * Tsuzuki Shouma
-            * Digimon Story: Sunburst and Moonlight
+          * Digimon Story: Sunburst and Moonlight
               * Koh
               * Sayo
-            * Digimon Story: Lost Evolution
+          * Digimon Story: Lost Evolution
               * Kizuna
               * Yui
-            * Digimon Story: Cyber Sleuth
+          * Digimon Story: Cyber Sleuth
               * Aiba Ami / Aiba Takumi
               * Kamishiro Yuugo
               * Kamishiro Yuuko
@@ -14608,16 +14608,16 @@
               * Kishibe Rie
               * Matayoshi Gorou
               * Oruru
-            * Digimon Story: Cyber Sleuth - Hacker's Memory
+          * Digimon Story: Cyber Sleuth - Hacker's Memory
               * Amazawa Keisuke
               * Imai Chitose
               * Mishima Erika
               * Mishima Ryuuji
               * K
               * Nogi Yuu
-            * Digimon Linkz
+          * Digimon Linkz
               * Kurihara Hina
-            * Digimon ReArise
+          * Digimon ReArise
               * Male Protagonist / Female Protagonist
               * Shinjou Michi
               * Hiiragi Takumi
@@ -14625,7 +14625,7 @@
               * Tamada Keito
               * Tamada Nozomi
               * Tsukimori Chihiro
-            * Digimon Survive
+          * Digimon Survive
               * Momotsuka Takuma
               * Hyuuga Minoru
               * Kayama Shuuji
@@ -14635,9 +14635,9 @@
               * Shinonome Miu
               * Tominaga Ryou
           * See also
-      * List of Dragon Ball characters
-          * Dragon Ball
-            * Major characters
+    * List of Dragon Ball characters
+        * Dragon Ball
+          * Major characters
             * Son Goku
             * Bulma
             * Oolong
@@ -14646,7 +14646,7 @@
             * Puar
             * Kuririn
             * Lunch
-            * Supporting characters
+          * Supporting characters
             * Android 8
             * Announcer
             * Baba
@@ -14666,7 +14666,7 @@
             * Suno
             * Umigame
             * Yajirobe
-            * Minor characters
+          * Minor characters
             * Bacterian
             * Bear Thief
             * Dracula Man
@@ -14680,7 +14680,7 @@
             * Suke-san
             * Tiger Thief
             * Toninjinka
-            * Anime-only
+          * Anime-only
             * Annin
             * Chao
             * Chuu Lee
@@ -14690,7 +14690,7 @@
             * Mint
             * Pochawompa
             * Tanmen
-            * Enemies
+          * Enemies
             * Emperor Pilaf
             * Shuu
             * Mai
@@ -14714,8 +14714,8 @@
             * Drum
             * Piano
             * Piccolo Jr.
-          * Dragon Ball Z
-            * Z-era Dragon Team
+        * Dragon Ball Z
+          * Z-era Dragon Team
             * Son Goku
             * Piccolo
             * Son Gohan
@@ -14730,7 +14730,7 @@
             * Son Goten
             * Gotenks
             * Vegetto
-            * Supporting characters
+          * Supporting characters
             * Bra
             * Bubbles
             * Bulma
@@ -14752,7 +14752,7 @@
             * Uub
             * Videl
             * Yajirobe
-            * Minor characters
+          * Minor characters
             * Farmer
             * Gotan
             * Ireza
@@ -14763,7 +14763,7 @@
             * Mighty Mask
             * Puntar
             * Sharpner
-            * Kaiou and Kaioshins
+          * Kaiou and Kaioshins
             * Dai Kaiou
             * Dai Kaioushin
             * East Kaiou
@@ -14773,7 +14773,7 @@
             * South Kaioushin
             * West Kaiou
             * West Kaioushin
-            * Namekians
+          * Namekians
             * Cargo
             * Dende
             * Kami-sama
@@ -14781,7 +14781,7 @@
             * Nail
             * Porunga
             * Saichoro / Grand Elder Guru
-            * Galactic Frieza Army
+          * Galactic Frieza Army
             * Frieza
             * King Cold
             * Zarbon
@@ -14796,7 +14796,7 @@
             * Burter
             * Recoome
             * Guldo
-            * Dr. Gero's androids
+          * Dr. Gero's androids
             * Dr. Gero
             * Android 19
             * Cell
@@ -14804,7 +14804,7 @@
               * Semi-perfect Cell
               * Perfect Cell
             * Cell Junior
-            * Babidi's Majins
+          * Babidi's Majins
             * Babidi
             * Dabura
             * Yakon
@@ -14816,10 +14816,10 @@
               * Super Buu
               * Kid Buu
             * Majin Vegeta
-            * Neutral
+          * Neutral
             * Android 16
             * Android 17
-            * Anime-only
+          * Anime-only
             * Angela
             * Caroni
             * Goz
@@ -14833,17 +14833,17 @@
             * Piiza
             * Pikkon
             * Pirozhki
-          * Dragon Ball GT
-            * Major characters
+        * Dragon Ball GT
+          * Major characters
             * Son Goku
             * Pan
             * Trunks
             * Giru
             * Vegeta
             * Uub
-            * Supporting characters
+          * Supporting characters
             * Palace
-            * Minor characters
+          * Minor characters
             * Commander Neeji
             * Ledgic
             * Leon
@@ -14852,7 +14852,7 @@
             * Son Goku Jr.
             * Ultimate Shenron
             * Vegeta Jr.
-            * Enemies
+          * Enemies
             * Baby
               * Baby Vegeta
             * General Rilldo
@@ -14870,8 +14870,8 @@
             * Rage Shenron
             * Oceanus Shenron
             * Naturon Shenron
-          * Dragon Ball Super (and Ginga Patrol Jaco)
-            * Introduced characters
+        * Dragon Ball Super (and Ginga Patrol Jaco)
+          * Introduced characters
             * Jaco
             * Goku Black
             * Granolah
@@ -14892,7 +14892,7 @@
             * Zamasu
               * Fused Zamasu
             * Zen'ou
-            * Gods of Destruction
+          * Gods of Destruction
             * U1 Iwan
             * U2 Heles
             * U3 Mosco
@@ -14905,7 +14905,7 @@
             * U10 Rumush
             * U11 Belmod
             * U12 Giin
-            * Universe Kaioshins
+          * Universe Kaioshins
             * U1 Anato
             * U2 Pell
             * U3 Eyre
@@ -14918,7 +14918,7 @@
             * U10 Gowasu
             * U11 Khai
             * U12 Agu
-            * Angels
+          * Angels
             * Daishinkan / Grand Priest
             * U1 Awamo
             * U2 Sour
@@ -14932,7 +14932,7 @@
             * U10 Cus
             * U11 Marcarita
             * U12 Martinu
-            * Universe 2
+          * Universe 2
             * Brianne de Chateau / Ribrianne
             * Sanka Ku / Kakunsa
             * Su Roas / Roasie
@@ -14943,7 +14943,7 @@
             * Zirloin
             * Prum
             * Harmira
-            * Universe 3
+          * Universe 3
             * Za Priccio
             * Narirama
             * Nigrissi
@@ -14956,7 +14956,7 @@
             * Paparoni
             * Koiceareta
             * Anirasa
-            * Universe 4
+          * Universe 4
             * Damom
             * Ganosu
             * Caway
@@ -14967,7 +14967,7 @@
             * Majora
             * Gamisalas
             * Xiangca
-            * Universe 6
+          * Universe 6
             * Hit
             * Frost
             * Auta Magetta
@@ -14979,7 +14979,7 @@
             * Kale
             * Caulifla
             * Kefla
-            * Universe 9
+          * Universe 9
             * Basil
             * Lavender
             * Bergamo
@@ -14990,7 +14990,7 @@
             * Sorrel
             * Hop
             * Comfrey
-            * Universe 10
+          * Universe 10
             * Murichim
             * Lilibeu
             * Dyrasem
@@ -15001,7 +15001,7 @@
             * Zircor
             * Obni
             * Dium
-            * Universe 11
+          * Universe 11
             * Jiren
             * Toppo
             * Dyspo
@@ -15012,104 +15012,104 @@
             * Cocotte
             * Kettle
             * Kahseral
-          * Neko Majin
-            * Characters
+        * Neko Majin
+          * Characters
             * Kuriza
             * Neko Majin Mike
             * Neko Majin Z
             * Onio
-          * Movies, OVAs and TV specials
-            * Curse of the Blood Rubies
+        * Movies, OVAs and TV specials
+          * Curse of the Blood Rubies
             * King Gurumes
             * Pansy
-            * Sleeping Princess in Devil's Castle
+          * Sleeping Princess in Devil's Castle
             * Lucifer
-            * Dead Zone
+          * Dead Zone
             * Garlic Jr.
             * Nicky
             * Ginger
             * Sansho
-            * The World's Strongest
+          * The World's Strongest
             * Dr. Kochin
             * Dr. Wheelo
             * Ebifurya
             * Kishime
             * Misokatsun
-            * The Tree of Might
+          * The Tree of Might
             * Tullece
             * Amond 
             * Cacao
             * Daiz
             * Lakasei and Rasin
             * Icarus
-            * Bardock - The Father of Goku
+          * Bardock - The Father of Goku
             * Bardock
             * Panbukin
             * Seripa
             * Toma
             * Toteppo
-            * Lord Slug
+          * Lord Slug
             * Lord Slug
             * Angila
             * Dorodabo
             * Medamatcha
             * Zeeun
-            * Cooler's Revenge
+          * Cooler's Revenge
             * Cooler
             * Doore
             * Neiz 
             * Salza
-            * The Return of Cooler
+          * The Return of Cooler
             * Meta-Cooler
-            * Super Android 13
+          * Super Android 13
             * Android 13
               * Android 13 (fused)
             * Android 14
             * Android 15
-            * The History of Trunks
+          * The History of Trunks
             * Bulma (Future)
             * Son Gohan (Future)
-            * Broly - The Legendary Super Saiyan
+          * Broly - The Legendary Super Saiyan
             * Broly
             * Paragus
-            * Plan to Eradicate the Saiyans
+          * Plan to Eradicate the Saiyans
             * Hatchiyack
-            * Bojack Unbound
+          * Bojack Unbound
             * Bojack
             * Bidoo 
             * Buujin
             * Gokua
             * Zangya
-            * Bio-Broly
+          * Bio-Broly
             * Bio Broly
-            * Fusion Reborn
+          * Fusion Reborn
             * Gogeta
             * Janemba
             * Veku
-            * Wrath of the Dragon
+          * Wrath of the Dragon
             * Hirudegarn
             * Tapion
-            * A Hero's Legacy
+          * A Hero's Legacy
             * Gettou
             * Mamba
             * Puck
             * Rakkaru
-            * Yo! Son Goku and Friends Return!!
+          * Yo! Son Goku and Friends Return!!
             * Abo and Kado
             * Gure
             * Tarble
-            * Episode of Bardock
+          * Episode of Bardock
             * Berry
             * Ipana
             * Chilled
             * Kyabira
             * Toobi
-            * Resurrection ‘F’
+          * Resurrection ‘F’
             * Golden Frieza
             * Shisami 
             * Sorbet
             * Tagoma 
-            * Broly (and Dragon Ball Minus)
+          * Broly (and Dragon Ball Minus)
             * Bah
             * Berryblue
             * Broly (Dragon Ball Super)
@@ -15121,7 +15121,7 @@
             * Leek
             * Lemo
             * Paragus (Dragon Ball Super)
-            * Super Hero
+          * Super Hero
             * Carmine
             * Cell Max
             * Dr. Hedo
@@ -15130,14 +15130,14 @@
             * Janet
             * Magenta
             * Soldier no. 15
-          * Videogames
-            * Dragon Ball Online
+        * Videogames
+          * Dragon Ball Online
             * Female Majin
             * Mira
             * Masked Saiyan
             * Towa
             * Trunks (Future) (Xeno)
-            * (Super) Dragon Ball Heroes
+          * (Super) Dragon Ball Heroes
             * Bardock (Xeno)
             * Beat
             * Forte
@@ -15160,22 +15160,22 @@
             * Cumber
             * Hearts
             * Female Warrior in Black
-            * Dragon Ball Xenoverse
+          * Dragon Ball Xenoverse
             * Chronoa
             * Demigra
             * Mirai Senshi
             * Tokitoki
-            * Dragon Ball Fighterz
+          * Dragon Ball Fighterz
             * Android 21
               * Majin Android 21
-            * Dragon Ball Fusions
+          * Dragon Ball Fusions
             * Pandel
-            * Dragon Ball Legends
+          * Dragon Ball Legends
             * Giblet
             * Shallot
             * Zahha
-      * List of Dragon Quest characters
-          * Dragon Quest I
+    * List of Dragon Quest characters
+        * Dragon Quest I
             * Dragon Lord
             * Hero
             * Princess Laura
@@ -15278,20 +15278,20 @@
             * Shaaru (Frysabel)
             * Sylvia (Sylvando)
             * Veronica
-          * Dragon Quest Builders
+        * Dragon Quest Builders
             * Ameruda
             * Eru
             * Male Builder
             * Female Builder
             * Pirin
-          * Dragon Quest Builders 2
+        * Dragon Quest Builders 2
             * Female Builder
             * Male Builder
             * Pero (Babs)
             * Ruru (Lulu)
             * Sidoh (Malroth)
             * Zesel (Zara)
-          * Dragon Quest Dai no Daibouken
+        * Dragon Quest Dai no Daibouken
             * Avan de Ginual the Third
             * Baran
             * Dai 
@@ -15300,34 +15300,34 @@
             * Matoriv
             * Pop
             * Princess Leona
-          * Dragon Quest Heroes
+        * Dragon Quest Heroes
             * Akuto (Luceus)
             * Dirk (Doric)
             * Julietta (Isla)
             * Meer (Aurora)
-          * Dragon Quest Heroes II
+        * Dragon Quest Heroes II
             * Ceser
             * Ornaze (Desdemona)
             * Razel (Lazarel)
             * Teresia
-          * Dragon Quest Monsters
+        * Dragon Quest Monsters
             * Machiko
-          * Dragon Quest Monsters Plus
+        * Dragon Quest Monsters Plus
             * Marumo
-          * Dragon Quest Monsters 2
+        * Dragon Quest Monsters 2
             * Iru
-          * Dragon Quest Swords
+        * Dragon Quest Swords
             * Baud
             * Dean
             * Hero
             * Setia
-          * Dragon Quest Yuusha Abel Densetsu
+        * Dragon Quest Yuusha Abel Densetsu
             * Abel
             * Daisy
             * Mokomoko
             * Tialah
             * Yanak
-          * List of Monsters
+        * List of Monsters
             * Baby Satan
             * Bakudan Baby (Ticking Timeburn)
             * Brownie
@@ -15376,22 +15376,22 @@
               * Slime Tsumuri
             * Squid Kid
             * Wyvern
-          * List of Costumes
+        * List of Costumes
             * Angel Leotard
             * Dancer's Costume
             * Magic Bikini
             * Pink Leotard
             * Revealing Swimsuit
             * Sexy Underwear
-      * List of Fate Series characters
-          * Multiple Games
+    * List of Fate Series characters
+        * Multiple Games
             * Alter Servant
             * Are You My Master
             * Command Spell
             * Crest Worm
             * Holy Grail
             * Lily Servant
-          * Class Cards
+        * Class Cards
             * Alter Ego Class
             * Archer Class
             * Assassin Class
@@ -15402,7 +15402,7 @@
             * Rider Class
             * Ruler class
             * Saber Class
-          * Fate/Stay Night
+        * Fate/Stay Night
             * Archer
               * Archer Alter
               * Caladbolg
@@ -15468,7 +15468,7 @@
             * Sella
             * Tohsaka Rin
               * Zelretch Sword
-          * Fate/Hollow Ataraxia
+        * Fate/Hollow Ataraxia
             * Angra Mainyu
               * Tawrich & Zarich
             * Bazett Fraga McRemitz
@@ -15483,7 +15483,7 @@
             * Older Edelfelt Sister
             * Stheno
             * Younger Edelfelt Sister
-          * Fate/Zero
+        * Fate/Zero
             * Assassin
               * Child Assassin
               * Female Assassin
@@ -15524,9 +15524,9 @@
             * Unnamed boy
             * Uryuu Ryuunosuke
             * Waver Velvet
-          * Fate/Tiger Colosseum
+        * Fate/Tiger Colosseum
             * Saber Lion
-          * Fate/Kaleid Liner Prisma Illya
+        * Fate/Kaleid Liner Prisma Illya
             * Archer (Prisma Illya)
             * Chloe von Einzbern
             * Cu Chulainn (Prisma Illya)
@@ -15539,9 +15539,9 @@
             * Miyu Edelfelt
             * Prisma Illya
             * Tanaka
-          * Fate/Unlimited Codes
+        * Fate/Unlimited Codes
             * Saber Lily
-          * Fate/Strange Fake
+        * Fate/Strange Fake
             * Alcides (True Archer)
             * Alexandre Dumas (False Caster)
             * No Name Assassin (False Assassin)
@@ -15564,7 +15564,7 @@
             * Tine Chelc
             * Watcher
             * Wolf
-          * Fate/Extra
+        * Fate/Extra
             * Alice
             * Amaterasu
             * Dan Blackmore
@@ -15600,9 +15600,9 @@
             * Tohsaka Rin (Lancer)
             * Twice H Pieceman
             * Vlad III (Lancer)
-          * Carnival Phantasm
+        * Carnival Phantasm
             * Grail-kun
-          * Fate/Prototype
+        * Fate/Prototype
             * Archer's Master
             * Arthur Pendragon (Saber)
               * Arthur Pendragon Alter
@@ -15619,7 +15619,7 @@
             * Sajou Ayaka
             * Sajou Manaka
             * Sancraid Phahn
-          * Koha-Ace
+        * Koha-Ace
             * Li Shuwen (Old, Lancer)
             * Major Matou
             * Major Reiter
@@ -15633,7 +15633,7 @@
             * Oryou
             * Sakamoto Ryouma
             * Toyotomi Hideyoshi
-          * Fate/Apocrypha
+        * Fate/Apocrypha
             * Achilles (Rider of Red)
             * Amakusa Shirou (Kotomine Shirou)
             * Astolfo (Rider of Black)
@@ -15667,10 +15667,10 @@
             * Spartacus (Berserker of Red)
             * Vlad III (Lancer of Black)
             * William Shakespeare (Caster of Red)
-          * Capsule Servant
+        * Capsule Servant
             * Master Artoria
             * TO-SAKA
-          * Fate/Extra CCC
+        * Fate/Extra CCC
             * BB
             * Elizabeth Bathory (Lancer)
               * Sarkany Csont Landzsa
@@ -15680,15 +15680,15 @@
             * Passionlip
             * Secret Garden
             * Sesshouin Kiara
-          * Rojiura Satsuki: Chapter Heroine Sanctuary
+        * Rojiura Satsuki: Chapter Heroine Sanctuary
             * Mysterious Heroine X
               * Himitsucalibur
-          * Fate/Extra CCC Fox Tail
+        * Fate/Extra CCC Fox Tail
             * Kazuradrop
             * Kingprotea
             * Suzuka Gozen (Saber)
             * Violet
-          * Fate/Prototype: Fragments of Blue and Silver
+        * Fate/Prototype: Fragments of Blue and Silver
             * Arash (Archer)
             * Brynhildr (Lancer)
               * Brynhildr Romantia
@@ -15705,7 +15705,7 @@
             * Ozymandias (Rider)
               * Sphinx Awlad
             * Paracelsus (Caster)
-          * Lord El-Melloi II Case Files
+        * Lord El-Melloi II Case Files
             * Adashino Hishiri
             * Faker
             * Flueger
@@ -15721,7 +15721,7 @@
             * Tokitou Jiroubou Seizen
             * Trisha Fellows
             * Yvette L. Lehrman
-          * Fate/Grand Order
+        * Fate/Grand Order
             * Abe no Seimei
             * Abigail Williams
               * Abigail Williams (Swimsuit Foreigner)
@@ -16113,20 +16113,20 @@
               * Yu Mei-ren (Swimsuit Lancer)
             * Zenobia
             * Zeus
-          * Fate/Extella
+        * Fate/Extella
             * Altera
               * Photon Ray
             * Archimedes
             * Elizabeth Bathory (corroded)
-          * Fate/Empire of Dirt
+        * Fate/Empire of Dirt
             * Caster
             * Liu Xiu
-          * Fate/Extella Link
+        * Fate/Extella Link
             * Altera Larva
             * Charlemagne (Saber)
               * Joyeuse Ordre
               * Karl der Grosse
-          * Fate/Grand Order Arcade
+        * Fate/Grand Order Arcade
             * Cú Chulainn
               * Setanta
             * Frankenstein's Monster (Christmas) (Caster)
@@ -16138,7 +16138,7 @@
             * Noah
             * Queen Draco
             * Suzuka Gozen (Santa) (Lancer)
-          * Fate/Requiem
+        * Fate/Requiem
             * Caren Fujimura
             * Galahad Alter 
             * Karin
@@ -16148,20 +16148,20 @@
             * Nzambi
             * Utsumi Erice
             * Voyager
-          * Fate/type Redline
+        * Fate/type Redline
             * Akagi Kanata
             * Fujimiya Tsukumo
-          * Fate/Grand Carnival
+        * Fate/Grand Carnival
             * Mysterious Neko V
             * Mysterious Neko W
             * Mysterious Neko X
             * Mysterious Neko Y
-          * Fate:Lost Einherjar
+        * Fate:Lost Einherjar
             * Aslaug
             * Ragnar Lodbrok
             * Remina Eltfrom Yggdmillennia
-      * List of Final Fantasy characters
-          * Games
+    * List of Final Fantasy characters
+        * Games
             * Player:
               * Warrior of Light
             * Side Characters:
@@ -16210,8 +16210,8 @@
               * Unei
               * Xande
             * FINAL FANTASY IV
-      * List of Fire Emblem characters
-          * Fire Emblem: Shadow Dragon and the Blade of Light
+    * List of Fire Emblem characters
+        * Fire Emblem: Shadow Dragon and the Blade of Light
             * Abel
             * Astram
             * Barst
@@ -16255,7 +16255,7 @@
             * Wolf
             * Wrys
             * Xane
-            * Fire Emblem: Shadow Dragon
+          * Fire Emblem: Shadow Dragon
             * Athena
             * Etzel
             * Frey
@@ -16263,7 +16263,7 @@
             * Nagi
             * Norne
             * Ymir
-          * Fire Emblem Gaiden
+        * Fire Emblem Gaiden
             * Alm
             * Argentum
             * Atlas
@@ -16330,7 +16330,7 @@
             * Xaizor
             * Zakson
             * Zeke
-            * Fire Emblem Echoes: Shadows of Valentia
+          * Fire Emblem Echoes: Shadows of Valentia
             * Berkut
             * Conrad
             * Faye
@@ -16338,7 +16338,7 @@
             * Irma
             * Jarth
             * Rinea
-          * Fire Emblem: Mystery of the Emblem
+        * Fire Emblem: Mystery of the Emblem
             * Arlen
             * Cecil
             * Jubelo
@@ -16350,13 +16350,13 @@
             * Sheena
             * Warren
             * Yuliya
-            * Fire Emblem: New Mystery of the Emblem
+          * Fire Emblem: New Mystery of the Emblem
             * Clarisse
             * Katarina
             * Kris
             * Legion
             * Malice 
-          * Fire Emblem: Genealogy of the Holy War
+        * Fire Emblem: Genealogy of the Holy War
             * Alec
             * Altena
             * Alva
@@ -16432,7 +16432,7 @@
             * Travant
             * Tristan
             * Scathach
-          * Fire Emblem: Thracia 776
+        * Fire Emblem: Thracia 776
             * Alva
             * Amalda
             * Carrion
@@ -16459,7 +16459,7 @@
             * Tina
             * Troude 
             * Xavier
-          * Fire Emblem: the Binding Blade
+        * Fire Emblem: the Binding Blade
             * Alen
             * Bartre
             * Brunnya
@@ -16497,14 +16497,14 @@
             * Thea
             * Wolt
             * Zephiel
-          * Fire Emblem: Hasha no Tsurugi
+        * Fire Emblem: Hasha no Tsurugi
             * Al
             * Celdia
             * Jemmy
             * Kilmar
             * Tiena
             * Zeed
-          * Fire Emblem: the Blazing Blade
+        * Fire Emblem: the Blazing Blade
             * Canas
             * Dart
             * Dorcas
@@ -16551,7 +16551,7 @@
             * Vaida
             * Wil
             * Wolt
-          * Fire Emblem: the Sacred Stones
+        * Fire Emblem: the Sacred Stones
             * Amelia
             * Artur
             * Colm
@@ -16588,7 +16588,7 @@
             * Tana
             * Tethys
             * Vanessa
-          * Fire Emblem: Path of Radiance
+        * Fire Emblem: Path of Radiance
             * Ashnard
             * Astrid
             * Bastian
@@ -16638,7 +16638,7 @@
             * Tormod
             * Volke
             * Zihark
-          * Fire Emblem: Radiant Dawn
+        * Fire Emblem: Radiant Dawn
             * (3-13 Archer)
             * Altina
             * Aran
@@ -16666,7 +16666,7 @@
             * Volug
             * Yune
             * Zelgius
-          * Fire Emblem Awakening
+        * Fire Emblem Awakening
             * Anna
             * Aversa
             * Basilio
@@ -16715,8 +16715,8 @@
             * Vaike
             * Virion
             * Yarne
-          * Fire Emblem Fates
-            * All Routes
+        * Fire Emblem Fates
+          * All Routes
             * Corrin/(female)/(male)
             * Azura (Aqua)
             * Felicia
@@ -16731,7 +16731,7 @@
             * Midori (Midoriko)
             * Shigure
             * Sophie
-            * Conquest (Nohr Kingdom / An'ya Oukoku)
+          * Conquest (Nohr Kingdom / An'ya Oukoku)
             * Arthur (Harold)
             * Benny (Benoit)
             * Beruka (Berka)
@@ -16758,7 +16758,7 @@
             * Siegbert
             * Soleil
             * Velouria (Velour)
-            * Birthright (Hoshido Kingdom / Byakuya Oukoku)
+          * Birthright (Hoshido Kingdom / Byakuya Oukoku)
             * Azama (Asama)
             * Hana (Kazahana)
             * Hayato (Tsukuyomi)
@@ -16785,7 +16785,7 @@
             * Rhajat (Syalla)
             * Selkie (Kinu)
             * Shiro (Shinonome)
-            * NPC Only
+          * NPC Only
             * Arete (Shenmei)
             * Fuga (Fuuga)
             * Garon
@@ -16793,10 +16793,10 @@
             * Lilith
             * Mikoto
             * Anankos
-            * Monsters
+          * Monsters
             * Faceless
             * Stoneborn
-          * Fire Emblem: Three Houses
+        * Fire Emblem: Three Houses
             * Byleth
               * Male
               * Female
@@ -16842,13 +16842,13 @@
             * Balthus von Albrecht
             * Constance von Nuvelle
             * Hapi
-            * Others
+          * Others
             * Death Knight
             * Gatekeeper (Unnamed gatekeeper NPC)
             * Jeralt Reus Eisner
             * Kronya
             * Nemesis
-          * Fire Emblem Heroes
+        * Fire Emblem Heroes
             * Alfonse
             * Eir
             * Feh
@@ -16871,12 +16871,12 @@
             * Thrasir
             * Veronica
             * Ylgr
-          * Fire Emblem Warriors
+        * Fire Emblem Warriors
             * Lianna
             * Rowan
-      * List of Flower Knight Girl characters
-      * List of Gensou Suikoden characters
-          * Gensou Suikoden I
+    * List of Flower Knight Girl characters
+    * List of Gensou Suikoden characters
+        * Gensou Suikoden I
             * Ain Gide
             * Alen
             * Anji
@@ -17002,7 +17002,7 @@
             * Yuber
             * Zen
             * Zorak
-          * Gensou Suikoden II
+        * Gensou Suikoden II
             * Agares Blight
             * Anita
             * Bright
@@ -17048,7 +17048,7 @@
             * Yam Koo
             * Yoshino Yamamoto
             * Zaj Quilous
-          * Gensou Suikoden III
+        * Gensou Suikoden III
             * Ace
             * Aila
             * Alanis
@@ -17114,7 +17114,7 @@
             * Yuiri
             * Yumi
             * Yun
-          * Gensou Suikoden IV
+        * Gensou Suikoden IV
             * Adrienne
             * Agnes
             * Akaghi
@@ -17223,7 +17223,7 @@
             * Warlock
             * Wendel
             * Yu
-          * Gensou Suikoden V
+        * Gensou Suikoden V
             * Alenia
             * Arshtat Falenas
             * Belcoot
@@ -17287,7 +17287,7 @@
             * Corselia
             * Kyril
             * Yohn
-          * Gensou Suikoden Tierkreis
+        * Gensou Suikoden Tierkreis
             * Anya
             * Buchse
             * Diadora
@@ -17305,9 +17305,9 @@
             * Roberto
             * Sisuca
             * Sphiel
-      * List of Girls' Frontline characters
-          * Tactical Dolls / 战术人形
-            * Handguns / 手枪
+    * List of Girls' Frontline characters
+        * Tactical Dolls / 战术人形
+          * Handguns / 手枪
             * M1911
             * Nagant Revolver / Nagant M1895 / 纳甘左轮 
             * P38 / Walther P38
@@ -17373,7 +17373,7 @@
             * Kolibri / Kolibri 2.7mm Autopistol
             * Rhino / Chiappa Rhino
             * M327
-            * Submachine gun / 冲锋枪
+          * Submachine gun / 冲锋枪
             * MP40 / Maschinenpistole 40
             * Beretta Model 38 / MAB 38 / 伯莱塔38型
             * PPSh-41 / Pistolet-Pulemyot Shpagina 41
@@ -17445,7 +17445,7 @@
             * SR-2 / SR-2 Veresk
             * Sterling
             * Agent Vector / KRISS Vector / Tom Clancy's The Division 
-            * Rifle / 步枪
+          * Rifle / 步枪
             * SVT-38
             * G43 / Gewehr 43 / Karabiner 43
             * FN-49 / Fabrique Nationale Model 1949
@@ -17515,7 +17515,7 @@
             * Savage 99 
             * De Lisle 
             * HS.50
-            * Assault Rifle / 突击步枪
+          * Assault Rifle / 突击步枪
             * L85A1 / L85A1 IW (Individual Weapon)
             * G3 / Heckler & Koch G3
             * Galil / IMI Galil / 加利尔 
@@ -17600,7 +17600,7 @@
             * SCR / FightLite SCR Raider
             * AR-18
             * Agent 416 / Patriot Ordnance Factory P416 / Tom Clancy's The Division 
-            * Machine gun / 机枪
+          * Machine gun / 机枪
             * MG34 / Maschinengewehr 34
             * DP28 / Degtyarev Pechotnyi 28
             * AAT-52 / Arme Automatique Transformable Modèle 1952
@@ -17644,7 +17644,7 @@
             * RPK-203
             * MG338
             * M240L
-            * Shotgun
+          * Shotgun
             * M500 / Mossberg M500
             * KS-23 / Karabin Spetsialniy-23
             * RMB-93 / RMB-93 “Rys-k”
@@ -17682,21 +17682,21 @@
             * M26-MASS / M26 Modular Accessory Shotgun System
             * MK3A1 / Pancor Jackhammer Mk3
             * SPAS-15 
-            * Unused
+          * Unused
             * W / presumed Mk18 CQBW (scrapped early on with departure of UmiNeko from MICA)
             * SCAR / presumed FN SCAR (unknown status due to departure of Suisai from MICA, has been mentioned in-game)
             * K7 / Daewoo Precision Industries K7 (5★ SMG, cancelled release due to Korean Megalia controversy)
             * KGP-9 (3★ SMG, cancelled release due to base frame being traced)
-      * List of Girls und Panzer characters
-          * Original anime
+    * List of Girls und Panzer characters
+        * Original anime
             * Theme:
-      * List of Hunter x Hunter characters
-          * Main 
+    * List of Hunter x Hunter characters
+        * Main 
             * Gon Freecss
             * Killua Zoldyck 
             * Kurapika
             * Leorio Paladiknight
-          * The Phantom Troupe (幻影旅団, Gen'ei Ryodan)
+        * The Phantom Troupe (幻影旅団, Gen'ei Ryodan)
             * Chrollo Lucilfer
             * Bonorenofu
             * Feitan
@@ -17712,8 +17712,8 @@
             * Shalnark (#6)
             * Shizuku (#8)
             * Uvogin (#11)
-          * Zoldyck Family
-            * Family members
+        * Zoldyck Family
+          * Family members
             * Maha Zoldyck
             * Zeno Zoldyck
             * Grandmother
@@ -17725,7 +17725,7 @@
             * Alluka Zoldyck
             * Kalluto Zoldyck
             * Zzigg Zoldyck
-            * Servants
+          * Servants
             * Amane
             * Canary
             * Gotoh
@@ -17736,17 +17736,17 @@
             * Tsubone
             * Yasuha
             * Zebro
-            * Pet
+          * Pet
             * Mike
-          * Hunters
-            * Hunter Examiners
+        * Hunters
+          * Hunter Examiners
             * Satotz 
             * Menchi
             * Buhara
             * Lippo
             * Togari
             * Masta
-            * Trick Tower Prisoners
+          * Trick Tower Prisoners
             * Bendot
             * Johness
             * Leroute
@@ -17776,7 +17776,7 @@
             * Zepile (288th Hunter Examination)
             * Matthew (Applicant)
             * Anita (anime-only)
-            * Professional Hunters
+          * Professional Hunters
             * Bushidora Ambitious
             * Cutie Beauty
             * Ickshonpe Katocha
@@ -17793,19 +17793,19 @@
             * Shoot McMahon
             * Sanbica Norton
             * Teradein Neutral
-            * Amateur Hunters
+          * Amateur Hunters
             * Banana Kavaro
             * Lin Koshi
             * Monta Yuras
             * Podungo Lapoy
             * Spinner Clow
             * Stick Dinner
-          * Hunter Association
-            * Chairman
+        * Hunter Association
+          * Chairman
             * Isaac Netero
-            * Secretary
+          * Secretary
             * Beans
-            * The Zodiac Twelve (十二支ん, Jūnishin) 
+          * The Zodiac Twelve (十二支ん, Jūnishin) 
             * Pariston Hill
             * Mizaistom Nana
             * Kanzai
@@ -17818,16 +17818,16 @@
             * Clook
             * Cheadle Yorkshire
             * Ging Freecss
-          * Whale Island
+        * Whale Island
             * Mito Freecss
             * Abe
             * Noko
             * Kon
-          * Kurta Clan
+        * Kurta Clan
             * Pairo
-          * Heavens Arena
+        * Heavens Arena
             * Wing
-            * Fighters
+          * Fighters
             * Zushi
             * Gido
             * Riehlvelt
@@ -17835,10 +17835,10 @@
             * Kastro
             * Chipapa
             * Maita
-            * Commentators
+          * Commentators
             * Cocco
-          * Mafia Community
-            * Nostrade Organization
+        * Mafia Community
+          * Nostrade Organization
             * Light Nostrade
             * Neon Nostrade
             * Senritsu
@@ -17850,28 +17850,28 @@
             * Sukuwara
             * Baise
             * Ivlenkov
-            * Shadow Beasts
+          * Shadow Beasts
             * Hiru (Leech)
             * Fukurou (Owl)
             * Yama Arashi (Porcupine)
             * Yama Inu (Rabid Dog)
             * Mimizu (Worm)
-            * Mafia
+          * Mafia
             * Zenji
             * Bean
-          * Greed Island
-            * G.I. Game Masters
+        * Greed Island
+          * G.I. Game Masters
             * Ging Freecss
             * Razor
             * Eeta
             * Elena
             * Dwun
             * List
-            * Death Row Convicts
+          * Death Row Convicts
             * Bopobo
             * PirateBoxer
             * PirateFootballer
-            * G.I. Players
+          * G.I. Players
             * Abengane
             * Amana
             * Arka
@@ -17926,27 +17926,27 @@
             * Zeho
             * Zenju
             * Zetsk Bellam
-            * The Bomb Devils
+          * The Bomb Devils
             * Genthru
             * Sub
             * Bara
-          * NGL
-            * Inhabitants
+        * NGL
+          * Inhabitants
             * Haruna
             * Kurt
             * Reina
             * Gyro
             * Rover
             * Spot
-            * NGL expedition
+          * NGL expedition
             * Balda
             * Pekuba
-            * Republic of East Gorteau
+          * Republic of East Gorteau
             * Ming Jol-ik
             * Bizeff
             * Marcos
             * Komugi
-            * Chimera Ants
+          * Chimera Ants
             * Queen
             * Meruem
             * Neferpitou
@@ -17995,8 +17995,8 @@
             * Gorilla
             * Stag Beetle
             * Gun-toting Ant
-          * Kakin
-            * King & Queens
+        * Kakin
+          * King & Queens
             * Nasubi Hui Guo Rou
             * Unma Hui Guo Rou 
             * Droisulle Hui Guo Rou 
@@ -18006,7 +18006,7 @@
             * Seiko Hui Guo Rou 
             * Sevanchi Hui Guo Rou 
             * Oito Hui Guo Rou
-            * Princes
+          * Princes
             * Benjamin Hui Guo Rou 
             * Camilla Hui Guo Rou 
             * Zhang Lei Hui Guo Rou 
@@ -18021,7 +18021,7 @@
             * Momoze Hui Guo Rou
             * Marayam Hui Guo Rou 
             * Woble Hui Guo Rou
-            * Prince Benjamin's Soldiers
+          * Prince Benjamin's Soldiers
             * Babimyna
             * Balsamilco Might
             * Butch
@@ -18035,11 +18035,11 @@
             * Vict
             * Vincent
             * Yushohi 
-            * Kakin Royal Bodyguards
+          * Kakin Royal Bodyguards
             * Bill
             * Theta
             * Vergei
-            * Dark Continent Expedition Team
+          * Dark Continent Expedition Team
             * Beyond Netero
             * Curly
             * Golem
@@ -18048,7 +18048,7 @@
             * Muherr
             * Pekotero
             * Usamen
-            * Other
+          * Other
             * Banner (anime-only)
             * Battera
             * Battera's Lover
@@ -18070,9 +18070,9 @@
             * Sabazushi
             * Tsukuma
             * Won
-      * List of JoJo no Kimyou na Bouken characters
-          * Phantom Blood
-            * Allies
+    * List of JoJo no Kimyou na Bouken characters
+        * Phantom Blood
+          * Allies
             * Jonathan Joestar
             * Robert E. O. Speedwagon
             * Erina Pendleton
@@ -18084,16 +18084,16 @@
             * Tonpeti
             * Poco
             * Poco's Sister
-            * Enemies
+          * Enemies
             * Dio Brando
             * Tarkus
             * Bruford
             * Wang Chan
             * Jack the Ripper
-            * Neutral
+          * Neutral
             * Dario Brando
-          * Battle Tendency
-            * Allies
+        * Battle Tendency
+          * Allies
             * Joseph Joestar (Young)
               * Joseph Joestar (Old)
             * Caesar Anthonio Zeppeli
@@ -18103,17 +18103,17 @@
             * Smokey Brown
             * Loggins
             * Messina
-            * Enemies
+          * Enemies
             * Kars
             * Esidisi
             * Wamuu
             * Santana
             * Donovan
             * Wired Beck
-            * Neutral
+          * Neutral
             * George Joestar II
-          * Stardust Crusaders
-            * Allies
+        * Stardust Crusaders
+          * Allies
             * Kujo Jotaro
             * Mohammed Avdol
             * Kakyoin Noriaki
@@ -18121,7 +18121,7 @@
             * Iggy
             * Kujo Holy
             * Runaway Girl
-            * Enemies
+          * Enemies
             * Gray Fly
             * Captain Tennille
             * Forever
@@ -18150,10 +18150,10 @@
             * Kenny G
             * Vanilla Ice
             * Nukesaku
-            * Neutral
+          * Neutral
             * Wilson Philips
             * Kujo Sadao
-            * Stands
+          * Stands
             * Star Platinum
             * Hermit Purple
             * Magician's Red
@@ -18186,8 +18186,8 @@
             * Tenore Sax
             * Cream
             * The World
-          * Diamond Is Unbreakable
-            * Allies
+        * Diamond Is Unbreakable
+          * Allies
             * Higashikata Josuke
             * Hirose Koichi
             * Nijimura Okuyasu
@@ -18206,7 +18206,7 @@
             * Kawajiri Hayato
             * Nijimura's Father
             * Oyanagi Ken
-            * Enemies
+          * Enemies
             * Kira Yoshikage
               * Kawajiri Kosaku
             * Katagiri Anjuro
@@ -18214,13 +18214,13 @@
             * Kinoto Masazo
             * Kira Yoshihiro
             * Miyamoto Terunosuke
-            * Neutral
+          * Neutral
             * Higashikata Tomoko
             * Higashikata Ryohei
             * Nijimura Keicho
             * Kawajiri Shinobu
             * Kanedaichi Toyohiro
-            * Stands
+          * Stands
             * Crazy Diamond
             * Echoes
             * The Hand
@@ -18244,8 +18244,8 @@
             * Atom Heart Father
             * Killer Queen
               * Sheer Heart Attack
-          * Vento Aureo
-            * Allies
+        * Vento Aureo
+          * Allies
             * Giorno Giovanna
             * Bruno Buccellati
             * Guido Mista
@@ -18254,7 +18254,7 @@
             * Trish Una
             * Pannacotta Fugo
             * Coco Jumbo
-            * Enemies
+          * Enemies
             * Diavolo
               * Vinegar Doppio
             * Formaggio
@@ -18272,12 +18272,12 @@
             * Carne
             * Cioccolata
             * Secco
-            * Neutral
+          * Neutral
             * Luca
             * Sorbet
             * Gelato
             * Scolippi
-            * Stands
+          * Stands
             * Gold Experience
               * Gold Experience Requiem
             * Sticky Fingers
@@ -18304,15 +18304,15 @@
             * Rolling Stones
             * Chariot Requiem
             * King Crimson
-          * Stone Ocean
-            * Allies
+        * Stone Ocean
+          * Allies
             * Kujo Jolyne
             * Ermes Costello
             * Emporio Alnino
             * Foo Fighters
             * Weather Report
             * Narciso Anasui
-            * Enemies
+          * Enemies
             * Enrico Pucci
             * Jongalli A
             * Mirashon
@@ -18324,10 +18324,10 @@
             * Ungaro
             * Rikiel
             * Donatello Versace
-            * Neutral
+          * Neutral
             * Gwess
             * Mrs. Kujo
-            * Stands
+          * Stands
             * Stone Free
             * Kiss
             * Foo Fighters (Stand)
@@ -18347,8 +18347,8 @@
             * Whitesnake
               * C-Moon
               * Made In Heaven
-          * Steel Ball Run
-            * Allies
+        * Steel Ball Run
+          * Allies
             * Johnny Joestar
             * Gyro Zeppeli
             * Lucy Steel
@@ -18356,7 +18356,7 @@
             * Mountain Tim
             * Wekapipo
             * Steven Steel
-            * Enemies
+          * Enemies
             * Funny Valentine
             * Diego Brando
             * Mrs. Robinson
@@ -18374,12 +18374,12 @@
             * Eleven Men
             * Axl RO
             * D-I-S-C-O
-            * Neutral
+          * Neutral
             * Pocoloco
             * Higashikata Norisuke
             * Higashikata Rina
             * Sugar Mountain
-            * Stands
+          * Stands
             * Tusk
             * Scan
             * Ball Breaker
@@ -18397,8 +18397,8 @@
             * Civil War
             * Chocolate Disco
             * Dirty Deeds Done Dirt Cheap
-          * JoJolion
-            * Allies
+        * JoJolion
+          * Allies
             * Higashikata Josuke
             * Hirose Yasuho
             * Kira Yoshikage (Jojolion)
@@ -18408,18 +18408,18 @@
             * Nijimura Kei
             * Higashikata Daiya
             * Higashikata Hato
-            * Enemies
+          * Enemies
             * Sasame Oujiro
             * Yagiyama Yotsuyu
             * Higashikata Jobin
             * Dainenjiyama Aisho
             * Damo Tamaki
-            * Neutral
+          * Neutral
             * Higashikata Joshu
             * Sakunami Karera
             * Higashikata Mitsuba
             * George Joestar II (JoJolion)
-            * Stands
+          * Stands
             * Soft & Wet
             * Paisley Park
             * Fun Fun Fun
@@ -18433,8 +18433,8 @@
             * Doobie Wah!
             * Love Love Deluxe
             * Vitamin C
-      * List of Kamen Rider characters
-          * Showa Era
+    * List of Kamen Rider characters
+        * Showa Era
             * Kamen Rider
               * Kamen Rider No. 1
               * Kamen Rider No. 2
@@ -18460,14 +18460,14 @@
               * Shadow Moon
             * Kamen Rider Black RX
               * Kamen Rider Black RX
-          * Original Films
+        * Original Films
             * Shin Kamen Rider Prologue
               * Kamen Rider Shin
             * Kamen Rider ZO
               * Kamen Rider ZO
             * Kamen Rider J
               * Kamen Rider J
-          * Heisei Era
+        * Heisei Era
             * Kamen Rider Kuuga
               * Kamen Rider Kuuga
             * Kamen Rider Agito
@@ -18615,7 +18615,7 @@
               * Kamen Rider Zamonas
               * Kamen Rider Barlckxs
               * Kamen Rider Zonjis
-          * Reiwa Era
+        * Reiwa Era
             * Kamen Rider 01
               * Kamen Rider Zero-One
               * Kamen Rider Valkyrie
@@ -18661,9 +18661,9 @@
               * Kamen Rider Shirowe
               * Kamen Rider Da-Paan
               * Kamen Rider Punk Jack
-      * List of Kantai Collection characters
-          * Ship girls
-            * Coastal defense ship / DE
+    * List of Kantai Collection characters
+        * Ship girls
+          * Coastal defense ship / DE
             * Shimushu / 占守
             * Kunashiri / 国後
             * Hachijou / 八丈
@@ -18684,7 +18684,7 @@
             * Kaiboukan No. 4 / 第四号海防艦 ("Yotsu")
             * Kaiboukan No. 30 / 第三○号海防艦 ("Mito")
             * Ukuru / 鵜来
-            * Destroyer / DD
+          * Destroyer / DD
             * Kamikaze / 神風
             * Harukaze / 春風
             * Asakaze / 朝風
@@ -18811,7 +18811,7 @@
             * Jervis / ジャーヴィス
             * Janus / ジェーナス
             * Tashkent / Ташкент / タシュケント
-            * Light Cruiser /  CL
+          * Light Cruiser /  CL
             * Tenryuu / 天龍
             * Tatsuta / 龍田
             * Kuma / 球磨
@@ -18846,7 +18846,7 @@
             * Honolulu / ホノルル
             * Helena / ヘレナ
             * Sheffield / シェフィールド
-            * Heavy Cruiser / CA
+          * Heavy Cruiser / CA
             * Furutaka / 古鷹
             * Kako / 加古
             * Aoba / 青葉
@@ -18870,7 +18870,7 @@
             * Pola / ポーラ
             * Northampton / ノーザンプトン
             * Houston / ヒューストン
-            * Battleships / BB
+          * Battleships / BB
             * Kongou / 金剛
             * Hiei / 比叡
             * Haruna / 榛名
@@ -18901,7 +18901,7 @@
             * Massachusetts / マサチューセッツ
             * Washington / ワシントン
             * Conte di Cavour / コンテ・ディ・カブール
-            * Light Aircraft Carriers / CVL
+          * Light Aircraft Carriers / CVL
             * Houshou / 鳳翔
             * Ryuujou / 龍驤
             * Taigei / 大鯨
@@ -18921,7 +18921,7 @@
             * Shinyou / 神鷹
             * Yamashio Maru / 山汐丸
             * Langley / ラングレー
-            * Standard Aircraft Carriers / CV
+          * Standard Aircraft Carriers / CV
             * Akagi / 赤城
             * Kaga / 加賀
             * Souryuu / 蒼龍
@@ -18939,7 +18939,7 @@
             * Hornet / ホーネット
             * Victorious / ヴィクトリアス
             * Ranger / レンジャー
-            * Submarines / SS
+          * Submarines / SS
             * I-8 / 伊8 ("Hachi")
             * I-19 / 伊19 ("Iku")
             * I-26 / 伊26 ("Nimu")
@@ -18959,7 +18959,7 @@
             * I-201 / 伊201 ("Fuurei")
             * I-203 / 伊203 ("Fuumi")
             * Scamp / スキャンプ
-            * Seaplane Tenders / AV
+          * Seaplane Tenders / AV
             * Chitose / 千歳
             * Chiyoda / 千代田
             * Mizuho / 瑞穂
@@ -18968,22 +18968,22 @@
               * Nishikitaitei-chan
             * Commandant Teste / コマンダン・テスト
             * Kamoi / 神威
-            * Submarine Tenders / AS
+          * Submarine Tenders / AS
             * Jingei / 迅鯨
             * Chougei / 長鯨
-            * Amphibious Assault Ships / LHA
+          * Amphibious Assault Ships / LHA
             * Akitsu Maru / あきつ丸
             * Shinshuu Maru / 神州丸
-            * Repair Ships / AR
+          * Repair Ships / AR
             * Akashi / 明石 / アイテム屋娘 (Aitemu Musume / Item shop girl)
-            * Fleet Oilers / AO
+          * Fleet Oilers / AO
             * Hayasui / 速吸
-            * Food Supply Ships
+          * Food Supply Ships
             * Irako / 伊良湖
             * Mamiya / 間宮
-            * Other Auxiliary Ships
+          * Other Auxiliary Ships
             * Souya / 宗谷
-          * Admirals
+        * Admirals
             * Admiral
               * Little Boy Admiral
               * Abyssal Admiral
@@ -19003,8 +19003,8 @@
             * Matsuda Chiyohiko
             * Narumi Tsuyu
             * Tatebayashi Sakurako
-          * Abyssal ships
-            * Destroyer / DD
+        * Abyssal ships
+          * Destroyer / DD
             * I-class Destroyer / 駆逐イ級
               * Kuchiku I-kyuu
             * Ro-class Destroyer / 駆逐ロ級
@@ -19018,27 +19018,27 @@
             * Ancient Destroyer Oni / 駆逐古鬼
             * Ancient Destroyer Princess / 駆逐古姫
             * Abyssal Nimbus Princess / 深海雨雲姫
-            * Light Cruiser / CL
+          * Light Cruiser / CL
             * Ho-class Light Cruiser / 軽巡ホ級
             * He-class Light Cruiser / 軽巡ヘ級
             * To-class Light Cruiser / 軽巡ト級
             * Tsu-class Light Cruiser / 軽巡ツ級
             * Light Cruiser Oni / 軽巡棲鬼
             * Light Cruiser Princess / 軽巡棲姫 
-            * Torpedo Cruiser / CT
+          * Torpedo Cruiser / CT
             * Chi-class Torpedo Cruiser / 雷巡チ級
-            * Heavy Cruiser / CA
+          * Heavy Cruiser / CA
             * Ri-class Heavy Cruiser / 重巡リ級
             * Ne-class Heavy Cruiser / 重巡ネ級
             * Heavy Cruiser Princess / 重巡棲姫
               * Heavy Cruiser Summer Princess
-            * Light Aircraft Carrier / CVL
+          * Light Aircraft Carrier / CVL
             * Nu-class Light Aircraft Carrier / 軽母ヌ級
             * Escort Princess / 護衛棲姫
-            * Seaplane Tender / AV
+          * Seaplane Tender / AV
             * Seaplane Tender Princess / 水母棲姫
             * Seaplane Tender Water Princess / 水母水姫
-            * Standard Aircraft Carrier / CV
+          * Standard Aircraft Carrier / CV
             * Wo-class Aircraft Carrier / 空母ヲ級
             * Aircraft Carrier Oni / 空母棲鬼
               * Aircraft Carrier Summer Oni
@@ -19046,22 +19046,22 @@
               * Aircraft Carrier Summer Princess
             * Aircraft Carrier Water Oni / 空母水鬼
             * Abyssal Jellyfish Princess / 深海海月姫
-            * Transport Ship / TS
+          * Transport Ship / TS
             * Wa-class Transport Ship / 輸送ワ級
-            * Submarine / SS
+          * Submarine / SS
             * Ka-class Submarine / 潜水カ級
             * So-class Submarine / 潜水ソ級
             * Yo-class Submarine / 潜水ヨ級
             * Submarine Princess / 潜水棲姫
             * New Submarine Princess
-            * Battleship / BB
+          * Battleship / BB
             * Ru-class Battleship / 戦艦ル級
             * Ta-Class Battleship / 戦艦タ級
             * Battleship Princess / 戦艦棲姫
               * Battleship Summer Princess
             * Battleship Water Oni / 戦艦水鬼
             * French Battleship Princess
-            * Aviation Battleship / BBV
+          * Aviation Battleship / BBV
             * Re-Class Battleship / 戦艦レ級
             * Armored Aircraft Carrier Oni / 装甲空母鬼
             * Armored Aircraft Carrier Princess / 装甲空母姫
@@ -19075,9 +19075,9 @@
               * Abyssal Twin Princess
             * Northern Water Princess / 北方水姫
             * European Princess / 欧州棲姫
-            * Seaplane Tender / AV
+          * Seaplane Tender / AV
             * Abyssal Sun Princess / 深海日棲姫
-            * Installation
+          * Installation
             * Airfield Princess / 飛行場姫
             * Seaport Princess / 港湾棲姫
               * Seaport Summer Princess
@@ -19094,20 +19094,20 @@
             * Lycoris Princess / リコリス棲姫
             * Northernmost Landing Princess
             * Northern Little Sister
-            * Fortress
+          * Fortress
             * Floating Fortress / 浮遊要塞
             * Escort Fortress / 護衛要塞
-            * Miscellaneous
+          * Miscellaneous
             * Abyssal Patrolling Attack Hawk
             * Enemy Aircraft
             * Enemy Lifebuoy
             * Enemy Naval Mine
-          * Fairies
+        * Fairies
             * Fairy / 装備妖精
             * Helmet Musume
             * Damage Control Crew
             * Damage Control Goddess
-            * Fighters
+          * Fighters
             * Ryuusei / 流星
             * Shinden Kai / 震電改
             * Tenzan / 天山
@@ -19115,19 +19115,19 @@
             * Hiyoko
             * Majokko
             * Midori 
-            * Error Musume
+          * Error Musume
             * Girl holding a cat (Tutorial girl / Youkai Neko-Tsurushi)
               * Batsubyou
             * Kneeling Girl (2nd Error Girl /  A girl kneeling in front of a cat / Youkai Neko-Dogeza)
             * Girl beaten by a cat (3rd Error Girl / Purple-haired Girl)
             * Girl behind a cat
-          * Development Failure
+        * Development Failure
             * Failure Penguin
             * Miss Cloud
-          * In-Game Encyclopedia
+        * In-Game Encyclopedia
             * Encyclopedia Caterpillar
-      * List of Kingdom Hearts characters
-          * Kingdom Hearts I
+    * List of Kingdom Hearts characters
+        * Kingdom Hearts I
             * Ansem Seeker of Darkness
             * Heartless
               * Shadow
@@ -19135,7 +19135,7 @@
             * Keyblade
             * Riku
             * Sora
-          * Kingdom Hearts Chain of Memories
+        * Kingdom Hearts Chain of Memories
             * Ansem the Wise
             * Axel
             * DiZ (Darkness in Zero)
@@ -19147,7 +19147,7 @@
             * Riku Replica
             * Vexen
             * Zexion
-          * Kingdom Hearts II
+        * Kingdom Hearts II
             * Demyx
             * Hayner
             * Luxord
@@ -19159,9 +19159,9 @@
             * Xemnas
             * Xigbar
         * Kingdom Hearts Coded
-          * Kingdom Hearts 358/2 Days
+        * Kingdom Hearts 358/2 Days
             * Xion
-          * Kingdom Hearts Birth By Sleep
+        * Kingdom Hearts Birth By Sleep
             * Aeleus
             * Aqua
             * Braig
@@ -19176,10 +19176,10 @@
             * Unversed
             * Vanitas
             * Ventus
-          * Kingdom Hearts 3D Dream Drop Distance
+        * Kingdom Hearts 3D Dream Drop Distance
             * Dream Eater
             * Xehanort ("Young Master Xehanort")
-          * Kingdom Hearts X[Chi]
+        * Kingdom Hearts X[Chi]
             * Aced
             * Ava
             * Chirithy
@@ -19188,10 +19188,10 @@
             * Ira
             * Luxu
             * Master of Masters
-          * Kingdom Hearts III
+        * Kingdom Hearts III
             * Eraqus ("Young Master Eraqus")
-      * List of Mahou Sensei Negima characters
-          * Class 2/3-A (by class order)
+    * List of Mahou Sensei Negima characters
+        * Class 2/3-A (by class order)
             * Negi Springfield (Teacher)
             * #1: Aisaka Sayo
               * Aisaka Sayo (doll)
@@ -19228,22 +19228,22 @@
             * #29: Yukihiro Ayaka
             * #30 Yotsuba Satsuki
             * #31 Zazie Rainyday
-          * Mahora Teachers
+        * Mahora Teachers
             * Kuzunoha Toko
             * Minamoto Shizuna
             * Takahata T. Takamichi
             * Sister Shakti
-          * Other Mahora Students & Residents
+        * Other Mahora Students & Residents
             * Inugami Kotarou
             * Chachazero
             * Cocone Fatima Rosa
             * Takane D. Goodman
             * Sakura Mei
-          * United Kingdom Residents
+        * United Kingdom Residents
             * Anna "Anya" Yurievna Cocolova
             * Albert "Chamo" Chamomille
             * Nekane Springfield
-          * Magical World Residents
+        * Magical World Residents
             * Arika Anarchia Entheofushia
             * Beatrice Monroe
             * Collet Falandoll
@@ -19251,12 +19251,12 @@
             * Gateau Kagura von Vandenburg
             * Kurt Godel
             * Theodora
-          * Ala Rubra
+        * Ala Rubra
             * Nagi Springfield
             * Konoe Eishun
             * Albireo Imma
             * Jack Rakan
-          * Cosmo Entelecheia
+        * Cosmo Entelecheia
             * Fate Averruncus
             * Homura
             * Koyomi
@@ -19264,25 +19264,25 @@
             * Shirabe
             * Tamaki
             * Tsukuyomi
-          * Others
+        * Others
             * Haruki
             * Motsu
             * Shichimi
             * Yuki
-          * See also
+        * See also
             * Tag Groups
-      * List of Meitantei Conan characters
-          * Meitantei Conan
-            * Main characters
+    * List of Meitantei Conan characters
+        * Meitantei Conan
+          * Main characters
             * Edogawa Conan/Kudou Shin'ichi
             * Mouri Kogoro
             * Mouri Ran
-            * Detective Boys
+          * Detective Boys
             * Haibara Ai/Miyano Shiho
             * Kojima Genta
             * Tsuburaya Mitsuhiko
             * Yoshida Ayumi
-            * Black Organization
+          * Black Organization
             * Gin
             * Vodka
             * Vermouth
@@ -19291,7 +19291,7 @@
             * Irish
             * Korn
             * Scotch
-            * Family and Friends
+          * Family and Friends
             * Agasa Hiroshi
             * Akai Tsutomu
             * Amuro Tooru
@@ -19323,7 +19323,7 @@
             * Tabuse Haruna
             * Tooyama Kazuha
             * Tsukumo Ayano
-            * Police
+          * Police
             * Ayanokouji Fumimaro
             * Chiba Kazunobu
             * Date Wataru
@@ -19347,12 +19347,12 @@
             * Yamato Kansuke
             * Yokomizo Jugo
             * Yokomizo Sango
-            * FBI
+          * FBI
             * Akai Shuuichi
             * Andre Camel
             * James Black
             * Jodie Starling
-            * Others
+          * Others
             * Asai Narumi
             * Haro
             * Higo Ryuusuke
@@ -19361,7 +19361,7 @@
             * Tachibana Kyouko
             * Wakasa Rumi
             * "The Criminal"
-          * Magic Kaito
+        * Magic Kaito
             * Kuroba Kaito/Kaitou Kid
             * Kuroba Chikage
             * Kuroba Touichi
@@ -19381,9 +19381,9 @@
             * Selizabeth M Ingram
             * Princess Anne
             * Ruby Jones
-      * List of Naruto characters
-          * Hidden Leaf Village
-            * Team 7
+    * List of Naruto characters
+        * Hidden Leaf Village
+          * Team 7
             * Uzumaki Naruto
               * Naruko
             * Haruno Sakura
@@ -19399,36 +19399,36 @@
               * Urushi
             * Sai
             * Yamato
-            * Team 8
+          * Team 8
             * Hyuuga Hinata
             * Inuzuka Kiba
               * Akamaru
             * Aburame Shino
             * Yuuhi Kurenai
-            * Team 10
+          * Team 10
             * Yamanaka Ino
             * Nara Shikamaru
             * Akimichi Chouji
             * Sarutobi Asuma
-            * Team Guy
+          * Team Guy
             * Rock Lee
             * Tenten
             * Hyuuga Neji
             * Might Guy
-            * The Sannin
+          * The Sannin
             * Tsunade
             * Orochimaru
             * Jiraiya
-            * Hokages
+          * Hokages
             * Senju Hashirama (First Hokage)
             * Senju Tobirama (Second Hokage)
             * Sarutobi Hiruzen (Third Hokage)
             * Namikaze Minato (Fourth Hokage)
-            * Hyuuga clan
+          * Hyuuga clan
             * Hyuuga Hanabi
             * Hyuuga Hiashi
             * Hyuuga Hizashi
-            * Uchiha clan
+          * Uchiha clan
             * Uchiha Fugaku
             * Uchiha Izuna
             * Uchiha Kagami
@@ -19437,7 +19437,7 @@
             * Uchiha Obito
             * Uchiha Shisui
             * Uchiha Tajima
-            * Other Hidden Leaf characters
+          * Other Hidden Leaf characters
             * Aburame Torune
             * Ayame
             *  Ebisu
@@ -19467,7 +19467,7 @@
             * Uzumaki Kushina
             * Uzumaki Mito
             * Yakushi Nonou
-            * Next generation
+          * Next generation
             * Uzumaki Boruto
             * Uzumaki Himawari
             * Uchiha Sarada
@@ -19477,7 +19477,7 @@
             * Sarutobi Mirai
             * Mitsuki
             * Metal Lee
-          * Hidden Sand Village
+        * Hidden Sand Village
             * Gaara
             * Kankurou
             * Temari
@@ -19489,7 +19489,7 @@
             * Baki
             * Ebizou
             * Pakura
-          * Hidden Mist Village
+        * Hidden Mist Village
             * Ao
             * Choujuurou
             * Momochi Zabuza
@@ -19504,7 +19504,7 @@
             * Kuriarare Kushimaru
             * Hoozuki Mangetsu
             * Third Mizukage
-          * Hidden Cloud Village
+        * Hidden Cloud Village
             * Killer Bee
             * A (Fourth Raikage)
             * Shii
@@ -19514,12 +19514,12 @@
             * Omoi
             * Ginkaku
             * Nii Yugito
-          * Hidden Stone Village
+        * Hidden Stone Village
             * Akatsuchi
             * Han
             * Kurotsuchi
             * Oonoki (Third Tsuchikage)
-          * Hidden Sound Village
+        * Hidden Sound Village
             * Dosu Kinuta
             * Tsuchi Kin
             * Zaku Abumi
@@ -19530,7 +19530,7 @@
             * Sakon
             * Ukon
             * Yakushi Kabuto
-          * Akatsuki
+        * Akatsuki
             * Uchiha Itachi
             * Hoshigaki Kisame
             * Sasori
@@ -19549,17 +19549,17 @@
             * Tobi
               * Guruguru
             * Yahiko
-          * Hebi/Taka
+        * Hebi/Taka
             * Karin
             * Hoozuki Suigetsu
             * Juugo
-          * Animal summons
+        * Animal summons
             * Aoda
             * Gamabunta
             * Gamakichi
             * Gamatatsu
             * Katsuyu
-          * The tailed beasts
+        * The tailed beasts
             * Choumei
             * Gyuuki
             * Isobu
@@ -19569,12 +19569,12 @@
             * Saiken
             * Shukaku
             * Son Gokuu
-          * Ootsutsuki family
+        * Ootsutsuki family
             * Ootsutsuki Kaguya
             * Ootsutsuki Hagoromo
             * Ootsutsuki Ashura
             * Ootsutsuki Indra
-          * Anime-only characters
+        * Anime-only characters
             * Ameno
             * Fuuma Sasame
             * Guren
@@ -19588,7 +19588,7 @@
             * Shizuka
             * Yome
             * Yuukimaru
-          * Movie-only characters
+        * Movie-only characters
             * Amaru
             * Kakuyoku Fubuki
             * Kazahana Koyuki
@@ -19598,11 +19598,11 @@
             * Ryuuzetsu
             * Saara
             * Shion
-          * Others
+        * Others
             * Fuu
             * Inari
             * Kishimoto Masashi
-      * List of Nippon Ichi characters
+    * List of Nippon Ichi characters
             * Cherie Espoir
             * Cornet Espoir
             * Crowdia
@@ -19626,7 +19626,7 @@
             * Kururu
             * Randy
             * Sonia
-          * La Pucelle
+        * La Pucelle
             * Alouette
             * Angelique
             * Croix Raoul
@@ -19640,7 +19640,7 @@
             * Prier
               * Maou Prier
             * Yattanya
-          * Makai Senki Disgaea
+        * Makai Senki Disgaea
             * Baal
             * Carter
             * Etna
@@ -19665,7 +19665,7 @@
             * Thursday
             * Usagi-san
             * Vulcanus
-          * Phantom Brave
+        * Phantom Brave
             * Ash
             * Carona
             * Castille
@@ -19679,7 +19679,7 @@
             * Sprout
             * Sulphur
             * Walnut
-          * Phantom Kingdom
+        * Phantom Kingdom
             * Alexander
             * Alexander's sister
             * Asagiri Asagi
@@ -19694,7 +19694,7 @@
             * Valvoga
             * Zetta
               * Zetta (book)
-          * Makai Senki Disgaea 2
+        * Makai Senki Disgaea 2
             * Adell
             * Akutare (Axel)
             * Director
@@ -19712,7 +19712,7 @@
             * Tink
             * Yukimaru
             * Zenon
-          * Soul Cradle
+        * Soul Cradle
             * Alexemia
             * Danette
             * Gig
@@ -19733,7 +19733,7 @@
             * Lillet Blan
             * Margarita Surprise
             * Opalneria Rain
-          * Makai Senki Disgaea 3
+        * Makai Senki Disgaea 3
             * Almaz von Almadine Adamant
             * Asuka Cranekick
             * Aurum
@@ -19746,9 +19746,9 @@
             * Salvatore
             * Sapphire Rhodonite
         * Prinny Can I Really Be the Hero?
-          * Zettai Hero Project
+        * Zettai Hero Project
             * Ichimonji Pirohiko
-          * Makai Senki Disgaea 4
+        * Makai Senki Disgaea 4
             * Artina
             * Desco
             * Emizel
@@ -19770,14 +19770,14 @@
             * Saotome Liliel
             * Shiratori Lanael
             * Toujou Neliel
-          * Disgaea D2
+        * Disgaea D2
             * Barbara
             * Laharl-chan
             * Pure Flonne
             * Rainier
             * Sicily
             * Xenolith
-          * Arcadias no Ikusahime
+        * Arcadias no Ikusahime
             * Plume
             * Arlecchino
             * Belda
@@ -19791,7 +19791,7 @@
             * Arle Agarie
             * Kamikaze Shin
             * Soraumi Jupiel
-          * Makai Senki Disgaea 5
+        * Makai Senki Disgaea 5
             * Bloodis
             * Christo
             * Killia
@@ -19802,7 +19802,7 @@
             * Usalia
             * Void Dark
             * Zeroken
-          * Makai Senki Disgaea 6
+        * Makai Senki Disgaea 6
             * Bieko
             * Cerberus
             * Chusendol
@@ -19811,14 +19811,14 @@
             * Melodia
             * Nijino Piyori
             * Zed
-          * Makai Senki Disgaea 7
+        * Makai Senki Disgaea 7
             * Ao
             * Fuji
             * Higan Zesshousai
             * Piririka
             * Seefour
             * Suisen
-          * Classes (Disgaea)
+        * Classes (Disgaea)
             * Android (Disgaea 4)
             * Archer
             * Armor Knight
@@ -19875,7 +19875,7 @@
             * Winged Warrior
             * Wrestler (Disgaea 5)
             * Zombie
-          * Classes (Other)
+        * Classes (Other)
             * Amazon (Phantom Brave)
             * Bat (La Pucelle)
             * Blacksmith (Phantom Brave)
@@ -19910,8 +19910,8 @@
             * Whip Master (Phantom Kingdom)
             * Witch (Phantom Brave)
             * Zombie (La Pucelle)
-      * List of One Piece characters
-          * Straw Hat Pirates
+    * List of One Piece characters
+        * Straw Hat Pirates
             * Monkey D. Luffy
               * Lucy
               * Luffyko
@@ -19927,7 +19927,7 @@
               * Franky Shogun
             * Brook
             * Jinbe
-          * Humans
+        * Humans
             * Absalom
             * Abdullah
             * Adelle Bascud
@@ -20247,7 +20247,7 @@
             * Yasopp
             * Yosaku
             * Z
-          * Mermaids/-men & Fishmen/-women
+        * Mermaids/-men & Fishmen/-women
             * Adele
             * Aladdin
             * Arlong
@@ -20280,7 +20280,7 @@
             * Tom
             * Vander Decken IX
             * Wadatsumi
-          * Zombies/Giants/Others & Unknown
+        * Zombies/Giants/Others & Unknown
             * Brogy
             * Dorry
             * Hajrudin
@@ -20305,7 +20305,7 @@
             * Victoria Cindry
             * Wicca
             * Yamato
-          * Animals & Minks
+        * Animals & Minks
             * Bacura
             * Bepo
             * Billy
@@ -20343,7 +20343,7 @@
             * Tyrannosaurus
             * Wanda
             * Yokozuna
-          * Misc.
+        * Misc.
             * Arlong Park
             * Baroque Works
             * Clima-Tact
@@ -20375,18 +20375,18 @@
               * Mini Merry
             * Thriller Bark
             * Whitebeard Pirates
-      * List of Oshiro Project characters
-      * List of Pokémon characters
-          * Character lists
+    * List of Oshiro Project characters
+    * List of Pokémon characters
+        * Character lists
             * List of Elite Four Members
             * List of families of Pokémon main characters
             * List of Gym Leaders
             * List of Pokémon Ranger characters
             * List of Pokémon trainer classes
-          * Game characters
+        * Game characters
           * Main games - players and rivals
           * Other games - main characters
-            * Trial Captains
+          * Trial Captains
             * Ilima
             * Lana/Suiren
             * Kiawe/Kaki
@@ -20394,12 +20394,12 @@
             * Sophocles/Mamane
             * Acerola
             * Mina/Matsurika
-            * Island Kahunas
+          * Island Kahunas
             * Hala
             * Olivia/Lychee
             * Nanu/Kuchinashi
             * Hapu/Hapu'u
-            * Frontier Brains
+          * Frontier Brains
             * Anabel/Lila
             * Brandon/Jindai
             * Greta/Kogomi
@@ -20413,7 +20413,7 @@
             * Darach/Kokuran
             * Palmer/Kurotsugu
             * Thornton/Nejiki
-            * Teams
+          * Teams
             * Giovanni/Sakaki
             * Archer/Apollo
             * Arianna/Athena
@@ -20501,7 +20501,7 @@
             * Clover/Otake
             * Coin/Oume
             * Mela/Meloco
-            * Professors/Assistants
+          * Professors/Assistants
             * Prof. Samuel Oak/Dr. Ookido Yukinari
             * Prof. Elm/Dr. Utsugi
             * Prof. Birch/Dr. Odamaki
@@ -20532,7 +20532,7 @@
             * Prof. Laventon/Dr. Laven
             * Prof. Sada/Dr. Olim
             * Prof. Turo/Dr. Futu
-            * Pokémon storage system techs 
+          * Pokémon storage system techs 
             * Amanita/Shouro
             * Bebe/Mizuki
             * Bill/Sonezaki Masaki
@@ -20543,48 +20543,48 @@
             * Lanette/Mayumi
             * Molayne/Mullein
           * Facility owners
-            * Coordinators
+          * Coordinators
             * Chaz/Kazura
             * Johanna/Ayako
             * Lisia/Lucia
-            * DPPt "stat trainers"
+          * DPPt "stat trainers"
             * Buck/Baku
             * Cheryl/Momi
             * Marley/Mai
             * Mira/Miru
             * Riley/Gen
-            * International Police
+          * International Police
             * Anabel/Lila
             * Looker/Handsome
-            * Subway Bosses
+          * Subway Bosses
             * Emmet/Kudari
             * Ingo/Nobori
-            * Battle Chatelaines
+          * Battle Chatelaines
             * Dana/Lajournee
             * Evelyn/Lesoir
             * Morgan/Lematin
             * Nita/Lanuit
-            * Furisode girls
+          * Furisode girls
             * Furisode Girl Blossom/Shione
             * Furisode Girl Kali/Kirika
             * Furisode Girl Katherine/Karen
             * Furisode Girl Linnea/Asami
-            * Ultra Recon Squad
+          * Ultra Recon Squad
             * Dulse
             * Phyco/Shionira
             * Soliera/Mirin
             * Zossie/Amamo
-            * Galar royalty
+          * Galar royalty
             * Shielbert/Shildy
             * Sordward/Swod
-            * Isle of Armor
+          * Isle of Armor
             * Honey/Mitsuba
             * Hyde
             * Mustard
-            * Crown Tundra
+          * Crown Tundra
             * Peonia/Shakuya
             * Peony
-            * Galaxy Team
+          * Galaxy Team
             * Kamado/Denboku
             * Beni/Mube
             * Cyllene/Shimaboshi
@@ -20594,11 +20594,11 @@
             * Security Corps
               * Bagin/Shuuzou
             * Zisu/Perilla
-            * Jubilife Village
+          * Jubilife Village
             * Anthe/Sharon
             * Anvin/Tekkan
             * Choy/Taisai
-            * Wardens
+          * Wardens
             * Arezu/Hinatsu
             * Calaba/Yuugao
             * Gaeric/Hamarenge
@@ -20609,7 +20609,7 @@
             * Melli/Tsubaki
             * Palina/Garana
             * Sabi/Wasabi
-            * Diamond Clan
+          * Diamond Clan
             * Adaman/Seki
             * Arezu/Hinatsu
             * Iscan/Susuki
@@ -20617,23 +20617,23 @@
             * Medi/Mahiru
             * Melli/Tsubaki
             * Sabi/Wasabi
-            * Pearl Clan
+          * Pearl Clan
             * Kai
             * Calaba/Yuugao
             * Gaeric/Hamarenge
             * Ingo/Nobori
             * Lian/Kikui
             * Palina/Garana
-            * Ginkgo Guild
+          * Ginkgo Guild
             * Ginter/Ginnan
             * Tuli/Tsuiri
             * Volo
-            * Naranja / Uva Academy
+          * Naranja / Uva Academy
             * Clavel/Clavell
             * Jacq/Zinnia
             * Muscular teacher
             * Track suit teacher
-            * Supporting characters
+          * Supporting characters
             * Aarune/Girii
             * Alexa/Pansy
             * AZ
@@ -20646,7 +20646,7 @@
             * Mohn
             * Mr. Briney/Old Man Hagi
             * Zinnia/Higana
-            * Other game characters
+          * Other game characters
             * Ball Guy
             * Benga/Banjirou
             * Billy Jo/Ruu
@@ -20676,7 +20676,7 @@
             * Yancy/Ruri or Curtis/Tetsu
             * Youngster Joey/Gorou
             * Yvette/Misora
-            * Other games
+          * Other games
             * Emilia Christie
             * Milo Green
             * Wallace Carroll
@@ -20768,19 +20768,19 @@
             * Nia
             * Nora
             * Walter
-          * Anime characters
+        * Anime characters
           * Main characters
           * Ash's rivals
           * Rivals of other main characters
-            * Supporting characters
+          * Supporting characters
             * Nurse Joy
             * Officer Jenny/Junsaa
             * Samuel Oak/Ookido Yukinari
             * Prof. Cerise/Dr. Sakuragi
-            * Game-based anime supporting characters
+          * Game-based anime supporting characters
             * Jimmy/Kenta
             * Marina
-            * Team Rocket
+          * Team Rocket
             * Jessie/Musashi
             * James/Kojirou
             * Butch/Kosaburou
@@ -20797,12 +20797,12 @@
             * Namba
             * Sebastian/Shiranui
             * Tyson/Tatsumi
-            * Cross-dressing tags
+          * Cross-dressing tags
             * Ashley/Satoko (Classic anime)
             * Ashley/Satomi (Black and White anime)
           * Other recurring characters
           * Characters of the day
-            * Movie characters
+          * Movie characters
             * Fuji
             * Miranda/Voyager
             * Neesha/Sweet
@@ -20862,14 +20862,14 @@
             * Risa/Lisa
             * Toren/Torito
             * Koko
-          * Miniseries characters
-            * Pokémon Origins
+        * Miniseries characters
+          * Pokémon Origins
             * Reina
             * Silph Co. President's Secretary
-            * Pokémon: Twilight Wings
+          * Pokémon: Twilight Wings
             * John
             * Tommy
-            * Pokétoon
+          * Pokétoon
             * Blossom
             * Blossom's Mother
             * Tsubomi's Father
@@ -20880,16 +20880,16 @@
             * Ty
             * Kevin
             * Momo (Jigglypuff's Song)
-          * Music video characters
+        * Music video characters
             * Gotcha! Boy
             * Gotcha! Girl
-          * Live-action movie characters
-            * Detective Pikachu
+        * Live-action movie characters
+          * Detective Pikachu
             * Hideo Yoshida
             * Lucy Stevens
             * Ms. Norman
             * Tim Goodman 
-          * Manga characters
+        * Manga characters
             * The Masked Man and his underlings:
             * Carl/Kurtz
             * Sham/Siam
@@ -20907,7 +20907,7 @@
             * Akari
             * Kado Manabu
             * Ulatane Hiroshi
-            * Magical Pokémon Journey
+          * Magical Pokémon Journey
             * Almond
             * Coconut
             * Grandpa
@@ -20915,7 +20915,7 @@
             * Hazel/Marron
             * Sandy
             * Walnut/Wal
-            * Pokemon Pocket Monsters
+          * Pokemon Pocket Monsters
             * Akai Isamu
             * Hareta
             * Kouya
@@ -20931,15 +20931,15 @@
             * Ryouga
             * Tougou
             * Yappy
-          * Other characters
-            * Pokémon Expo Gym
+        * Other characters
+          * Pokémon Expo Gym
             * Dr. Sakura
             * Mao
-            * Pokémon Wonder
+          * Pokémon Wonder
             * Cresso
-        * List of Elite Four Members
-        * List of Gym Leaders
-            * Introduced in the games
+      * List of Elite Four Members
+      * List of Gym Leaders
+          * Introduced in the games
             * Kanto Gym Leaders
             * Johto Gym Leaders
             * Hoenn Gym Leaders
@@ -20949,22 +20949,22 @@
             * Kalos Gym Leaders
             * Galar Gym Leaders
           * Introduced in the anime
-        * List of families of Pokémon main characters
-            * Mothers of main characters
+      * List of families of Pokémon main characters
+          * Mothers of main characters
             * Introduced in the games
             * Introduced in other media
-            * Fathers of main characters
+          * Fathers of main characters
             * Spoilers
-        * List of Pokémon Ranger characters
+      * List of Pokémon Ranger characters
           * Player characters
           * Allies
-            * Villainous teams
+          * Villainous teams
             * Go-Rock Squad
             * Team Dim Sun
             * Pokémon Pinchers
-        * List of Pokémon Trainer classes
-      * List of Pokémon
-          * Miscellaneous tags
+      * List of Pokémon Trainer classes
+    * List of Pokémon
+        * Miscellaneous tags
             * Pichu, Pikachu
               * Pika
               * Flying Pikachu
@@ -21008,8 +21008,8 @@
             * Overworld sprites
               * Fly sprite (Pokémon)
               * Surf sprite (Pokémon)
-          * All Pokémon species
-            * Generation I
+        * All Pokémon species
+          * Generation I
             * 001. Bulbasaur
               * Bulbasaurtwo
             * 002. Ivysaur
@@ -21169,7 +21169,7 @@
             * 150. Mewtwo
               * Shadow Mewtwo
             * 151. Mew
-            * Generation II
+          * Generation II
             * 152. Chikorita
             * 153. Bayleef
             * 154. Meganium
@@ -21300,7 +21300,7 @@
               * Shadow Lugia
             * 250. Ho-Oh
             * 251. Celebi
-            * Generation III
+          * Generation III
             * 252. Treecko
             * 253. Grovyle
             * 254. Sceptile
@@ -21447,7 +21447,7 @@
               * Deoxys (Attack)
               * Deoxys (Defense)
               * Deoxys (Speed)
-            * Generation IV
+          * Generation IV
             * 387. Turtwig
             * 388. Grotle
             * 389. Torterra
@@ -21588,7 +21588,7 @@
               * Shaymin (Land)
               * Shaymin (Sky)
             * 493. Arceus
-            * Generation V
+          * Generation V
             * 494. Victini
             * 495. Snivy
             * 496. Servine
@@ -21777,7 +21777,7 @@
               * Meloetta (Pirouette)
               * Meloetta (other)
             * 649. Genesect
-            * Generation VI
+          * Generation VI
             * 650. Chespin
             * 651. Quilladin
             * 652. Chesnaught
@@ -21908,7 +21908,7 @@
               * Hoopa (Confined)
               * Hoopa (Unbound)
             * 721. Volcanion
-            * Generation VII
+          * Generation VII
             * 722. Rowlet
             * 723. Dartrix
             * 724. Decidueye
@@ -22034,7 +22034,7 @@
             * 089. Alolan Muk
             * 103. Alolan Exeggutor
             * 104. Alolan Marowak
-            * Generation VIII
+          * Generation VIII
             * 810. Grookey
             * 811. Thwackey
             * 812. Rillaboom
@@ -22097,9 +22097,9 @@
             * 867. Runerigus
             * 868. Milcery
             * 869. Alcremie
-      * List of Pretty Cure characters
+    * List of Pretty Cure characters
         * Intro
-          * Precure All Stars
+        * Precure All Stars
             * Panther Pink
             * Kujou Hikari / Shiny Luminous
             * Misumi Nagisa / Cure Black / Cure Black Phoenix Form
@@ -22143,7 +22143,7 @@
               * Yuriko
               * Yuuki Genbu
               * Zakenna
-          * Futari wa Precure Splash Star
+        * Futari wa Precure Splash Star
             * Hyuuga Saki / Cure Bloom / Cure Bright
             * Mishou Mai / Cure Egret / Cure Windy
               * Choppy
@@ -22186,7 +22186,7 @@
               * Scorp
               * Syrup
               * Yumehara Megumi
-          * Fresh Precure!
+        * Fresh Precure!
             * Aono Miki / Cure Berry / Cure Berry Angel
             * Higashi Setsuna / Eas / Cure Passion / Cure Passion Angel
             * Momozono Love / Cure Peach / Cure Peach Angel
@@ -22216,7 +22216,7 @@
               * Wester
               * Yamabuki Naoko
               * Yumi
-          * Heartcatch Precure!
+        * Heartcatch Precure!
             * Hanasaki Tsubomi / Cure Blossom / Cure Blossom Super Silhouette
             * Kurumi Erika / Cure Marine / Cure Marine Super Silhouette
             * Myoudouin Itsuki / Cure Sunshine / Cure Sunshine Super Silhouette
@@ -22253,7 +22253,7 @@
               * Sasorina
               * Shiny Tambourine
               * Snackey
-          * Suite Precure
+        * Suite Precure
             * Houjou Hibiki / Cure Melody / Cure Melody Crescendo
             * Minamino Kanade / Cure Rhythm / Cure Rhythm Crescendo
             * Shirabe Ako / Masked Cure / Cure Muse / Cure Muse Crescendo
@@ -22296,7 +22296,7 @@
               * Shirabe Otokichi
               * Suzu
               * Toudou Koto
-          * Smile Precure!
+        * Smile Precure!
             * Aoki Reika / Cure Beauty / Cure Beauty Princess Form
             * Hino Akane / Cure Sunny / Cure Sunny Princess Form
             * Hoshizora Miyuki / Cure Happy / Cure Happy Princess Form / Happy Robo / Ultra Cure Happy
@@ -22372,14 +22372,14 @@
               * Waki Daisuke
               * Wolfrun
               * Yanadani Yuusaku
-          * Precure All Stars New Stage: Mirai no Tomodachi
+        * Precure All Stars New Stage: Mirai no Tomodachi
             * Sakagami Ayumi / Cure Echo
               * En'En
               * Fuu-chan
               * Gureru
               * Sorciere
               * Yumeta
-          * Dokidoki! Precure
+        * Dokidoki! Precure
             * Aida Mana / Cure Heart / Cure Heart / Cure Heart
             * Hishikawa Rikka / Cure Diamond
             * Kenzaki Makoto / Cure Sword
@@ -22424,7 +22424,7 @@
               * Yashima Chihiro
               * Yotsuba Shouko
               * Pool - Mana's Harem
-          * HappinessCharge Precure!
+        * HappinessCharge Precure!
             * Aino Megumi / Cure Lovely / Cure Lovely Cherry Flamenco / Cure Lovely Lollipop Hip Hop / Cure Lovely Innocent Form / Super Happiness Lovely / Forever Lovely
             * Hikawa Iona / Cure Fortune / Cure Fortune Anmitsu Komachi / Cure Fortune Pine Arabian / Cure Fortune Innocent Form
             * Oomori Yuuko / Cure Honey / Cure Honey Coconut Samba / Cure Honey Popcorn Cheer / Cure Honey Innocent Form
@@ -22475,7 +22475,7 @@
               * Takano Rei
               * Tsumugi
               * Pool - Pururun Z's 10th Anniversary 4Koma
-          * Go! Princess Precure
+        * Go! Princess Precure
             * Akagi Towa / Twilight / Cure Scarlet / Cure Scarlet Mode Elegant / Cure Scarlet Dress Up Premium / Cure Scarlet Grand Princess
             * Amanogawa Kirara / Cure Twinkle / Cure Twinkle Mode Elegant / Cure Twinkle Mode Elegant Lunar / Cure Twinkle Mode Elegant Shooting Star / Cure Twinkle Dress Up Premium / Cure Twinkle Grand Princess
             * Haruno Haruka / Cure Flora / Cure Flora Mode Elegant / Cure Flora Mode Elegant Lily / Cure Flower Mode Elegant Rose / Cure Floral Dress Up Premium / Cure Flora Grand Princess
@@ -22535,7 +22535,7 @@
               * Yura
               * Zama Sumire
               * Zetsuborg
-          * Mahou Girls Precure!
+        * Mahou Girls Precure!
             * Asahina Mirai / Cure Miracle / Cure Miracle Ruby Style / Cure Miracle Sapphire Style / Cure Miracle Topaz Style / Cure Miracle Alexandrite Style / Cure Miracle Heartful Style
             * Ha-chan / Hanami Kotoha / Cure Felice / Cure Felice Alexandrite Style
             * Izayoi Liko / Cure Magical / Cure Magical Ruby Style / Cure Magical Sapphire Style / Cure Magical Topaz Style / Cure Magical Alexandrite Style
@@ -22555,7 +22555,7 @@
               * Spalda
               * Tsunagi First Middle School uniform
               * Yuuki Kanako
-          * KiraKira☆Precure A La Mode
+        * KiraKira☆Precure A La Mode
             * Arisugawa Himari / Cure Custard / Cure Custard A La Mode Style
             * Kenjou Akira / Cure Chocolat / Cure Chocolat A La Mode Style
             * Kirarin / Kirahoshi Ciel / Cure Parfait / Cure Parfait A La Mode Style
@@ -22579,7 +22579,7 @@
               * Tachibana Yuu
               * Usami Gen'ichirou
               * Usami Satomi
-          * HUGtto! Precure
+        * HUGtto! Precure
             * Aisaki Emiru / Cure Macherie / Cure Macherie Cheerful Style
             * Kagayaki Homare / Cure Etoile / Cure Etoile Cheerful Style
             * Nono Hana / Cure Yell / Cure Yell Cheerful Style
@@ -22604,7 +22604,7 @@
               * Sakita Mari
               * Uchifuji Yuka
               * Wakamiya Henri
-          * Star☆Twinkle Precure
+        * Star☆Twinkle Precure
             * Amamiya Elena / Cure Soleil / Cure Soleil Twinkle Style
             * Hagoromo Lala / Cure Milky / Cure Milky Twinkle Style
             * Hoshina Hikaru / Cure Star / Cure Star Twinkle Style
@@ -22628,7 +22628,7 @@
               * Star Color Pen
               * Star Princess
               * Tenjou
-          * Healin' Good♥Precure
+        * Healin' Good♥Precure
             * Fuurin Asumi / Cure Earth / Cure Earth Partner Form / Cure Earth Healin' Good Style
             * Hanadera Nodoka / Cure Grace / Cure Grace Partner Form / Cure Grace Healin' Good Style
             * Hiramitsu Hinata / Cure Sparkle / Cure Sparkle Partner Form / Cure Sparkle Healin' Good Style
@@ -22648,7 +22648,7 @@
               * Pegitan
               * Rabirin
               * Shindoine
-          * Tropical-Rouge! Precure
+        * Tropical-Rouge! Precure
             * Ichinose Minori / Cure Papaya / Cure Papaya Excellen-Tropical Style
             * Laura La Mer / Cure La Mer / Cure La Mer Excellen-Tropical Style
             * Natsuumi Manatsu / Cure Summer / Cure Summer Excellen-Tropical Style
@@ -22671,7 +22671,7 @@
               * Shiratori Yuriko
               * Suzumura Miyuki
               * The Witch of Delays
-          * Delicious Party♥Precure
+        * Delicious Party♥Precure
             * Fuwa Kokone / Cure Spicy
             * Hanamichi Ran /  Cure Yum-Yum
             * Kasai Amane / Gentlu / Cure Finale
@@ -22691,8 +22691,8 @@
               * Shinada Takumi
               * Shinsen Middle School Uniform
               * Takada Risa
-      * List of Rosenkreuzstilette characters
-          * Rosenkreuzstilette
+    * List of Rosenkreuzstilette characters
+        * Rosenkreuzstilette
             * Spiritia Rosenberg
             * Freudia Neuwahl
             * Zorne Sepperin
@@ -22707,7 +22707,7 @@
             * Iris Sepperin
             * Lilli
             * Zeppy
-          * Rosenkreuzstilette Freudenstachel
+        * Rosenkreuzstilette Freudenstachel
             * Dolis Warmind
             * Pamela Arwig
             * Eifer Skute
@@ -22715,8 +22715,8 @@
             * Lecht Refraktia
             * Rink Refraktia
             * Strudel
-      * List of Sailor Moon characters
-            * Inner Senshi
+    * List of Sailor Moon characters
+          * Inner Senshi
             * Tsukino Usagi / Sailor Moon
               * Eternal Sailor Moon
               * Neo Queen Serenity
@@ -22746,7 +22746,7 @@
               * Eternal Sailor Chibi Moon
               * Small Lady Serenity
               * Super Sailor Chibi Moon
-            * Outer Senshi
+          * Outer Senshi
             * Ten'ou Haruka / Sailor Uranus
               * Eternal Sailor Uranus
               * Princess Uranus
@@ -22764,8 +22764,8 @@
               * Mistress 9
               * Princess Saturn
               * Super Sailor Saturn
-          * Other Characters
-            * Moon Kingdom
+        * Other Characters
+          * Moon Kingdom
             * Queen Serenity
             * Chiba Mamoru / Tuxedo Kamen 
               * Prince Endymion
@@ -22777,7 +22777,7 @@
               * Artemis
               * Diana
               * Luna
-            * Allies and Friends
+          * Allies and Friends
             * Asanuma Ittou
             * Deimos / Phobos (Rei's crows)
             * Furuhata Motoki
@@ -22796,11 +22796,11 @@
             * Umino Gurio
             * Urawa Ryou
             * Yumiko
-            * Sailor Moon (Season 1)
+          * Sailor Moon (Season 1)
             * Dark Kingdom
               * Queen Beryl
               * Queen Metalia
-      * List of World Witches Series characters
+    * List of World Witches Series characters
             * Katou Keiko
             * Hanna-Justina Marseille
             * Raisa Pottgen
@@ -22878,7 +22878,7 @@
             * Misumi Miya
             * Leigh Andrea Archer
             * Kullamas Blengkam
-          * 508th Joint Fighter Wing (Nicknamed "Mighty Witches")
+        * 508th Joint Fighter Wing (Nicknamed "Mighty Witches")
             * Jane Thach
             * Shindou Mie
             * Karibuchi Takami
@@ -22888,31 +22888,31 @@
             * Dorothy Baker
             * Matsuda Shouko
             * Komura Sadae
-          * Suomus Air Force 24th Squadron
+        * Suomus Air Force 24th Squadron
             * Eila Ilmatar Juutilainen
             * Eini A Lukkanen
             * Hanna Wind
             * Laura Nissinen
             * Nikka Edvardine Katajainen
-          * Isle of Wight Detachment Group
+        * Isle of Wight Detachment Group
             * Kadomaru Misa
             * Wilma Bishop
             * Amelie Planchard
             * Francie Gerard
             * Laura Toth
-          * Patton Girls
+        * Patton Girls
             * Abigail
             * Marilyn Savon
             * Patricia
-          * Australis
+        * Australis
             * Nora Taylor
             * Robina Gibbes
-          * Britannia
+        * Britannia
             * Minnie Bishop
             * Adolpha Malan
             * Cecilia Glinda Miles
             * Harriet Steer
-          * Fuso Empire
+        * Fuso Empire
             * Etou Toshiko
             * Kashida Isami
             * Katou Takeko
@@ -22924,7 +22924,7 @@
             * Nishizawa Yoshiko
             * Wakamoto Tetsuko
             * Yokokawa Kazumi
-          * Karlsland
+        * Karlsland
             * Johanna Wiese
             * Heinrike Beer
             * Adolfine Galland
@@ -22942,17 +22942,17 @@
             * Heidimarie W. Schnaufer
             * Wendeline Schroer
             * Adelheid
-          * Ostmark
+        * Ostmark
             * Eugenia Horbaczewski
             * Wiktoria Urbanowicz
-          * Romagna
+        * Romagna
             * Carla Ruspoli
             * Enrica Tarantola
-          * Suomus
+        * Suomus
             * Aurora E. Juutilainen
-          * Venezia
+        * Venezia
             * Anna Ferrara
-          * Non-witches
+        * Non-witches
             * Kuji Kanesada
             * Yamakawa Michiko
             * Miyafuji Ichirou
@@ -22966,20 +22966,20 @@
             * Hakkinen
             * Neuroi Girl
             * Maria Pier di Romagna
-          * See also
+        * See also
             * Tag Groups
             * List of Meta-Wikis
-      * List of Tales of... characters
-      * List of Toaru Majutsu no Index characters
-          * Main Cast
+    * List of Tales of... characters
+    * List of Toaru Majutsu no Index characters
+        * Main Cast
             * Accelerator
             * Hamazura Shiage
             * Index
             * Kamijou Touma
             * Misaka Mikoto
               * Misaka Mikoto level 6 shift
-          * Academy City
-            * Students & Residents
+        * Academy City
+          * Students & Residents
             * Aogami Pierce
             * Awatsuki Maaya
             * Edasaki Banri
@@ -22998,15 +22998,15 @@
             * Sogiita Gunha
             * Tsuchimikado Maika
             * Wannai Kinuho
-            * Anti-Skill
+          * Anti-Skill
             * Tessou Tsuzuri
             * Yomikawa Aiho
-            * BLOCK
+          * BLOCK
             * Saku Tatsuhiko
             * Teshio Megumi
             * Tetsumou
             * Yamate
-            * A Certain High School
+          * A Certain High School
             * Oyafune Suama
             * Tsukuyomi Komoe
             * Yomikawa Aiho
@@ -23016,30 +23016,30 @@
             * Kamijou Touma
             * Kumokawa Seria
             * Tsuchimikado Motoharu
-            * Freshmen
+          * Freshmen
             * Kuroyoru Umidori
-            * GROUP
+          * GROUP
             * Accelerator
             * Etzali / Unabara Mitsuki
             * Musujime Awaki
             * Tsuchimikado Motoharu
-            * ITEM
+          * ITEM
             * Frenda Seivelun
             * Kinuhata Saiai
             * Mugino Shizuri
             * Takitsubo Rikou
-            * Judgment
+          * Judgment
             * Kihara Nayuta
             * Konori Mii
             * Makigami Komaki
             * Shirai Kuroko
             * Uiharu Kazari
             * Yanagisako Aomi
-            * Kamijou family
+          * Kamijou family
             * Kamijou Shiina
             * Kamijou Touma
             * Kamijou Touya
-            * Kihara family
+          * Kihara family
             * Kihara Amata
             * Kihara Byouri
             * Kihara Enshuu
@@ -23048,7 +23048,7 @@
             * Kihara Kagun
             * Kihara Ransuu
             * Kihara Yuiitsu
-            * Level 5 espers
+          * Level 5 espers
             * #1 Accelerator
             * #2 Kakine Teitoku
             * #3 Misaka Mikoto
@@ -23056,12 +23056,12 @@
             * #5 Shokuhou Misaki
             * #6 Aihana Etsu
             * #7 Sogiita Gunha
-            * MEMBER
+          * MEMBER
             * Baba Yoshio
             * Professor
             * Saraku
             * Xochitl
-            * Misakas
+          * Misakas
             * Misaka Mikoto
               * Misaka Mikoto level 6 shift
               * Misaka Imouto
@@ -23069,24 +23069,24 @@
               * Misaka Worst
             * Misaka Misuzu
             * Misaka Tabigake
-            * Scavenger
+          * Scavenger
             * Iizumi Rita
             * Sakuragi Naruha
             * Seike Taroumaru
             * Yakumaru Itsuki
-            * SCHOOL
+          * SCHOOL
             * Gokusai Kaibi
             * Kakine Teitoku
             * Sunazara Chimitsu
             * Yobou Banka
             * Yumiya Rakko
-            * Skill-Out
+          * Skill-Out
             * Fremea Seivelun
             * Hamazura Shiage
             * Hattori Hanzou
             * Komaba Ritoku
             * Kurozuma Wataru
-            * Tokiwadai school
+          * Tokiwadai school
             * Dorm supervisor
             * Kongou Mitsuko
               * Awatsuki Maaya
@@ -23100,50 +23100,50 @@
               * Kobayashi Satori
               * Makigami Komaki
               * Sakibasu Yuri
-            * Windowless Building
+          * Windowless Building
             * Aiwass
             * Aleister Crowley
               * Aleis-tan
             * Mina  Mathers
-            * Teachers, Staff & Administration
+          * Teachers, Staff & Administration
             * Amai Ao
             * Heaven Canceller
             * Kiyama Harumi
             * Oyafune Monaka
             * Yoshikawa Kikyou
-          * Magical Side 
-            * Necessarius
+        * Magical Side 
+          * Necessarius
             * Kanzaki Kaori
             * Stiyl Magnus
             * Sherry Cromwell
             * Laura Stuart
             * Orsola Aquinas
-            * British Royal Family
+          * British Royal Family
             * Carissa
             * Elizard
             * Rimea
             * Villian
-            * Annihilatus
+          * Annihilatus
             * Sasha Kruschschev
             * Vasilissa
-            * Roman Catholic Church
+          * Roman Catholic Church
             * Aureolus Ezzard
             * Biagio Busoni
             * Ridovia Lorenzetti
             * Agnese Sanctis
             * Angelene
             * Lucia
-            * God's Right Seat
+          * God's Right Seat
             * Acqua of the Back
             * Fiamma of the Right
             * Terra of the Left
             * Vent of the Front
-            * New Light
+          * New Light
             * Bayloupe
             * Lessar
             * Floris
             * Lancis
-            * Amakusa Catholics
+          * Amakusa Catholics
             * Itsuwa
             * Tatemiya Saiji
             * Isahaya
@@ -23151,7 +23151,7 @@
             * Nomozaki
             * Ushibuka
             * Ushima
-            * Other Magicians
+          * Other Magicians
             * Leivinia Birdway
             * Brunhild Eikdopr
             * Mark Space
@@ -23160,7 +23160,7 @@
             * Silvia
             * Valkyrie
             * Yamisaka Ouma
-          * Others
+        * Others
             * AIM Burst
             * Archangel Gabriel
             * Hino Jinsaku
@@ -23173,12 +23173,12 @@
             * Sphinx
             * Tatsugami Otohime
             * Tsushima
-          * Franchises
+        * Franchises
             * Gekota
               * Pyonko
             * Kanamin
-      * List of Touhou characters
-          * Main Characters
+    * List of Touhou characters
+        * Main Characters
             * Hakurei Reimu
               * Hakurei Reimu (PC-98)
               * Hakurei Reimu (Fox)
@@ -23186,7 +23186,7 @@
               * Kirisame Marisa (Crow)
               * Kirisame Marisa (PC-98)
               * Kirisame Marisa (Seihou)
-          * Highly Responsive to Prayers
+        * Highly Responsive to Prayers
             * Genjii
             * Shingyoku
               * Shingyoku (Female)
@@ -23197,7 +23197,7 @@
             * Mima
             * Kikuri
             * Konngara
-          * Story of Eastern Wonderland
+        * Story of Eastern Wonderland
             * Shrine Tank
             * Flower Tank
             * Rika
@@ -23207,7 +23207,7 @@
             * Evil Eye Sigma
             * Noroiko
             * Matenshi
-          * Phantasmagoria of Dim.Dream
+        * Phantasmagoria of Dim.Dream
             * Ellen
               * Sokrates
             * Kotohime
@@ -23217,7 +23217,7 @@
             * Okazaki Yumemi
             * Ruukoto
             * Mimi-chan
-          * Lotus Land Story
+        * Lotus Land Story
             * Orange
             * Kurumi
             * Elly
@@ -23226,7 +23226,7 @@
               * Kazami Yuuka
             * Mugetsu
             * Gengetsu
-          * Mystic Square
+        * Mystic Square
             * Wayousei
             * Sara
             * Louise
@@ -23237,7 +23237,7 @@
             * Shinki
             * Trump King
             * Alice Margatroid (PC-98)
-          * Embodiment of Scarlet Devil
+        * Embodiment of Scarlet Devil
             * Rumia
               * Rumia (Darkness)
             * Daiyousei
@@ -23254,10 +23254,10 @@
               * Remilia Scarlet (Bat)
             * Flandre Scarlet (alt. spelling Frandre, Flandoll, Frandoll)
               * Flandre Scarlet (Bat)
-          * Dolls in Pseudo Paradise
+        * Dolls in Pseudo Paradise
             * Jacket Girl
             * Label Girl
-          * Perfect Cherry Blossom
+        * Perfect Cherry Blossom
             * Letty Whiterock
             * Chen
               * Chen (Cat)
@@ -23283,18 +23283,18 @@
               * Zenki
               * Goki
             * (Saigyou Ayakashi)
-          * Ghostly Field Club
+        * Ghostly Field Club
             * Usami Renko
             * Maribel Hearn (alt. spelling Maribel Han, or Maryberry Hearn)
-          * Curiosities of Lotus Asia
+        * Curiosities of Lotus Asia
             * Morichika Rinnosuke
               * Mannosuke
             * Tokiko
             * Laika
-          * Immaterial and Missing Power
+        * Immaterial and Missing Power
             * Ibuki Suika
               * Ibuki Suika (Watermelon)
-          * Imperishable Night
+        * Imperishable Night
             * Wriggle Nightbug
               * Princess Wriggle
               * Wriggle Nightbug (Bug)
@@ -23314,13 +23314,13 @@
             * Fujiwara no Mokou
               * Fujiwara no Mokou (Young)
               * Fujiwara no Mokou (Phoenix)
-          * Touhou Sangetsusei
+        * Touhou Sangetsusei
             * Luna Child
             * Star Sapphire
             * Sunny Milk
             * Bakedanuki
             * Daiyousei Mob
-          * Phantasmagoria of Flower View
+        * Phantasmagoria of Flower View
             * Kazami Yuuka
               * Kazami Yuuka (PC-98)
             * Medicine Melancholy
@@ -23330,9 +23330,9 @@
               * Shameimaru Aya (Crow)
             * Shiki Eiki
             * (Lily Black)
-          * Perfect Memento in Strict Sense
+        * Perfect Memento in Strict Sense
             * Hieda no Akyuu
-          * Silent Sinner in Blue
+        * Silent Sinner in Blue
             * Reisen
               * Moon Rabbits
             * Watatsuki no Yorihime
@@ -23340,7 +23340,7 @@
             * Tsukuyomi
             * Amaterasu
             * Susanoo
-          * Mountain of Faith
+        * Mountain of Faith
             * Aki Shizuha
               * Aki Shizuha (Crab)
             * Aki Minoriko
@@ -23358,10 +23358,10 @@
             * Moriya Suwako
               * Moriya Suwako (Frog)
               * Pyonta
-          * Scarlet Weather Rhapsody
+        * Scarlet Weather Rhapsody
             * Nagae Iku
             * Hinanawi Tenshi
-          * Subterranean Animism
+        * Subterranean Animism
             * Kisume
             * Kurodani Yamame
               * Kurodani Yamame (Spider)
@@ -23375,7 +23375,7 @@
               * Reiuji Utsuho (Bird)
             * Komeiji Koishi
               * Komeiji Koishi (Cat)
-          * Undefined Fantastic Object
+        * Undefined Fantastic Object
             * Nazrin
               * Nazrin (Mouse)
             * Tatara Kogasa
@@ -23391,14 +23391,14 @@
               * Hijiri Byakuren (Mouse)
             * Houjuu Nue
               * Houjuu Nue (Snake)
-          * Touhou Hisoutensoku
+        * Touhou Hisoutensoku
             * Hisou Tensoku
             * Namazu
             * Goliath Doll
-          * Double Spoiler
+        * Double Spoiler
             * Himekaidou Hatate
               * Himekaidou Hatate (Crow)
-          * Wild and Horned Hermit
+        * Wild and Horned Hermit
             * Ibaraki Kasen
               * Ibaraki Douji's Arm
               * Ibaraki Douji
@@ -23414,7 +23414,7 @@
               * Dark Haired Kappa
               * Glasses Kappa
               * Hair Tie Kappa
-          * Ten Desires
+        * Ten Desires
             * Kasodani Kyouko
               * Kasodani Kyouko (Yamabiko)
             * Miyako Yoshika
@@ -23430,7 +23430,7 @@
             * Futatsuiwa Mamizou
               * Futatsuiwa Mamizou (Human)
               * Futatsuiwa Mamizou (Tanuki)
-          * Forbidden Scrollery
+        * Forbidden Scrollery
             * Motoori Kosuzu 
             * Fortune Teller
             * Youkai Fox (Forbidden Scrollery)
@@ -23439,10 +23439,10 @@
             * Snake Youkai (Touhou)
             * Tupai (Touhou)
             * Enenra
-          * Hopeless Masquerade
+        * Hopeless Masquerade
             * Hata no Kokoro
               * Hata no Kokoro (Mask)
-          * Double Dealing Character
+        * Double Dealing Character
             * Wakasagihime
               * Wakasagihime (Fish)
             * Sekibanki
@@ -23453,9 +23453,9 @@
             * Kijin Seija
             * Sukuna Shinmyoumaru
             * Horikawa Raiko
-          * Urban Legend in Limbo
+        * Urban Legend in Limbo
             * Usami Sumireko
-          * Legacy of Lunatic Kingdom
+        * Legacy of Lunatic Kingdom
             * Seiran
               * Seiran (Bunny)
             * Ringo
@@ -23468,11 +23468,11 @@
             * Hecatia Lapislazuli
               * Hecatia Lapislazuli (Earth)
               * Hecatia Lapislazuli (Moon)
-          * Antinomy of Common Flowers
+        * Antinomy of Common Flowers
             * Yorigami Jo'on
             * Yorigami Shion
             * Doreking
-          * Hidden Star in Four Seasons
+        * Hidden Star in Four Seasons
             * Eternity Larva
             * Sakata Nemuno
             * Komano Aunn
@@ -23482,7 +23482,7 @@
             * Nishida Satono
             * Teireida Mai
             * Matara Okina
-          * Wily Beast and Weakest Creature
+        * Wily Beast and Weakest Creature
             * Ebisu Eika
             * Ushizaki Urumi
             * Niwatari Kutaka
@@ -23492,13 +23492,13 @@
             * Haniyasushin Keiki
             * Kurokoma Saki
               * Kurokoma Saki (Pegasus)
-          * Touhou Gouyoku Ibun
+        * Touhou Gouyoku Ibun
             * Toutetsu Yuuma
-          * Lotus Eater-tachi no Suisei
+        * Lotus Eater-tachi no Suisei
             * Okunoda Miyoi
-          * Foul Detective Satori
+        * Foul Detective Satori
             * Miyadeguchi Mizuchi
-          * Unconnected Marketeers
+        * Unconnected Marketeers
             * Goutokuji Mike
             * Yamashiro Takane
             * Komakusa Sannyo
@@ -23507,7 +23507,7 @@
             * Iizunamaru Megumu
             * Tenkyuu Chimata
             * Himemushi Momoyo
-          * Stage enemies
+        * Stage enemies
             * Bakebake
             * Evil Eye
             * Hoshizako
@@ -23516,7 +23516,7 @@
             * Sunflower Fairy
             * Zombie Fairy
             * Divine Spirit
-          * Other Characters
+        * Other Characters
             * Bofeng
             * Dragon God (Touhou)
             * Hourai Girl (touhou)
@@ -23526,7 +23526,7 @@
             * Satsuki Rin
             * VIVIT (Seihou games)
             * Portrait of exotic girls
-          * Artists who have drawn official artworks
+        * Artists who have drawn official artworks
             * Oota Jun'ya (ZUN)
               * ZUN as a character
             * Aki Eda
@@ -23543,17 +23543,17 @@
             * Seo Tatsuya
             * TOKIAME
             * Yuuki Tatsuya
-      * List of Touken Ranbu characters
-      * List of Vocaloid characters
-      * List of Yu-Gi-Oh! characters
-          * Yu-Gi-Oh! Duel Monsters
-            * Main characters
+    * List of Touken Ranbu characters
+    * List of Vocaloid characters
+    * List of Yu-Gi-Oh! characters
+        * Yu-Gi-Oh! Duel Monsters
+          * Main characters
             * Mutou Yuugi / Yami Yuugi
             * Kaiba Seto
             * Jounouchi Katsuya (Joey Wheeler)
             * Mazaki Anzu (Téa Gardner)
             * Honda Hiroto (Tristan Taylor)
-            * Supporting characters
+          * Supporting characters
             * Bakura Ryou
             * Ishizu Ishtar
             * Kaiba Mokuba
@@ -23562,7 +23562,7 @@
             * Kujaku Mai (Mai Valentine)
             * Otogi Ryuuji (Duke Devlin)
             * Rebecca Hopkins (Rebecca Hawkins)
-            * Minor characters
+          * Minor characters
             * Arthur Hopkins (Arthur Hawkins)
             * Dinosaur Ryuzaki (Rex Raptor)
             * Insector Haga (Weevil Underwood)
@@ -23576,7 +23576,7 @@
             * Amelda (Alister)
             * Rafael
             * Valon
-            * Ancient Egypt characters
+          * Ancient Egypt characters
             * Aknamkanon
             * Atem
             * Isis
@@ -23588,21 +23588,21 @@
             * Shada
             * Shimon Muuran
             * Touzokuou Bakura
-            * Antagonists
+          * Antagonists
             * Pegasus J Crawford (Maximillion Pegasus)
             * Marik Ishtar / Yami Marik
             * Dartz
             * Yami Bakura
             * Zorc Necrophades
-            * Yu-Gi-Oh! R
+          * Yu-Gi-Oh! R
             * Tenma Gekkou
             * Tenma Yako
             * Kitamori Reiko 
-            * Yu-Gi-Oh! The Dark Side of Dimensions
+          * Yu-Gi-Oh! The Dark Side of Dimensions
             * Aigami
             * Sera
-          * Yu-Gi-Oh! GX
-            * Main characters
+        * Yu-Gi-Oh! GX
+          * Main characters
             * Yuuki Juudai (Jaden Yuki)
             * Marufuji Shou (Syrus Truesdale)
             * Maeda Hayato  (Chumley Huffington)
@@ -23610,7 +23610,7 @@
             * Manjoume Jun (Chazz Princeton)
             * Tenjouin Asuka (Alexis Rhodes)
             * Tyranno Kenzan (Tyranno Hassleberry)
-            * Recurring characters
+          * Recurring characters
             * Austin O'Brien (Axel Brodie)
             * Cronos De Medici (Vellian Crowler)
             * Daitokuji (Lyman Banner)
@@ -23627,21 +23627,21 @@
             * Seika Kohinata
             * Tenjouin Fubuki (Atticus Rhodes)
             * Yubel
-            * Minor characters
+          * Minor characters
             * Camula
             * Kochou Ran
             * Tania
             * Saiou Mizuchi (Sarina)
             * Supreme King
-          * Yu-Gi-Oh! 5D's
-            * Main characters
+        * Yu-Gi-Oh! 5D's
+          * Main characters
             * Fudou Yuusei
             * Jack Atlas
             * Crow Hogan
             * Izayoi Aki (Akiza Izinski)
             * Lua (Leo)
             * Luca (Luna)
-            * Supporting characters
+          * Supporting characters
             * Bruno
             * Carly Nagisa (Carly Carmine)
             * Kiryuu Kyousuke (Kalin Kessler)
@@ -23650,29 +23650,29 @@
             * Sagiri Mikage (Mina Simington)
             * Sherry Leblanc
             * Ushio Tetsu (Officer Tetsu Trudge)
-            * Minor characters
+          * Minor characters
             * Doctor Fudou
             * Yeager
             * Nerve
             * Rally Dawson
             * Rex Goodwin
-            * Stars of Ruin
+          * Stars of Ruin
             * Antinomy
             * Aporia
               * Jose
               * Lucciano
               * Placido
             * Z-one
-            * Yu-Gi-Oh! 3D Bonds Beyond Time
+          * Yu-Gi-Oh! 3D Bonds Beyond Time
             * Paradox
-          * Yu-Gi-Oh! ZEXAL
-            * Main characters
+        * Yu-Gi-Oh! ZEXAL
+          * Main characters
             * Tsukumo Yuuma
             * Astral
             * Mizuki Kotori
             * Kamishiro Ryouga
             * Tenjou Kaito
-            * Supporting Characters
+          * Supporting Characters
             * Cathy
             * Droite
             * Gauche
@@ -23687,7 +23687,7 @@
             * III
             * IV
             * V
-            * Minor characters
+          * Minor characters
             * Dr. Faker
             * Kitano Ukyo
             * Mr. Heartland
@@ -23702,12 +23702,12 @@
             * Todoroki Takashi
             * Tsukumo Akari
             * Tsukumo Haru
-            * Barian Emperors
+          * Barian Emperors
             * Arito
             * Durbe
             * Girag
             * Mizael
-          * Yu-Gi-Oh! ARC-V
+        * Yu-Gi-Oh! ARC-V
             * Sakaki Yuuya
             * Hiiragi Yuzu
             * Shiun'in Sora
@@ -23722,7 +23722,7 @@
             * Yuuri
             * Rin
             * Zarc
-          * Yu-Gi-Oh! VRAINS
+        * Yu-Gi-Oh! VRAINS
             * Fujiki Yuusaku
               * Playmaker
             * Ai
@@ -23737,19 +23737,19 @@
             * Bessho Emma
               * Ghost Girl
             * Revolver
-          * Yu-Gi-Oh! SEVENS
+        * Yu-Gi-Oh! SEVENS
             * Oudou Yuga
             * Kamijou Tatsuhisa
             * Sougetsu Gakuto
             * Kirishima Romin
             * Atachi Mimi
-          * Videogames
-            * Yu-Gi-Oh! Tag Force
+        * Videogames
+          * Yu-Gi-Oh! Tag Force
             * Konami-kun (player character)
             * Rain Megumi
             * Tsan Dire (Tasha)
             * Fujiwara Yukino
-            * Yu-Gi-Oh! Duel Links
+          * Yu-Gi-Oh! Duel Links
             * Alyssa
             * Bella
             * Chloe
@@ -23758,9 +23758,9 @@
             * Jess
             * Kylie
             * Madison
-      * List of original characters
-      * List of genderswap characters
-          * Male to Female
+    * List of original characters
+    * List of genderswap characters
+        * Male to Female
             * Alpha-01 - female version of Ragna the Bloodedge
             * Archer-tan - female (loli) version of Archer
             * Bowsette - female (super crowned) version of Bowser
@@ -23820,7 +23820,7 @@
             * Unlovely - female version of Phantom
             * Yuusaki Riko - female version of Yuuki Rito 
             * Zellie - female version of Zel
-          * Female to Male
+        * Female to Male
             * Adriani Yofie - male version of Airani Iofifteen
             * Ananda Wisnu - male version of Ayunda Risu
             * Asahina Mitsuru - male version of Asahina Mikuru
@@ -23866,19 +23866,19 @@
             * WIRIAM - male version of MIRIAM
             * Yagyuu Juubei - male version of Yagyuu Kyuubei
             * ZeeU and Seewoo - male version of SeeU
-          * See also
+        * See also
             * Midnight Bliss
             * Tag Groups
             * Tag group:Artistic license
-      * List of official mascots
-          * Animation Studios
+    * List of official mascots
+        * Animation Studios
             * Baja Mouse
             * Gaa-chan
             * Frag
             * Muzzle
             * Spring
             * Trigger-chan
-          * Area Mascots (Towns and prefectures)
+        * Area Mascots (Towns and prefectures)
             * Aoshima Megu (Aoshima Prefecture)
             * Funasshii (Funabashi, Chiba Prefecture)
             * Igarashi Mai (Iga Prefecture)
@@ -23895,7 +23895,7 @@
               * Touhoku Kiritan
             * Tokyo
               * Tokyo Metropolitan Police Department
-          * Companies
+        * Companies
             * Nipako (Ultimate Nipper)
             * Kotobuki Bukiko (Kotobukiya)
             * Takasaki Kusuko (Cusco)
@@ -23916,7 +23916,7 @@
             * Michelin Man (Michelin)
             * Bunden Denko (Tepco)
             * Melon Kuma (Hokkaido Product Center, Yuubari Branch)
-          * Conventions
+        * Conventions
             * Ai
             * Xeno
             * Gamna
@@ -23927,7 +23927,7 @@
             * Wanda
             * Daicon Bunny Girl (Daicon)
             * Senkaku Mei (Anime Revolution)
-          * Food & Drink
+        * Food & Drink
             * Peko-chan
             * Poko-chan
             * Furutaman
@@ -23951,7 +23951,7 @@
             * Napoli-tan (Kagome)
             * Pepsiman (Pepsi)
             * Umbrella Girl (Morton Salt)
-          * Games
+        * Games
             * Naitou-kun (The CHiRaL NIGHT)
             * Super Sonico (NITRO SUPER SONIC)
             * Enta Girl
@@ -23964,12 +23964,12 @@
             * pippi (osu!)
             * Sis-tan (Fantasista)
             * Viktoriya (Wargaming Japan)
-          * Magazines
+        * Magazines
             * Applis
             * Tyle-kun
             * Journey (Shounen Jump)
             * Necky (Famitsu)
-          * Restaurants
+        * Restaurants
             * Birdie the Early Bird
             * Fry Kids
             * Grimace
@@ -23984,7 +23984,7 @@
             * Ran (Gyouza no Manshuu)
             * Starbucks Siren (Starbucks)
             * Wendy (Wendy's)
-          * Software
+        * Software
             * Hacka Doll 1
             * Hacka Doll 2
             * Hacka Doll 3
@@ -23997,7 +23997,7 @@
             * Madobe Yuu (Adobe You and I)
             * Nero Jeevas (Figure Photo Studio)
             * A.I. Chainer (Paintschainer)
-          * Sports
+        * Sports
             * Holly-kun (Mito Hollyhock)
             * Kawasaki Maruko (Kawasaki Frontale)
             * Sancce (Sanfrecce Hiroshima)
@@ -24022,7 +24022,7 @@
               * Lina
             * Doala (Chunichi Dragons) 
             * Slyly (Hiroshima Touyou Carp)
-          * Stores
+        * Stores
             * Amico
             * Lilco
             * Melon Girls
@@ -24053,7 +24053,7 @@
             * Anisawa Meito (Animate)
             * Fox Konko (FOXCONN)
             * Tsukumo-tan (TSUKUMO electronics store)
-          * Transportation
+        * Transportation
             * Kyou-chan
             * Miyako-kun
             * Chikatetsu ni Noru!
@@ -24064,13 +24064,13 @@
               * Uzumasa Moe
             * Sorayan (Osaka International Airport)
             * Suica Penguin (Suica)
-          * TV Stations
+        * TV Stations
             * Ultra Super Anime Time
               * Sumako
               * Supika
             * Domo-kun (Nippon Housou Kyoukai)
             * Nanana (TV Tokyo)
-          * Websites
+        * Websites
             * Bili Girl 22
             * Bili Girl 33
             * Home Page/All Ages
@@ -24085,9 +24085,9 @@
               * Sarah
               * Ziptan
             * Girl's Maniax/Garumani
-    * More
-      * List of disambiguation pages
-          * Tags in Current Use
+  * More
+    * List of disambiguation pages
+        * Tags in Current Use
             * Amazon warrior (female warrior tribe)
             * anchor (ship item, vs. anchor symbol)
             * apple (fruit)
@@ -24152,10 +24152,10 @@
             * wallpaper (image resolution, vs. wallpaper (object))
             * whale tail (thong, not an animal's tail)
             * yuri (a Japanese term for girls love, vs. a character's name)
-          * Nouns
-            * #
+        * Nouns
+          * #
             * 1-gou / 1gou / ichigou
-            * A
+          * A
             * a bao a qu
             * adamas
             * aikata
@@ -24186,7 +24186,7 @@
             * auburn hair
             * azalea
             * azi
-            * B
+          * B
             * ba
             * bad
             * baragon
@@ -24226,7 +24226,7 @@
             * bunny girl
             * buri
             * byte
-            * C
+          * C
             * canvas
             * cap
             * centurion
@@ -24246,7 +24246,7 @@
             * crane
             * creampie
             * crossing
-            * D
+          * D
             * dabi
             * date
             * dendenmushi
@@ -24260,7 +24260,7 @@
             * double cross
             * dragon steak
             * drain
-            * E
+          * E
             * ebi
             * ebichiri
             * ebiten
@@ -24268,7 +24268,7 @@
             * emden
             * emo
             * es
-            * F
+          * F
             * fad
             * falchion
             * fall
@@ -24288,7 +24288,7 @@
             * fuugetsu
             * futo
             * fuuto
-            * G
+          * G
             * gamers
             * garland
             * geregere
@@ -24312,7 +24312,7 @@
             * guardian
             * gyuuki
             * gyuunyuu
-            * H
+          * H
             * hachihachi
             * hadouhou
             * hakuryuu
@@ -24354,7 +24354,7 @@
             * hutao
             * hyottoko
             * hyoutan
-            * I
+          * I
             * ichiru
             * ie
             * ikasumi
@@ -24369,7 +24369,7 @@
             * iwa
             * iwashi
             * izayoi
-            * J
+          * J
             * jako
             * jakoten
             * jc
@@ -24381,7 +24381,7 @@
             * jugoya
             * junkie
             * juugo / jyugo / jugo
-            * K
+          * K
             * k1
             * kaba
             * kabocha
@@ -24450,7 +24450,7 @@
             * kusaba
             * kutsushita
             * kyokkou
-            * L
+          * L
             * labo
             * leaning over
             * legion
@@ -24463,7 +24463,7 @@
             * long riders
             * lotte
             * lycoris
-            * M
+          * M
             * m10
             * macchiato
             * macedonian flag
@@ -24522,7 +24522,7 @@
             * mushi
             * mustang
             * my unit
-            * N
+          * N
             * nacl
             * namako
             * namakura
@@ -24557,7 +24557,7 @@
             * nut
             * nyoro
             * nyu
-            * O
+          * O
             * oboro
             * oira
             * okamochi
@@ -24583,7 +24583,7 @@
             * owan
             * owari
             * oyuya
-            * P
+          * P
             * panties on face
             * paper ball
             * peony
@@ -24609,10 +24609,10 @@
             * purple
             * purple clothes
             * pylon
-            * Q
+          * Q
             * qin
             * qing
-            * R
+          * R
             * raayu
             * raiden
             * rail
@@ -24631,7 +24631,7 @@
             * rui
             * rvs
             * ryuusei
-            * S
+          * S
             * saba
             * sabamiso
             * safeguard
@@ -24695,7 +24695,7 @@
             * suzuki
             * suzume
             * suzuri
-            * T
+          * T
             * t-50
             * tachi
             * tachiuo
@@ -24733,7 +24733,7 @@
             * type 11
             * type 96
             * type 99
-            * U
+          * U
             * ubo
             * ufu
             * uki
@@ -24749,12 +24749,12 @@
             * uwa
             * uwabami
             * uzura
-            * V
+          * V
             * venom
             * violet
             * vitaone
             * vol
-            * W
+          * W
             * waka
             * wani
             * waribashi
@@ -24767,9 +24767,9 @@
             * wisp
             * wildcat
             * wt
-            * X
+          * X
             * xabungle
-            * Y
+          * Y
             * yadokari
             * yagen
             * yakkyou
@@ -24786,14 +24786,14 @@
             * yuurou
             * yuzi
             * yuzu
-            * Z
+          * Z
             * zen
             * zenzai
             * zero
             * zipang
             * zouni
-          * Single Names (some may be in the Nouns category)
-            * A
+        * Single Names (some may be in the Nouns category)
+          * A
             * Abigail
             * Acchii
             * Adam
@@ -24865,7 +24865,7 @@
             * Ayn
             * Azuma
             * Azumi
-            * B
+          * B
             * Baal
             * Bael
             * Baibars
@@ -24888,7 +24888,7 @@
             * Boyd
             * Buddy
             * Byrne
-            * C
+          * C
             * Canna
             * Cecil
             * Cecilia
@@ -24914,7 +24914,7 @@
             * Crawford
             * Cro
             * Cybele
-            * D
+          * D
             * Dada
             * Dario
             * Dai
@@ -24925,7 +24925,7 @@
             * Doris
             * Dororo
             * Dorothy
-            * E
+          * E
             * Eclair
             * Edel
             * Eerika
@@ -24951,7 +24951,7 @@
             * Evan
             * Eve
             * Ezekiel
-            * F
+          * F
             * Fara / Farah
             * Fatima
             * Fay / Faye / Fei / Fey
@@ -24969,7 +24969,7 @@
             * Fukami
             * Fumiko
             * Fuusuke / Fusuke
-            * G
+          * G
             * Gai/Guy
             * Galatea
             * Gary
@@ -24980,7 +24980,7 @@
             * Gotou / Goto
             * Gretel
             * Gotouza
-            * H
+          * H
             * Haku
             * Hana
             * Hanako
@@ -25023,7 +25023,7 @@
             * Humin
             * Hyakkimaru
             * Hyuuga
-            * I
+          * I
             * Ichijou
             * Ichima
             * Ilia
@@ -25037,7 +25037,7 @@
             * Iria
             * Isabel
             * Isabella
-            * J
+          * J
             * Jack
             * Jade
             * Jane
@@ -25055,7 +25055,7 @@
             * Jonathan
             * Junko
             * Juushimatsu
-            * K
+          * K
             * Kaga
             * Kagechiyo
             * Kagura
@@ -25115,7 +25115,7 @@
             * Kusanagi
             * Kyle / Kairu
             * Kyoko / Kyouko
-            * L
+          * L
             * Lakshmi
             * Lala
             * Lancelot
@@ -25137,7 +25137,7 @@
             * Lulu
             * Luma
             * Luna
-            * M
+          * M
             * Madoka
             * Maeve / Mave / Medb
             * Magunasu
@@ -25206,7 +25206,7 @@
             * Muichi
             * Musashi
             * Musuka
-            * N
+          * N
             * Nabu
             * Nachi
             * Nagato
@@ -25242,7 +25242,7 @@
             * Nosuke
             * Nova
             * Nozomi
-            * O
+          * O
             * Odin
             * Olga
             * Onyankopon
@@ -25258,7 +25258,7 @@
             * Osomatsu
             * Oswald
             * Ouno
-            * P
+          * P
             * Pallas
             * Pandora
             * Patricia
@@ -25275,9 +25275,9 @@
             * Portia
             * Prinz Eugen
             * Priscilla
-            * Q
+          * Q
             * Quetzalcoatl
-            * R
+          * R
             * Rachel / Rachael
             * Raki
             * Ramon
@@ -25312,7 +25312,7 @@
             * Ruru
             * Rusha
             * Ryuuichi
-            * S
+          * S
             * Saaya
             * Saburou / Saburo
             * Sagiri
@@ -25364,7 +25364,7 @@
             * Suneo
             * Susanoo
             * Suzuki
-            * T
+          * T
             * Takagi
             * Takamaru
             * Takemaru
@@ -25400,7 +25400,7 @@
             * Tsubaki
             * Tsubomi
             * Tsuki
-            * U
+          * U
             * Ueo
             * Umeyama
             * Umi
@@ -25410,7 +25410,7 @@
             * Urashima
             * Ursula
             * Usagi
-            * V
+          * V
             * Valerie
             * Vanessa
             * Veronica
@@ -25419,14 +25419,14 @@
             * Victoria
             * Viola
             * Vivian
-            * W
+          * W
             * Wabisuke
             * Walter
             * Watarun
             * Wendy
-            * X
+          * X
             * Xion
-            * Y
+          * Y
             * Yagumo
             * Yamada
             * Yamo
@@ -25461,13 +25461,13 @@
             * Yuuki
             * Yuuma
             * Yuzuha
-            * Z
+          * Z
             * Zabaniya
             * Zack
             * Zero Two
             * Zill
             * Zubatto
-          * Proper Names
+        * Proper Names
             * Aihara Yuuki
             * Aizawa Yuu
             * Akai Ringo
@@ -25515,11 +25515,11 @@
             * Watari Yuu
             * Yamabuki Kaede
             * Yamada Maya
-          * See Also
+        * See Also
             * Help:Tags (may be somewhat out of data)
             * Tag groups
-      * List of magazine publications
-          * Magazines
+    * List of magazine publications
+        * Magazines
             * Afternoon
             * Animage
             * Animedia
@@ -25585,15 +25585,15 @@
             * Shuukan Playboy
             * Techgian
             * Towako
-          * See also
+        * See also
             * magazine
             * magazine cover
             * scan
-      * List of special moves
-      * List of uniforms
+    * List of special moves
+    * List of uniforms
         * Intro
-          * Real Life Uniforms
-            * Military uniform
+        * Real Life Uniforms
+          * Military uniform
             * Japan Air Self-Defense Force
             * Japan Ground Self-Defense Force
             * Japan Maritime Self-Defense Force
@@ -25602,7 +25602,7 @@
             * Naval uniform
             * Pilot uniform
             * Sailor
-            * Restaurant
+          * Restaurant
             * Anna Miller
             * Bronze Parrot
             * Coco's
@@ -25612,7 +25612,7 @@
             * Kobeya uniform
             * Waitress
             * Yoshinoya
-            * School uniform
+          * School uniform
             * Band uniform
             * Gakuran
             * Gym uniform
@@ -25627,7 +25627,7 @@
             * Soviet school uniform
             * Thai college uniform
             * Thai student uniform
-            * Sportswear
+          * Sportswear
             * Baseball uniform
             * Basketball uniform
             * American football uniform
@@ -25636,30 +25636,30 @@
             * Tennis uniform
             * Track uniform
             * Volleyball uniform
-            * Other
+          * Other
             * Employee uniform
             * Maid
             * Miko
             * Nurse
             * Police uniform
             * Shinsengumi
-          * Fictional Series
-            * 11eyes
+        * Fictional Series
+          * 11eyes
             * Kouryoukan Academy uniform
-            * Absolute Duo
+          * Absolute Duo
             * Kouryou Academy uniform
-            * Accel World
+          * Accel World
             * Umesato Middle School uniform
-            * Action Heroine Cheer Fruits
+          * Action Heroine Cheer Fruits
             * Himeyuri Girls' Academy uniform
             * Hinanectar uniform
             * Hinano High School uniform
-            * AIKa series
+          * AIKa series
             * AIKa R-16 school uniform (AIKa R-16)
             * Delmogeny uniform (Agent Aika)
             * St. Aero Academy uniform (AIKa Zero)
             * White Knights uniform
-            * Aikatsu! series
+          * Aikatsu! series
             * Dream Academy uniform (Aikatsu!)
             * Etoile Academy uniform (Aikatsu!)
             * Himezakura Girls' Academy uniform (Aikatsu!)
@@ -25670,40 +25670,40 @@
             * Tsukiyo no Gakuen school uniform (Aikatsu Friends!)
             * Venus Ark uniform (Aikatsu Stars!)
             * Yotsuboshi Academy uniform (Aikatsu Stars!)
-            * Alice no 100ºCC
+          * Alice no 100ºCC
             * Hinadan Private High School uniform
-            * Amagami
+          * Amagami
             * Kibito High School uniform
-            * Angel Beats!
+          * Angel Beats!
             * Afterlife Battlefront uniform
-            * Anime-Gataris
+          * Anime-Gataris
             * Sakaneko High School uniform
-            * Ansatsu Kyoushitsu
+          * Ansatsu Kyoushitsu
             * Kunugigaoka Middle School uniform
-            * Arcana Heart
+          * Arcana Heart
             * Misono Gakuen school uniform
-            * ARIA
+          * ARIA
             * Aria Company uniform
             * Himeya Company uniform
             * Orange Planet uniform
-            * Assault Lily
+          * Assault Lily
             * Kanba Girls High School uniform
             * Yurigaoka Girls Academy school uniform
             * Herensuge Girls Academy school uniform
             * Ludvico Private Girls' Academy school uniform
-            * Asu no Yoichi
+          * Asu no Yoichi
             * Yokuryou Academy uniform
-            * Azumanga Daioh
+          * Azumanga Daioh
             * Azumanga Daioh's school uniform
-            * Baka to Test to Shoukanjuu
+          * Baka to Test to Shoukanjuu
             * Fumizuki Academy uniform
-            * BanG Dream!
+          * BanG Dream!
             * Hanasakigawa School uniform
             * Haneoka School uniform
             * Tsukinomori School uniform
-            * Beastars
+          * Beastars
             * Cherryton school uniform
-            * Bishoujo Senshi Sailor Moon
+          * Bishoujo Senshi Sailor Moon
             * Juuban High School uniform
             * Juuban Middle School uniform
             * Kino Makoto's school uniform
@@ -25711,44 +25711,44 @@
             * Sailor Senshi uniform
             * Shiba Koen Middle School uniform
             * TA Girls School uniform
-            * Bishoujo Yuugekitai Battle Skipper
+          * Bishoujo Yuugekitai Battle Skipper
             * St. Ignacio Girls' Academy uniform
-            * Bleach
+          * Bleach
             * Shin'oureijutsuin school uniform
-            * Blend S
+          * Blend S
             * Stile uniform
-            * Blue Reflection
+          * Blue Reflection
             * Hoshinomiya Girls' High School uniform
-            * Boku no Hero Academia
+          * Boku no Hero Academia
             * U.A. cheerleader uniform
             * U.A. gym uniform
             * U.A. school uniform
-            * Boku wa Tomodachi ga Sukunai
+          * Boku wa Tomodachi ga Sukunai
             * St. Chronica Academy uniform
-            * Cardcaptor Sakura
+          * Cardcaptor Sakura
             * Tomoeda Elementary School uniform
             * Tomoeda Middle School uniform
             * Tomoeda High school uniform
-            * Charlotte
+          * Charlotte
             * Hoshinoumi Academy uniform
-            * Clannad
+          * Clannad
             * Hikarizaka Private High School uniform
-            * Code Geass
+          * Code Geass
             * Ashford Academy swimsuit
             * Ashford Academy uniform
             * Knights of the Round uniform
             * Order of the Black Knights uniform
-            * Corpse Party
+          * Corpse Party
             * Kisaragi Academy School uniform
-            * Cube x Cursed x Curious
+          * Cube x Cursed x Curious
             * Taishuu High School uniform
-            * Danganronpa
+          * Danganronpa
             * Gunma Prefectural Shibuya High School uniform (Danganronpa V3: Killing Harmony)
             * Hope's Peak Academy school uniform (Danganronpa 3 (anime))
             * Yuushinkan High School uniform (Danganronpa V3: Killing Harmony)
-            * D.Gray-man
+          * D.Gray-man
             * Black Order uniform
-            * Digimon
+          * Digimon
             * Appliyama 470 uniform (Digimon Universe: Appli Monsters)
             * DATERS uniform (Digimon Adventure tri.)
             * DATS uniform (Digimon Savers)
@@ -25756,15 +25756,15 @@
             * Odaiba Middle School uniform (Digimon Adventure 02)
             * Private Ootori Academy uniform (Digimon Savers)
             * Tsukishima General High School uniform (Digimon Adventure tri.)
-            * Dragon Ball
+          * Dragon Ball
             * Pride Trooper uniform
-            * Dream C Club
+          * Dream C Club
             * Dream C Club uniform
             * Kimisaki school uniform (Ensemble Girls!)
             * Reimei school uniform (Ensemble Stars!)
             * Shuetsu school uniform (Ensemble Stars!)
             * Yumenosaki school uniform (Ensemble Stars!)
-            * Fate series
+          * Fate series
             * Atlas Academy uniform
             * CHALDEA uniform (Fate/Grand Order)
             * Homurahara Academy school uniform (Fate/stay night and Fate/kaleid liner PRISMA☆ILLYA)
@@ -25772,35 +25772,35 @@
             * Tsukumihara Academy uniform (Fate/Extra)
             * Tsukumihara Academy uniform (Fate/Extra CCC)
             * Yatsushirodai Elementary School uniform
-            * Final Fantasy
+          * Final Fantasy
             * Akademeia uniform (Final Fantasy Type-0)
             * Kingsglaive Garb (Final Fantasy XV)
-            * Fire Emblem
+          * Fire Emblem
             * Garreg Mach Monastery uniform (Fire Emblem: Three Houses)
-            * Fortune Arterial
+          * Fortune Arterial
             * Shuuchikan Academy uniform
-            * Free!
+          * Free!
             * Iwatobi High School Uniform
-            * Fullmetal Alchemist
+          * Fullmetal Alchemist
             * Amestris military uniform
-            * Full Metal Panic!
+          * Full Metal Panic!
             * Jindai High School uniform
-            * Gakkou Gurashi!
+          * Gakkou Gurashi!
             * Megurigaoka High School Uniform
-            * Gakuen Utopia Manabi Straight!
+          * Gakuen Utopia Manabi Straight!
             * Seiou Gakuen school uniform
-            * Gakusen Toshi Asterisk
+          * Gakusen Toshi Asterisk
             * Seidoukan Academy uniform
-            * Galaxy Angel
+          * Galaxy Angel
             * Angel Wing uniform
-            * Gantz
+          * Gantz
             * Gantz suit
             * Gantz advanced suit
-            * Gekkan Shoujo Nozaki-kun
+          * Gekkan Shoujo Nozaki-kun
             * Rouman Academy uniform
-            * Girls' Frontline
+          * Girls' Frontline
             * Griffin & Kryuger military uniform
-            * Girls und Panzer
+          * Girls und Panzer
             * Aoshidan school uniform
             * Anzio military uniform
             * Anzio school uniform
@@ -25834,43 +25834,43 @@
             * St. Gloriana's school uniform
             * Tategoto military uniform (Ribbon no Musha)
             * Tatenashi High School uniform (Ribbon no Musha)
-            * Gochuumon wa Usagi Desu Ka?
+          * Gochuumon wa Usagi Desu Ka?
             * Ama Usa An uniform
             * Fleur de Lapin uniform
             * Hoto Cocoa's school uniform
             * Kafuu Chino's school uniform
             * Rabbit House uniform
             * Tedeza Rize's school uniform
-            * Granblue Fantasy
+          * Granblue Fantasy
             * Order of the White Dragon uniform
-            * Gundam
+          * Gundam
             * Celestial Being uniform (Gundam 00)
             * Mobile Trace Suit (G Gundam)
-            * Harry Potter
+          * Harry Potter
             * Hogwarts school uniform
-            * Hanasaku Iroha
+          * Hanasaku Iroha
             * Kissuisou uniform
-            * Hayate no Gotoku!
+          * Hayate no Gotoku!
             * Hakuo school uniform
-            * Hibike! Euphonium
+          * Hibike! Euphonium
             * Kitauji High School uniform
-            * Hidamari Sketch
+          * Hidamari Sketch
             * Yamabuki high school uniform
-            * High School DxD
+          * High School DxD
             * Kuoh Academy School Uniform
-            * High School Fleet
+          * High School Fleet
             * Yokosuka Girls Marine High School Uniform
-            * Higurashi no Naku Koro Ni
+          * Higurashi no Naku Koro Ni
             * Angel Mort
             * St. Lucia Academy School Uniform
-            * Houseki no Kuni
+          * Houseki no Kuni
             * Gem uniform
-            * Hyouka
+          * Hyouka
             * Kamiyama High School uniform
-            * Idolmaster
+          * Idolmaster
             * Gyokuto High School uniform
             * Mondenkind uniform
-            * Inazuma Eleven
+          * Inazuma Eleven
             * Arakumo Gakuen school uniform
             * Arakumo Gakuen soccer uniform
             * Gassan Kunimitsu basketball uniform
@@ -25883,67 +25883,67 @@
             * Seidouzan soccer uniform
             * Teikoku school uniform
             * Teikoku soccer uniform
-            * Infinite Stratos
+          * Infinite Stratos
             * Infinite Stratos Academy uniform
-            * Inou-Battle wa Nichijou-kei no Naka de
+          * Inou-Battle wa Nichijou-kei no Naka de
             * Senkou High School uniform
-            * Jujutsu Kaisen
+          * Jujutsu Kaisen
             * Jujutsu Tech uniform
-            * Justice Gakuen
+          * Justice Gakuen
             * Gorin Koukou uniform
             * Pacific High School uniform
             * Seijyun Jogakuen uniform
             * Taiyou Gakuen uniform
-            * K-On!
+          * K-On!
             * Sakuragaoka High School uniform
-            * Kakegurui
+          * Kakegurui
             * Hyakkaou Academy Uniform
-            * Kaguya-sama wa Kokurasetai ~Tensai-tachi no Renai Zunousen~
+          * Kaguya-sama wa Kokurasetai ~Tensai-tachi no Renai Zunousen~
             * Shuuchiin Academy uniform
-            * Kamichama Karin
+          * Kamichama Karin
             * Seiei Sakuragaoka Academy uniform
-            * Kämpfer
+          * Kämpfer
             * Seitetsu Academy uniform
-            * Kangoku Senkan
+          * Kangoku Senkan
             * Universal Federation Army uniform
-            * Kannazuki no Miko
+          * Kannazuki no Miko
             * Ototachibana Academy uniform
-            * Kara no Kyoukai
+          * Kara no Kyoukai
             * Reien Girl's Academy school uniform
-            * Katawa Shoujo
+          * Katawa Shoujo
             * Yamaku High School Uniform
-            * Kaze no Stigma
+          * Kaze no Stigma
             * Seiryou Academy uniform
-            * Kenja no Mago
+          * Kenja no Mago
             * Advanced Magic Academy uniform
             * GOTT receptionist uniform (Kiddy Grade)
             * GTO receptionist uniform (Kiddy GiRL-AND)
-            * Kill la Kill
+          * Kill la Kill
             * Nudist Beach uniform
-            * Kimi Kiss
+          * Kimi Kiss
             * Kibina High School uniform
-            * Kingdom Hearts
+          * Kingdom Hearts
             * Black coat
-            * Komi-san wa Komyushou Desu
+          * Komi-san wa Komyushou Desu
             * Itan Private High School uniform
-            * Kore ga Watashi no Goshujin-sama
+          * Kore ga Watashi no Goshujin-sama
             * Nakabayashi Yoshitaka's maid uniform
-            * Koukaku no Regios
+          * Koukaku no Regios
             * Zuellni liberal arts uniform
             * Zuellni martial arts uniform
             * Zuellni police uniform
-            * Little Witch Academia
+          * Little Witch Academia
             * Luna Nova school uniform
-            * Log Horizon
+          * Log Horizon
             * Round Table Council uniform
-            * Love Live!
+          * Love Live!
             * Nijigasaki Academy uniform
             * Otonokizaka school uniform
             * Seisen school uniform
             * Uranohoshi school uniform
             * UTX school uniform
             * Yuigaoka school uniform
-            * Lyrical Nanoha
+          * Lyrical Nanoha
             * Eltria Girls High School uniform
             * Numbers' uniform
             * Private Kaisei Elementary School uniform
@@ -25956,17 +25956,17 @@
             * TSAB Ground military uniform
             * TSAB Naval military uniform
             * TSAB Rescue military uniform
-            * Luck & Logic
+          * Luck & Logic
             * ALCA uniform
-            * Lucky Star
+          * Lucky Star
             * Ryouou school uniform
-            * Maburaho
+          * Maburaho
             * Aoi Academy uniform
-            * Macross
+          * Macross
             * Mihoshi Academy uniform
-            * Mahou Sensei Negima!
+          * Mahou Sensei Negima!
             * Mahora Academy Middle School Uniform
-            * Mahou Shoujo Madoka Magica
+          * Mahou Shoujo Madoka Magica
             * Mitakihara school uniform
             * Kamihama University Affiliated School uniform
             * Mizuna Girls' Academy uniform
@@ -25978,35 +25978,35 @@
             * Daitou Academy uniform
             * St. Liliana's Academy uniform
             * Takarazaki school uniform
-            * Mahou Shoujo Site
+          * Mahou Shoujo Site
             * Mikata City Eighth District Middle School uniform
             * Takanoori Middle School uniform
-            * Mahouka Koukou no Rettousei
+          * Mahouka Koukou no Rettousei
             * First High School uniform
-            * Mairimashita! Iruma-kun
+          * Mairimashita! Iruma-kun
             * Babyls school uniform
-            * Maria-sama ga Miteru
+          * Maria-sama ga Miteru
             * Lillian Girls' Academy uniform
-            * Masou Gakuen HxH
+          * Masou Gakuen HxH
             * Ataraxia Academy uniform
-            * Mayoi Neko Overrun!
+          * Mayoi Neko Overrun!
             * Stray Cats uniform
             * Uminomori Private Academy uniform
-            * Meitantei Conan
+          * Meitantei Conan
             * Teitan High School uniform
-            * Mewkledreamy
+          * Mewkledreamy
             * Ichigo Junior High uniform
-            * Mikagura Gakuen Kumikyoku
+          * Mikagura Gakuen Kumikyoku
             * Mikagura Private Academy uniform
-            * Moetan
+          * Moetan
             * Moetan school uniform
-            * Monogatari series
+          * Monogatari series
             * Naoetsu High School uniform
             * Nanahyakuichi Middle School uniform
             * Tsuganoki Second Junior High School uniform
-            * Murenase! Shiiton Gakuen
+          * Murenase! Shiiton Gakuen
             * Shiiton Gakuen school uniform
-            * MuvLuv
+          * MuvLuv
             * Fortified suit
             * Fuuka Academy swimsuit (My-HiME)
             * Fuuka Academy uniform (My-HiME)
@@ -26015,26 +26015,26 @@
             * Hoshinomiya Fuuka Academy uniform (My-HiME DESTINY: Ryuu no Miko)
             * Lindem Baum uniform (My-HiME)
             * Meister Otome uniform (My-Otome)
-            * Nagi no Asukara
+          * Nagi no Asukara
             * Mihama Junior High School uniform
             * Nami Junior High School uniform
-            * Nanatsuiro Drops
+          * Nanatsuiro Drops
             * Pramu Cloris uniform
             * Saint Aspallas uniform
             * Seijou Academy uniform
-            * Naruto
+          * Naruto
             * Akatsuki uniform
-            * Nichijou
+          * Nichijou
             * Tokisadame school uniform
-            * Non Non Biyori
+          * Non Non Biyori
             * Asahigaoka school uniform
-            * Ore no Imouto ga Konna ni Kawaii Wake ga Nai
+          * Ore no Imouto ga Konna ni Kawaii Wake ga Nai
             * Kousaka Kirino's school uniform
-            * Ouran High School Host Club
+          * Ouran High School Host Club
             * Ouran High School uniform
-            * Pani Poni Dash!
+          * Pani Poni Dash!
             * Momotsuki Gakuen school uniform
-            * Persona
+          * Persona
             * Gekkoukan High School uniform (Persona 3)
             * Kasugayama High School uniform (Persona 2)
             * Kosei High School uniform (Persona 5)
@@ -26042,7 +26042,7 @@
             * Shuujin Academy uniform (Persona 5)
             * St. Hermelin school uniform (Persona 1)
             * Yasogami school uniform (Persona 4)
-            * Pokémon
+          * Pokémon
             * Aether Foundation uniform
             * Champion uniform
             * Vermilion city school uniform
@@ -26068,9 +26068,9 @@
             * Team Skull uniform
             * Ultra Guardians uniform
             * Ultra Recon Squad uniform
-            * Pop-up Story
+          * Pop-up Story
             * St. Feles Gakuen uniform
-            * Precure
+          * Precure
             * Aria Gakuen school uniform (Suite Precure)
             * Christian Private White Clover Academy school uniform (Fresh Precure!)
             * KIRAKIRA Patisserie uniform (KiraKira Precure A La Mode)
@@ -26091,28 +26091,28 @@
             * Verone Gakuin cheerleader uniform (Futari wa Precure
             * Verone Gakuin school uniform (Futari wa Precure)
             * Yuunagi Middle School uniform (Futari wa Precure Splash Star)
-            * PriPara
+          * PriPara
             * Private Paprika Academy uniform
-            * R.O.D the TV
+          * R.O.D the TV
             * Nishihama Middle School uniform
-            * Rakuen Tsuihou
+          * Rakuen Tsuihou
             * DEVA battle suit
             * DEVA System Security uniform
-            * Ranma 1/2
+          * Ranma 1/2
             * Fuurinkan High School uniform
-            * Rewrite
+          * Rewrite
             * Kazamatsuri Institute High School uniform
-            * Re:Zero kara Hajimeru Isekai Seikatsu
+          * Re:Zero kara Hajimeru Isekai Seikatsu
             * Roswaal Mansion maid uniform
-            * Rinne no Lagrange
+          * Rinne no Lagrange
             * Be With Hiroshi uniform
             * Kamogawa Girls' High School swimsuit
             * Kamogawa Girls' High School uniform
             * Mall Link Suit
             * Novumundos uniform
-            * Rokudenashi Majutsu Koushi to Akashic Record
+          * Rokudenashi Majutsu Koushi to Akashic Record
             * Alzano school uniform
-            * Saki
+          * Saki
             * Achiga school uniform
             * Adamine Middle School uniform
             * Bansei school uniform
@@ -26129,156 +26129,156 @@
             * Takatoobara school uniform
             * Tsuruga school uniform
             * Usuzan school uniform
-            * Seiken Tsukai no World Break
+          * Seiken Tsukai no World Break
             * Akane Academy uniform
-            * Seirei Tsukai no Blade Dance
+          * Seirei Tsukai no Blade Dance
             * Areishia Spirit Academy uniform
-            * Senki Zesshou Symphogear
+          * Senki Zesshou Symphogear
             * Lydian Academy swimsuit
             * Lydian Academy uniform
             * S.O.N.G. uniform
-            * Shingeki no Kyojin
+          * Shingeki no Kyojin
             * Marley Military uniform
             * Paradis Military uniform
-            * Shokugeki no Souma
+          * Shokugeki no Souma
             * Tootsuki Saryou Ryouri Gakuen uniform
-            * Shoujo Kageki Revue Starlight
+          * Shoujo Kageki Revue Starlight
             * Rinmeikan Girls School uniform (Re LIVE)
             * Seishou Music Academy uniform
-            * Shoujo Kakumei Utena
+          * Shoujo Kakumei Utena
             * Ootori Gakuen school uniform
-            * Shugo Chara!
+          * Shugo Chara!
             * Seiyo Academy uniform
-            * Sky Girls
+          * Sky Girls
             * Motion Slit
-            * Space Dandy
+          * Space Dandy
             * Boobies uniform
-            * SPY X FAMILY
+          * SPY X FAMILY
             * Eden Academy uniform
-            * Sono Hanabira ni Kuchizuke wo
+          * Sono Hanabira ni Kuchizuke wo
             * St. Michael's school uniform
-            * Soul Link
+          * Soul Link
             * Central Military Academy uniform
-            * Sora no Woto
+          * Sora no Woto
             * Helvetian military uniform
-            * Sora wo Kakeru Shoujo
+          * Sora wo Kakeru Shoujo
             * Surre Academy uniform
-            * Star Driver
+          * Star Driver
             * Southern Cross Academy uniform
-            * Stratos 4
+          * Stratos 4
             * Comet Blasters uniform
             * Meteor Sweepers uniform
-            * Strike the Blood
+          * Strike the Blood
             * Saikai Academy uniform
-            * Super Sentai
+          * Super Sentai
             * GSPO uniform (Kaitou Sentai Lupinranger VS. Keisatsu Sentai Patranger)
             * S.P.D. uniform (Tokusou Sentai Dekaranger)
-            * Suzumiya Haruhi no Yuuutsu
+          * Suzumiya Haruhi no Yuuutsu
             * Kita High School Uniform
             * Kouyouen Academy School Uniform
-            * Sword Art Online
+          * Sword Art Online
             * Sword Mastery Academy uniform
             * Sakugawa school uniform
             * Tokiwadai school uniform
-            * Toji no Miko
+          * Toji no Miko
             * Heijou Institute school uniform
             * Minoseki Gakuin uniform
             * Osafune Girls Academy uniform
             * Renpu Girls school uniform
-            * Tokimeki Memorial
+          * Tokimeki Memorial
             * Hibikino High School uniform (Tokimeki Memorial 2)
             * Kirameki High School uniform (Tokimeki Memorial 1)
-            * Tokyo Mew Mew
+          * Tokyo Mew Mew
             * Café Mew Mew uniform
-            * Tokurei Sochi Dantai Stella Jogakuin C3 bu
+          * Tokurei Sochi Dantai Stella Jogakuin C3 bu
             * Stella Women's Academy uniform
-            * To Love-Ru
+          * To Love-Ru
             * Sainan High School Uniform
             * Sainan First Elementary School Uniform
-            * Toradora!
+          * Toradora!
             * Oohashi High School uniform
-            * Twisted Wonderland
+          * Twisted Wonderland
             * Night Raven College uniform
-            * Ultra Series
+          * Ultra Series
             * Science Special Search Party uniform (Ultraman)
-            * Umamusume
+          * Umamusume
             * Starting future
             * Glorious azure costume
             * Tracen School uniform
             * Tracen swimsuit
             * Tracen track uniform
-            * Usagi-chan de Cue!!
+          * Usagi-chan de Cue!!
             * Banzai Academy uniform
-            * Vampire Knight
+          * Vampire Knight
             * Cross Academy uniform
-            * Vividred Operation
+          * Vividred Operation
             * National Shin Ooshima School uniform
             * Ooshima Kitanoyama Elementary and Middle School uniform
             * Palette Suit
-            * Working!!
+          * Working!!
             * Wagnaria uniform
-            * Xenosaga
+          * Xenosaga
             * Vector Industries uniform
-            * Yahari Ore no Seishun LoveCome wa Machigatteiru.
+          * Yahari Ore no Seishun LoveCome wa Machigatteiru.
             * Sobu High School uniform
-            * Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+          * Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
             * Advanced Nurturing High School Uniform
-            * Yuri Kuma Arashi
+          * Yuri Kuma Arashi
             * Arashigaoka Academy uniform
-            * Yuru Yuri
+          * Yuru Yuri
             * Nanamori school uniform
-            * Yu-Gi-Oh!
+          * Yu-Gi-Oh!
             * Domino High School uniform (Yu-Gi-Oh! Duel Monsters)
             * Duel Academy Uniform (Yu-Gi-Oh! GX)
             * Duel Academy Uniform (Yu-Gi-Oh! 5D's)
-            * Yuusha de Aru
+          * Yuusha de Aru
             * Sanshuu Middle School swimsuit
             * Sanshuu Middle School uniform
             * Shinju-kan gym uniform
             * Shinju-kan uniform
-            * Yuyushiki
+          * Yuyushiki
             * Yuyushiki's school uniform
-            * Zegapain
+          * Zegapain
             * Maihama Minami High School uniform
-            * Zettai Karen Children
+          * Zettai Karen Children
             * B.A.B.E.L. uniform
-          * Original Uniforms
+        * Original Uniforms
             * Milkhall MOO uniform
-          * See also
+        * See also
             * Tag group:Attire
-      * List of Pokemon media
-          * Games
+    * List of Pokemon media
+        * Games
           * Main series
           * Spin-offs
           * Fan games
-          * Anime
+        * Anime
           * Anime movies
-          * Miniseries
+        * Miniseries
             * Pokémon Evolutions
             * Pokémon Generations
             * Pokémon Origins
             * Pokémon: Hisuian Snow
             * Pokémon: Twilight Wings
             * Pokétoon
-          * Music videos
+        * Music videos
             * Gotcha!
             * PiPiPiPi Pikachu
         * Live-action movies
         * Manga
-          * Other
+        * Other
             * Pokémon Apokelypse
             * Pokémon Expo Gym
             * Pokémon Lost Silver
             * Pokémon Wonder
-      * List of tagged songs
+    * List of tagged songs
         * List of tagged songs
         * DeeMo
-          * Granblue Fantasy
+        * Granblue Fantasy
             * The Dragon Knights
             * Kimi to Boku no Mirai
             * Sanbagarasu Otoko Uta
             * Sora no Michishirube
-          * Hololive
+        * Hololive
             * CapSule
             * Heart Challenger
             * High Tide
@@ -26288,7 +26288,7 @@
             * Reflect
             * Shiny Smily Story
             * Violet
-          * iDOLM@STER
+        * iDOLM@STER
             * Aisle
             * Crazy Crazy
             * Dekitate Evo! Revo! Generation!
@@ -26317,7 +26317,7 @@
             * Sun Flower
             * Tulip
             * Venus Syndrome
-          * K-ON!
+        * K-ON!
             * Cagayake! Girls
             * Don't say "Lazy"
             * FuwaFuwa Time
@@ -26327,7 +26327,7 @@
             * NO, Thank You!
             * Singing!
             * Utauyo!! MIRACLE
-          * Love Live! School Idol Project
+        * Love Live! School Idol Project
             * Angelic Angel
             * Bokura no LIVE Kimi to no LIFE
             * Bokura wa Ima no Naka De
@@ -26369,7 +26369,7 @@
             * Mermaid festa vol.2 ~Passionate~
             * Otome Shiki Ren'ai Juku
             * Soldier game
-          * Love Live! Sunshine!!
+        * Love Live! Sunshine!!
             * Aozora Jumping Heart
             * Daisuki Dattara Daijoubu!
             * HAPPY PARTY TRAIN
@@ -26387,7 +26387,7 @@
             * Genki Zenkai DAY! DAY! DAY!
             * Kinmirai Happy End
             * Strawberry Trapper
-          * Love Live! Nijigasaki High School Idol Club
+        * Love Live! Nijigasaki High School Idol Club
             * Dream Land! Dream World!
             * Just Believe!!!
             * Love U my friends
@@ -26396,19 +26396,19 @@
             * Sing & Smile!!
             * SUPER NOVA
             * TOKIMEKI Runners
-          * Minna no Uta
+        * Minna no Uta
             * Aka oni to Ao oni no Tango 
             * Computer Obaachan
             * Metropolitan Museum
             * Tsuki no Waltz
-          * Touhou
+        * Touhou
             * Bad Apple!!
             * Marisa Stole the Precious Thing
             * Oyome ni Shinasai
             * Tsurupettan 
         * VOCALOID
         * Anime songs, song parodies
-          * Misc. Songs
+        * Misc. Songs
             * Air Man ga Taosenai
             * Airplanes (B.o.B.)
             * Ameno (Dorime)
@@ -26502,10 +26502,10 @@
             * Yoshiwara Lament (UTAU)
             * Yuki no Shingun
             * 2D or not 2D (P-MODEL)
-          * See also
+        * See also
             * List of Meta-wikis
-      * List of Vocaloid derivatives
-      * List of Vocaloid songs
+    * List of Vocaloid derivatives
+    * List of Vocaloid songs
             * Akujiki Musume Conchita
             * Alice in Musicland
             * Anjou Shojun
@@ -27521,8 +27521,8 @@
             * Menhera Janai Mon!
             * Positive Dance Time
             * Angel
-      * List of vocal synthesizers
-          * Singing Voice Synthesizers (Lyric Input)
+    * List of vocal synthesizers
+        * Singing Voice Synthesizers (Lyric Input)
             * Alter/Ego
             * MUTA
             * NEUTRINO_(Software)
@@ -27531,19 +27531,19 @@
             * UTAU
             * VOCALINA
             * VOCALOID
-          * Singing Voice Synthesizers (Samples Instrument)
+        * Singing Voice Synthesizers (Samples Instrument)
             * MAIDLOID
             * Macne Series (aka. MACLOID)
-          * Mixed Voice Synthesizers (Singing + TTS)
+        * Mixed Voice Synthesizers (Singing + TTS)
             * CeVIO
-          * Related Text-to-speech Synthesizers
+        * Related Text-to-speech Synthesizers
             * A.I. VOICE
             * Gynoid Talk
             * TalkEx
             * VOICEROID
             * VOICEVOX
-      * List of DeeMo songs
-          * I. Deemo's collection Vol. 1A
+    * List of DeeMo songs
+        * I. Deemo's collection Vol. 1A
             * Dream
             * Reflection (Mirror Night)
             * Wings Of Piano
@@ -27556,7 +27556,7 @@
             * I Hate To Tell You
             * Saika
             * Yubikiri Genman
-          * II. Deemo's collection Vol. 1B
+        * II. Deemo's collection Vol. 1B
             * Evolution Era
             * Invite
             * Run Go Run
@@ -27571,43 +27571,43 @@
             * Magnolia
             * Angelic Sphere
             * Leviathan
-          * III. Deemo's Collection Vol.2
+        * III. Deemo's Collection Vol.2
             * Sunset
             * Sakura Iro No Yume
             * La Promesse
             * Myosotis
-          * IV. Shattered Memories
+        * IV. Shattered Memories
             * H
-          * VIII. Rayark selection Vol. 1
+        * VIII. Rayark selection Vol. 1
             * Metal Hypnotized
             * Peach Lady
             * Hey Boy
             * Pilot
-          * IX. Rayark selection Vol. 2
+        * IX. Rayark selection Vol. 2
             * Friction
             * I Race The Dawn
             * Moon Without The Stars
             * Sanctity
             * Hua Sui Yue
-          * X. Mili collection
+        * X. Mili collection
             * Fable
             * Rosetta
             * Witch'S Invitation
-          * XIV. Rayark selection Vol. 3
+        * XIV. Rayark selection Vol. 3
             * The Truth That You Leave
             * Veritas
-          * XV. Cytus selection Vol. 1
+        * XV. Cytus selection Vol. 1
             * Libera Me
             * Precipitation
             * The Black Case
-          * XVI. Cytus selection Vol. 2
+        * XVI. Cytus selection Vol. 2
             * Future World
             * Niflheimr
             * Parousia
-      * List of Zaku II variants
-  * Metatags
-      * tag group:metatags
-          * Request
+    * List of Zaku II variants
+* Metatags
+    * tag group:metatags
+        * Request
             * tagme
             * translation request
               * check translation
@@ -27627,7 +27627,7 @@
               * check weapon
             * *_request
               * check_*
-          * Info
+        * Info
             * alternate language
             * translated
               * hard translated
@@ -27653,7 +27653,7 @@
               * psd available
               * pdf available
               * zip available
-          * Drawing Software
+        * Drawing Software
             * artweaver (medium)
             * azpainter (medium)
             * clip studio paint (medium)
@@ -27668,7 +27668,7 @@
             * painttool sai (medium)
             * photoshop (medium)
             * procreate (medium)
-          * Source
+        * Source
             * bad id
               * bad_*_id
             * bad link
@@ -27686,7 +27686,7 @@
               * source smaller
               * source larger
             * video crop
-          * Image Sample
+        * Image Sample
             * image sample
               * pixiv sample
               * twitter sample
@@ -27698,7 +27698,7 @@
               * drawcrowd sample
               * yandere sample
               * *_sample
-          * Modification
+        * Modification
             * cleaned
             * cropped
             * colorized
@@ -27740,7 +27740,7 @@
             * flash conversion
             * vector trace
             * extraction
-          * File
+        * File
             * lowres
             * highres
             * absurdres
@@ -27803,7 +27803,7 @@
             * missing thumbnail
             * solid color thumbnail
             * epilepsy warning
-          * Provenance
+        * Provenance
             * md5 mismatch
             * ai-generated
               * ai-assisted
@@ -27854,11 +27854,11 @@
             * self upload
             * revision
         * Autotags
-      * tag group:Drawing Software
-      * Pool Groups
-      * List of Meta-Wikis
-          * Tags
-            * Lists
+    * tag group:Drawing Software
+    * Pool Groups
+    * List of Meta-Wikis
+        * Tags
+          * Lists
             * List of .flow characters
             * List of Ace Attorney characters
             * List of Arknights characters
@@ -27992,7 +27992,7 @@
             * List of commonly misused tags
             * List of disambiguation pages
             * List of meta-wikis
-            * Tag groups
+          * Tag groups
             * Tag groups
             * Tag group:artistic license
             * Tag group:ass
@@ -28072,8 +28072,8 @@
             * Tag group:water
             * Tag group:wings
             * Tag group:year tags
-          * Pools
-            * Pool groups
+        * Pools
+          * Pool groups
             * Pool groups
             * Pool group:body
             * Pool group:educational
@@ -28085,17 +28085,17 @@
             * Pool group:style
             * Pool group:text
             * Pool group:Touhou
-          * Informational
-            * About
+        * Informational
+          * About
             * About:disclaimer
             * About:mod queue
             * About:note formatting
             * About:upload limits
             * About:userscripts
-            * Disclaimer
+          * Disclaimer
             * Disclaimer:English
             * Disclaimer:Japanese
-            * Help
+          * Help
             * Help:api
             * Help:appeal notice
             * Help:artist commentary
@@ -28139,7 +28139,7 @@
             * Help:user settings
             * Help:users
             * Help:wiki
-            * Howto
+          * Howto
             * Howto:appeal
             * Howto:artist
             * Howto:artstation

@@ -99,7 +99,7 @@ def md():
                     r += pr(item, ll + 2)
             else:
                 if item and not item.startswith('https://'):
-                    r += f"{' ' * (ll + 2)}* {item}\n"
+                    r += f"{' ' * ll}* {item}\n"
         return r
 
     with open('e.json', 'r', encoding='utf-8') as f:
